@@ -202,6 +202,31 @@
       },
       "address": "State Municipal Corporation",
       "contactNumber": "0978-7645345"
-    }
+    },
+	{
+    "code": "pg.citys",
+    "name": "city S",
+    "description": "description",
+    "logoId": "logoId",
+    "imageId": "imageId",
+    "domainUrl": "domainUrl",
+    "contactNumber": "001-234587677777",
+    "helpLineNumber": "0654-87345677777",
+    "address": "City S Municipal Corporation",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "citys@gmail.com",
+    "type": "CITY",
+    "city": {
+        "name": "name",
+        "localName": "localname",
+        "ulbGrade": "MunicipalCorporation",
+        "districtCode": "ABC",
+        "districtName": "districtname",
+        "regionName": "regionname",
+        "longitude": 35.456,
+        "latitude": 75.443
+			}
+	}
    ]
 }
