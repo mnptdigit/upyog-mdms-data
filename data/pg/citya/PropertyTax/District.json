@@ -1,0 +1,28 @@
+{
+    "tenantId": "pg.citya",
+    "moduleName": "PropertyTax",
+    "District":
+    [
+      {
+        "name": "Imphal East",
+        "code": "IMPHAL",
+        "active": true
+      },
+      {
+        "name": "Imphal West",
+        "code": "SELFOCCUPIED",
+        "active": true
+      },
+      {
+        "name": "Bishnupur",
+        "code": "UNOCCUPIED",
+        "active": true
+      },
+      {
+        "name": "Jiribam",
+        "code": "UNOCCUPIED",
+        "active": true
+      }
+    ]
+  }
+  

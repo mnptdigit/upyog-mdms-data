@@ -1,0 +1,33 @@
+{
+    "tenantId": "pg",
+    "moduleName": "PropertyTax",
+    "AgeOfProperty":
+    [
+      {
+        "name": "Less than 10 years",
+        "code": "LESS_10",
+        "active": true
+      },
+      {
+        "name": "Between 10 and 25 years",
+        "code": "BETWEEN_10_25",
+        "active": true
+      },
+      {
+        "name": "Between 25 and 50 years",
+        "code": "BETWEEN_25_50",
+        "active": true
+      },
+      {
+        "name": "More than 50 years",
+        "code": "MORE_50",
+        "active": true
+      },
+      {
+        "name": "Declared Heritage Property by any authority like Government of India, Government of Manipur, or by organizations like the UNESCO",
+        "code": "HERITAGE_PROPERTY",
+        "active": true
+      }
+    ]
+  }
+  
