@@ -1,0 +1,1260 @@
+{
+  "tenantId": "mn.imphal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Imphal",
+        "localname": "Imphal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "mn.imphal",
+        "children": [
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 1,
+            "name": "ZONE_WEST",
+            "localname": "ZONE_WEST",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "JZN1",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_24",
+                "localname": "WARD_24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD24",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "kakhulong",
+                    "localname": "kakhulong",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHA001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_A",
+                    "children": []
+                  },
+                  {
+                    "id": "6e296d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Paona Bazar",
+                    "localname": "Paona Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHA002",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_A",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Raj Bhavan",
+                    "localname": "Paona Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHA003",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_25",
+                "localname": "WARD_25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD25",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangal Bazar",
+                    "localname": "Thangal Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHA004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_A",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Major khul",
+                    "localname": "Major khul",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHA005",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_24",
+                "localname": "WARD_24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD24",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Jail Compound",
+                    "localname": "Jail Compound",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHB001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_B",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Old Lambulane",
+                    "localname": "Old Lambulane",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHB001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_B",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Bapupara",
+                    "localname": "Bapupara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHB001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_B",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Sanjenthong Officers Colony",
+                    "localname": "Sanjenthong Officers Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHB001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_B",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Electricity Colony",
+                    "localname": "Electricity Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHB001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_B",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "First Battalion Manipur Rifles",
+                    "localname": "First Battalion Manipur Rifles",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHB001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_B",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_26",
+                "localname": "WARD_26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD26",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Second Battalion Manipur Rifles",
+                    "localname": "Second Battalion Manipur Rifles",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHB001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_B",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_23",
+                "localname": "WARD_23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD23",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Khurai Thangjam Leikai",
+                    "localname": "Khurai Thangjam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Khurai Ahongei Leikai",
+                    "localname": "Khurai Ahongei Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Khurai Thoudam Leikai",
+                    "localname": "Khurai Thoudam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Khurai Tellipati",
+                    "localname": "Khurai Tellipati",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_25",
+                "localname": "WARD_25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD25",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "D.M College Compound",
+                    "localname": "D.M College Compound",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_26",
+                "localname": "WARD_26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD26",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Zomi Villa",
+                    "localname": "Zomi villa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Canan Villa",
+                    "localname": "Canan villa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Kekru Villa",
+                    "localname": "Kekru villa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Ragailong",
+                    "localname": "Ragailong",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Namdunlong",
+                    "localname": "Namdunlong",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Deulahland",
+                    "localname": "Deulahland",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Gaipuinam",
+                    "localname": "Gaipuinam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Khuman Lampak Sports Complex",
+                    "localname": "Khuman Lampak Sports Complex",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Chingmeirong East",
+                    "localname": "Chingmeirong East",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHC001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_C",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Sinam Leikai",
+                    "localname": "Thangmeiband Sinam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Yumnam Leikai",
+                    "localname": "Thangmeiband Yumnam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Lairenhanjaba Leikai",
+                    "localname": "Thangmeiband Lairenhanjaba Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Meisnam Leikai",
+                    "localname": "Meisnam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Hijam Leikai",
+                    "localname": "Thangmeiband Hijam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Dimdaijang",
+                    "localname": "Thangmeiband Dimdaijang",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Koireng Khul",
+                    "localname": "Thangmeiband Koireng Khul",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Muchikhul/Namthalong",
+                    "localname": "Muchikhul/Namthalong",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Kabrambam Leikai",
+                    "localname": "Thangmeiband Kabrambam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Polem Leikai",
+                    "localname": "Thangmeiband Polem Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Khondram Selungba Leikai",
+                    "localname": "Thangmeiband Khondram Selungba Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Lourengpurel Leikai",
+                    "localname": "Thangmeiband Lourengpurel Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Hijam Dewan Leikai",
+                    "localname": "Thangmeiband Hijam Dewan Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Hijam Leikai",
+                    "localname": "Thangmeiband Hijam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Koireng Khul",
+                    "localname": "Thangmeiband Koireng Khul",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD001",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Lalambung Ningthoujam Leikai",
+                    "localname": "Lalambung Ningthoujam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Lalambung Makhong Naosekpam Leikai",
+                    "localname": "Lalambung Makhong Naosekpam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Lalambung Makhong Khoirom Leikai",
+                    "localname": "Lalambung Makhong Khoirom Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Lalambung Makhong Takhellambam Leikai",
+                    "localname": "Lalambung Makhong Takhellambam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Nagamapal phougeisangbam Leikai",
+                    "localname": "Nagamapal phougeisangbam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Nagamapal Soram Leirak",
+                    "localname": "Nagamapal Soram Leirak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Nagamapal Kangjabi Leirak",
+                    "localname": "Nagamapal Kangjabi Leirak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Thingel Leikai",
+                    "localname": "Thangmeiband Thingel Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Polem Leikai",
+                    "localname": "Thangmeiband Polem Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Thangmeiband Meinam Leikai",
+                    "localname": "Thangmeiband Meinam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Lamabam Leikai",
+                    "localname": "Lamabam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Nagamapal Paonam Leikai",
+                    "localname": "Nagamapal Paonam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Lalambung Singjubung Leirak",
+                    "localname": "Lalambung Singjubung Leirak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Khwaibrahmapur",
+                    "localname": "Khwaibrahmapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "RIMS Nityainanda Leirak",
+                    "localname": "RIMS Nityainanda Leirak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Tourangbam Leikai",
+                    "localname": "Uripok Tourangbam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Haobam Dewan Leikai",
+                    "localname": "Uripok Haobam Dewan Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Sorbon Thingel Haorungbam Leikai",
+                    "localname": "Sorbon Thingel Haorungbam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Sorbon Thingel Kabrambam Leikai",
+                    "localname": "Sorbon Thingel Kabrambam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Lalambung Makhong Laishram Kollup",
+                    "localname": "Lalambung Makhong Laishram Kollup",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Sorbon Thingel Leirak",
+                    "localname": "Sorbon Thingel Leirak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Bachaspati Leikai",
+                    "localname": "Uripok Bachaspati Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Bachaspati Maning Leikai",
+                    "localname": "Uripok Bachaspati Maning Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Bachaspati Mamang Leikai",
+                    "localname": "Uripok Bachaspati Mamang Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Yambem Leikai",
+                    "localname": "Uripok Yambem Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Haobam Dewan Leikai",
+                    "localname": "Uripok Haobam Dewan Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Mayai Leikai",
+                    "localname": "Uripok Mayai Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Khumanthem Leikai",
+                    "localname": "Uripok Khumanthem Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Takhellambam Leikai",
+                    "localname": "Uripok Takhellambam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Sorbon Thingel Maning Leikai",
+                    "localname": "Uripok Sorbon Thingel Maning Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Uripok Sinam Leikai",
+                    "localname": "Uripok Sinam Leikai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "IMPHD004",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "AREA_D",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

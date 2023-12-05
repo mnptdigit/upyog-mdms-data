@@ -1,0 +1,10 @@
+{
+  "tenantId": "mn",
+  "moduleName": "ws-services-masters",
+  "PropertySearch": [
+    {
+      "code": "allowCitizenToUseAnyProperty",
+      "enabled": true
+    }
+  ]
+}

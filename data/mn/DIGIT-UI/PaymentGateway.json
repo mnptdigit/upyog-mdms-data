@@ -1,0 +1,10 @@
+{
+    "tenantId": "mn",
+    "moduleName": "DIGIT-UI",
+    "PaymentGateway": [
+        {
+            "gateway": "PAYGOV",
+            "active": true
+        }
+    ]
+}
