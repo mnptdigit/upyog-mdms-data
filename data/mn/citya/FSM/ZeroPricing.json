@@ -1,9 +1,0 @@
-{
-    "tenantId": "mn.imphal",
-    "moduleName": "FSM",
-    "zeroPricing": [
-        {
-            "zeroPricingStatus": true
-        }
-    ]
-}

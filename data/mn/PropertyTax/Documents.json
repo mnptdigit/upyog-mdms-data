@@ -34,14 +34,7 @@
           "code": "OWNER.ADDRESSPROOF.ELECTRICITYBILL",
           "active": true
         },
-        {
-          "code": "OWNER.ADDRESSPROOF.WATERBILL",
-          "active": true
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.GASBILL",
-          "active": true
-        },
+        
         {
           "code": "OWNER.ADDRESSPROOF.AADHAAR",
           "active": false
@@ -328,49 +321,7 @@
       ],
       "description": "OWNER.USAGEPROOF.USAGEPROOF_DESCRIPTION"
     },
-    {
-      "code": "OWNER.CONSTRUCTIONPROOF",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "digit-citizen":true,
-      "hasDropdown": true,
-      "additionalDetails": {
-        "filterCondition": {
-          "filterValue": [
-            "VACANT"
-          ],
-          "jsonPath": "Properties[0].propertyDetails[0].propertyType",
-          "formDataPath":["propertyType","code"],
-          "onArray": false
-        },
-        "enabledActions": {
-          "assess": {
-            "disableUpload": true,
-            "disableDropdown": true
-          },
-          "reassess": {
-            "disableUpload": true,
-            "disableDropdown": true
-          },
-          "update": {
-            "disableUpload": false,
-            "disableDropdown": false
-          },
-          "create": {
-            "disableUpload": false,
-            "disableDropdown": false
-          }
-        }
-      },
-      "dropdownData": [
-        {
-          "code": "OWNER.CONSTRUCTIONPROOF.BPACERTIFICATE",
-          "active": true
-        }
-      ],
-      "description": "OWNER.CONSTRUCTIONPROOF.CONSTRUCTIONPROOF_DESCRIPTION"
-    },
+    
     {
       "code": "OWNER.OCCUPANCYPROOF",
       "documentType": "OWNER",

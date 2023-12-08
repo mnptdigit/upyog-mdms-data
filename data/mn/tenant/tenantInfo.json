@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "mn.imphal",
+      "code": "pg.citya",
       "districtCode": "CITYA",
       "population": "156716",
       "malePopulation": "82045",

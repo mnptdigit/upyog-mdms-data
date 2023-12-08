@@ -1,16 +1,16 @@
 {
-	"tenantId": "mn.imphal",
+	"tenantId": "mn",
 	"moduleName": "BillingService",
 	"GLCode": [
 	{
 		"code": "BIRTH_CERT",
 		"glcode": null,
-		"cb": "mn.imphal"
+		"cb": "pg.citya"
 	},
 	{
 		"code": "DEATH_CERT",
 		"glcode": null,
-		"cb": "mn.imphal"
+		"cb": "pg.citya"
 	}
 	]
 }
