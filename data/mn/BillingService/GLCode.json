@@ -5,12 +5,12 @@
 	{
 		"code": "BIRTH_CERT",
 		"glcode": null,
-		"cb": "pg.citya"
+		"cb": "mn.imphal"
 	},
 	{
 		"code": "DEATH_CERT",
 		"glcode": null,
-		"cb": "pg.citya"
+		"cb": "mn.imphal"
 	}
 	]
 }

@@ -2,7 +2,7 @@
   "tenantId": "mn",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pg.citya",
+      "code": "mn.imphal",
       "name": "Imphal",
       "description": "Imphal",
       "pincode": [143001,143002,143003,143004,143005],

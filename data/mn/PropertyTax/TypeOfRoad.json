@@ -1,0 +1,28 @@
+{
+    "tenantId": "mn",
+    "moduleName": "PropertyTax",
+    "TypeOfRoad":
+    [
+      {
+        "name": "National Highway with Right of Way is 25-45 meters or State Highways with Right of Way is 15-30 meters",
+        "code": "NATIONAL_HIGHWAY",
+        "active": true
+      },
+      {
+        "name": "Major District Roads (MDR) would include roads with Right of Way is 7-15 meters",
+        "code": "MAJOR_DIST_ROAD",
+        "active": true
+      },
+      {
+        "name": "Other District Roads (ODR) would include all other roads not listed above with Right of Way is 4 - 12 meters",
+        "code": "OTHER_DIST_ROAD",
+        "active": true
+      },
+      {
+        "name": "Any roads other than above would include village roads, having Right of Way less than 4 meters",
+        "code": "OTHER_ROAD",
+        "active": true
+      }
+    ]
+  }
+  
