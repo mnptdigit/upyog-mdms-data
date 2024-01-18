@@ -34,6 +34,39 @@
       "address": "Imphal Municipal Corporation",
       "contactNumber": "001-2345876"
     },
+    {
+      "code": "mn.lamlai",
+      "name": "Lamlai",
+      "description": "Lamlai",
+      "pincode": [143001,143002,143003,143004,143005],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog-test.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "citya@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Lamlai",
+        "localName": null,
+        "districtCode": "lamlai",
+        "districtName": null,
+        "districtTenantCode": "mn.lamlai",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "10",
+        "ddrName": "DDR A"
+      },
+      "address": "Lamlai Municipal Corporation",
+      "contactNumber": "001-2345876"
+    },
 	{
       "code": "mn",
       "name": "State",
