@@ -64,6 +64,16 @@
       "category": "TAX",
       "service": "PT",
       "name": "propertytax",
+      "code": "PT_ROAD_TYPE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "propertytax",
       "code": "PT_TAX",
       "isDebit": false,
       "isActualDemand": true,
