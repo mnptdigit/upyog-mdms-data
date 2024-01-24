@@ -1,0 +1,25 @@
+{
+  "tenantId": "mn.imphal",
+  "moduleName": "PropertyTax",
+  "StructureTypeRates": [
+    {
+      "name": "Freedom Fighter",
+      "code": "BUILTUP_16_ABOVE",
+      "active": true,
+      "fromFY": "2015-16",
+      "value": {
+        "rate": 1
+      }
+    },
+    {
+      "name": "Freedom Fighter",
+      "code": "BUILTUP_9_UPTO_16",
+      "active": true,
+      "fromFY": "2015-16",
+      "value": {
+        "rate": 1
+        
+      }
+    }
+  ]
+}

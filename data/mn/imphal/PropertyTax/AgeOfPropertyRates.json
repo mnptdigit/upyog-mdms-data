@@ -1,0 +1,46 @@
+{
+  "tenantId": "mn.imphal",
+  "moduleName": "PropertyTax",
+  "AgeOfPropertyRates": [
+    {
+      "name": "VACANT",
+      "code": "VACANT",
+      "active": true,
+      "fromFY": "2023-24",
+      "value":{
+         "rate": 1
+      }
+     
+    },
+    {
+      "name": "National Highway with Right of Way is 25-45 meters or State Highways with Right of Way is 15-30 meters",
+      "code": "BUILTUP_BETWEEN_10_25",
+      "active": true,
+      "fromFY": "2023-24",
+      "value":{
+         "rate": 1
+      }
+
+    },
+    {
+      "name": "National Highway with Right of Way is 25-45 meters or State Highways with Right of Way is 15-30 meters",
+      "code": "BUILTUP_BETWEEN_25_50",
+      "active": true,
+      "fromFY": "2023-24",
+      "value":{
+         "rate": 1
+      }
+      
+    },
+    {
+      "name": "National Highway with Right of Way is 25-45 meters or State Highways with Right of Way is 15-30 meters",
+      "code": "BUILTUP_LESS_10",
+      "active": true,
+      "fromFY": "2023-24",
+      "value":{
+         "rate": 1
+      }
+      
+    }
+  ]
+}
