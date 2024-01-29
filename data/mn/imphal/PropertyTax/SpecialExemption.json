@@ -68,7 +68,7 @@
         "flatAmount": null
       }
     },
-	{
+    {
       "name": "Building and land used for Schools, Colleges and Universities owned or aided by the State Government",
       "code": "EXEMPTION_G",
       "active": true,
@@ -79,7 +79,7 @@
         "flatAmount": null
       }
     },
-	{
+    {
       "name": "Land used for agricultural or horticultural purposes",
       "code": "EXEMPTION_H",
       "active": true,
@@ -90,8 +90,8 @@
         "flatAmount": null
       }
     },
-	{
-      "name": "Old age home, home for disabled, home for orphans and homes for destitute"
+    {
+      "name": "Old age home, home for disabled, home for orphans and homes for destitute",
       "code": "EXEMPTION_I",
       "active": true,
       "fromFY": "2015-16",
@@ -101,7 +101,7 @@
         "flatAmount": null
       }
     },
-	{
+    {
       "name": "Ancient monuments not used as residential quarters or as public offices",
       "code": "EXEMPTION_J",
       "active": true,
@@ -112,7 +112,7 @@
         "flatAmount": null
       }
     },
-	{
+    {
       "name": "Land and structures used for irrigation work vested with the Government",
       "code": "EXEMPTION_K",
       "active": true,
@@ -123,7 +123,7 @@
         "flatAmount": null
       }
     },
-	{
+    {
       "name": "Land and building used as public shed/public hall/community hall",
       "code": "EXEMPTION_L",
       "active": true,
@@ -134,7 +134,7 @@
         "flatAmount": null
       }
     },
-	{
+    {
       "name": "Land and building used as public playgrounds, grazing grounds, polo grounds and sport complexes owned by communities/organisations/Government except portions/areas of such properties utilized for commercial purposes",
       "code": "EXEMPTION_M",
       "active": true,
@@ -145,7 +145,7 @@
         "flatAmount": null
       }
     },
-	{
+    {
       "name": "Dwelling units of widows/war disables of active service personnel of State or Central Government such as State Police, CAPF, Defence Services etc.",
       "code": "EXEMPTION_N",
       "active": true,
@@ -156,8 +156,8 @@
         "flatAmount": null
       }
     },
-	{
-      "name": "Latrine/Urinal constructed separately from the residential building"
+    {
+      "name": "Latrine/Urinal constructed separately from the residential building",
       "code": "EXEMPTION_O",
       "active": true,
       "fromFY": "2015-16",
@@ -167,7 +167,7 @@
         "flatAmount": null
       }
     },
-	{
+    {
       "name": "Additional structure for outhouse (sangoi), garage etc. unless used for commercial purpose",
       "code": "EXEMPTION_P",
       "active": true,
@@ -178,7 +178,7 @@
         "flatAmount": null
       }
     },
-	{
+    {
       "name": "Vacant land having no structure and land appurtenant to any building under the Municipality",
       "code": "EXEMPTION_Q",
       "active": true,
