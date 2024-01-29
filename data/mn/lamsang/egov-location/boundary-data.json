@@ -1,0 +1,106 @@
+{
+    "tenantId": "mn.lamsang",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Lamsang",
+                "localname": "Lamsang",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "LAMSANG - 11",
+                "children": [
+                    {
+                        "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+                        "boundaryNum": 1,
+                        "name": "ZONE_WEST",
+                        "localname": "ZONE_WEST",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Zone",
+                        "code": "JZN1",
+                        "children": [
+                            {
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "boundaryNum": 1,
+                                "name": "WARD_1",
+                                "localname": "WARD_1",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD1",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "boundaryNum": 1,
+                                        "name": "Lamsang Makha Leikai (till 200m from the Uripok- Kangchup Road UK Road)",
+                                        "localname": "Lamsang Makha Leikai (till 200m from the Uripok- Kangchup Road UK Road)",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "0A1",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
+                                        "boundaryNum": 1,
+                                        "name": "Lamsang Mayai Leikai (till 200m from the Uripok- Kangchup Road UK Road)",
+                                        "localname": "Lamsang Mayai Leikai (till 200m from the Uripok- Kangchup Road UK Road)",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "0A2",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
+                                "boundaryNum": 1,
+                                "name": "WARD_2",
+                                "localname": "WARD_2",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD2",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
+                                        "boundaryNum": 1,
+                                        "name": "Lamsang Thongmaning",
+                                        "localname": "Lamsang Thongmaning",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "0A3",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+					
+                ]
+            }
+        }
+    ]
+}

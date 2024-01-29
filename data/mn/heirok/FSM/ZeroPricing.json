@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.heirok",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

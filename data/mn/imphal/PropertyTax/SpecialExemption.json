@@ -1,0 +1,193 @@
+{
+  "tenantId": "mn.imphal",
+  "moduleName": "PropertyTax",
+  "SpecialExemption": [
+    {
+      "name": "Any building which is used exclusively as a place of public worship (already exempted under sub-section (1) of section 92 of the Manipur Municipalities Act,1994)",
+      "code": "EXEMPTION_A",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Any holding which is duly registered as a public burial or burning ground (crematorium) under the Act (already exempted under sub-section (1) of section 92 of the Manipur Municipalities Act,1994)",
+      "code": "EXEMPTION_B",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Land used for religious purposes, religious rites, religious ceremonies and religious festivals",
+      "code": "EXEMPTION_C",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Buildings and lands owned and used by the Municipal Corporation",
+      "code": "EXEMPTION_D",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Historical and heritage buildings, so notified by the State Government, Central Government or United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+      "code": "EXEMPTION_E",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "State/Central Government land and buildings",
+      "code": "EXEMPTION_F",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+	{
+      "name": "Building and land used for Schools, Colleges and Universities owned or aided by the State Government",
+      "code": "EXEMPTION_G",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+	{
+      "name": "Land used for agricultural or horticultural purposes",
+      "code": "EXEMPTION_H",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+	{
+      "name": "Old age home, home for disabled, home for orphans and homes for destitute"
+      "code": "EXEMPTION_I",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+	{
+      "name": "Ancient monuments not used as residential quarters or as public offices",
+      "code": "EXEMPTION_J",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+	{
+      "name": "Land and structures used for irrigation work vested with the Government",
+      "code": "EXEMPTION_K",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+	{
+      "name": "Land and building used as public shed/public hall/community hall",
+      "code": "EXEMPTION_L",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+	{
+      "name": "Land and building used as public playgrounds, grazing grounds, polo grounds and sport complexes owned by communities/organisations/Government except portions/areas of such properties utilized for commercial purposes",
+      "code": "EXEMPTION_M",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+	{
+      "name": "Dwelling units of widows/war disables of active service personnel of State or Central Government such as State Police, CAPF, Defence Services etc.",
+      "code": "EXEMPTION_N",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+	{
+      "name": "Latrine/Urinal constructed separately from the residential building"
+      "code": "EXEMPTION_O",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+	{
+      "name": "Additional structure for outhouse (sangoi), garage etc. unless used for commercial purpose",
+      "code": "EXEMPTION_P",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+	{
+      "name": "Vacant land having no structure and land appurtenant to any building under the Municipality",
+      "code": "EXEMPTION_Q",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.sekmai",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

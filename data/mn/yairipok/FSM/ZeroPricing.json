@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.yairipok",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

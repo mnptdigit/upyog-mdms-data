@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.sugnu",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

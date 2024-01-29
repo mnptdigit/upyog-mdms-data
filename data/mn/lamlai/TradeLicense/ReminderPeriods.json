@@ -1,9 +1,9 @@
 {
-    "tenantId": "mn.imphal",
+    "tenantId": "mn.lamlai",
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "mn.imphal",
+        "tenantId": "mn.lamlai",
         "reminderInterval": 12345
       },
       {
