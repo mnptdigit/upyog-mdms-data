@@ -71,6 +71,27 @@
       "isRequired": false
     },
     {
+      "category": "EXEMPTION",
+      "service": "PT",
+      "name": "propertytax",
+      "code": "PT_SPECIAL_EXEMPTION",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "propertytax",
+      "code": "PT_ROAD_TYPE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Pt fire cess",

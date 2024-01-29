@@ -83,6 +83,16 @@
     {
       "category": "TAX",
       "service": "PT",
+      "name": "propertytax",
+      "code": "PT_SPECIAL_EXEMPTION",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
       "name": "Pt fire cess",
       "code": "PT_FIRE_CESS",
       "isDebit": false,
