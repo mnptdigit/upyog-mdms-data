@@ -8,7 +8,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -19,7 +19,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -30,7 +30,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -41,7 +41,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -52,7 +52,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -63,7 +63,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -74,7 +74,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -85,7 +85,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -96,7 +96,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -107,7 +107,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -118,7 +118,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -129,7 +129,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -140,7 +140,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -151,7 +151,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -162,7 +162,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -173,7 +173,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
@@ -184,7 +184,7 @@
             "active": true,
             "fromFY": "2015-16",
             "exemption": {
-                "rate": 100.0,
+                "rate": 1,
                 "maxAmount": null,
                 "flatAmount": null
             }
