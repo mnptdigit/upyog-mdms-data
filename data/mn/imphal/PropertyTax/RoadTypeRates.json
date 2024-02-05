@@ -27,7 +27,7 @@
       "active": true,
       "fromFY": "2015-16",
      "value":{
-         "rate": 1
+         "rate": 0.90
       }
     },
     {
@@ -36,7 +36,7 @@
       "active": true,
       "fromFY": "2015-16",
       "value":{
-         "rate": 1
+         "rate": 0.90
       }
     },
      {
@@ -45,7 +45,7 @@
       "active": true,
       "fromFY": "2015-16",
       "value":{
-         "rate": 1
+         "rate": 0.75
       }
     },
     {
@@ -54,7 +54,7 @@
       "active": true,
       "fromFY": "2015-16",
       "value":{
-         "rate": 1
+         "rate": 0.75
       }
     },
     {
@@ -63,7 +63,7 @@
       "active": true,
       "fromFY": "2015-16",
       "value":{
-         "rate": 1
+         "rate": 0.50
       }
     },
     {
@@ -72,7 +72,7 @@
       "active": true,
       "fromFY": "2015-16",
       "value":{
-         "rate": 1
+         "rate": 0.50
       }
     }
   ]
