@@ -9,6 +9,12 @@
       "fromFY": "2015-16"
     },
     {
+      "name": "Owner Residential",
+      "code": "OWNER_RESIDENTIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
       "name": "NonResidential",
       "code": "NONRESIDENTIAL",
       "active": true,
