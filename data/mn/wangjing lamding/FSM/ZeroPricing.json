@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.wangjing lamding",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

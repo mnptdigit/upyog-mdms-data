@@ -1,0 +1,10 @@
+{
+    "tenantId": "mn.lamsang",
+    "moduleName": "FSM",
+    "PeriodicService":[
+	{
+	   "timeLimit" : 7200000,
+	   "isSchedularConfiguration":true
+	}
+	]
+	}

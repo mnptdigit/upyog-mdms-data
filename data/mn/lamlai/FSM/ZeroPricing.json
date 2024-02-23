@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.lamlai",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

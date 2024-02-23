@@ -1,0 +1,64 @@
+{
+    "tenantId": "mn.shikhong sekmai",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Shikhong sekmai",
+                "localname": "Shikhong sekmai",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "SHIKHONG SEKMAI - 21",
+                "children": [
+                    {
+                        "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+                        "boundaryNum": 1,
+                        "name": "ZONE_WEST",
+                        "localname": "ZONE_WEST",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Zone",
+                        "code": "JZN1",
+                        "children": [
+                            {
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "boundaryNum": 1,
+                                "name": "WARD_1",
+                                "localname": "WARD_1",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD1",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "boundaryNum": 1,
+                                        "name": "Shikhong Bazar",
+                                        "localname": "Shikhong Bazar",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "0A1",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+					
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.kwakta",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

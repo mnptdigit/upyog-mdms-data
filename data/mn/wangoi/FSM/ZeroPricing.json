@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.wangoi",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}
