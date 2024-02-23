@@ -1,0 +1,33 @@
+{
+    "tenantId": "mn",
+    "moduleName": "PropertyTax",
+    "Districts":
+    [
+      {
+        "name": "Building / Apartment having a height of 16 m/ 52.48 ft or above with or without appurtenant open space",
+        "code": "16_ABOVE",
+        "active": true
+      },
+      {
+        "name": "Building / Apartment having a height of 9m/29.5 ft upto 16 m/52.48 ft with or without appurtenant open space",
+        "code": "9_UPTO_16",
+        "active": true
+      },
+      {
+        "name": "Building/Apartment having a height of below 9 m / 29.5 ft with or without appurtenant open space - Ordinary (kutcha)",
+        "code": "BELOW_9_ORDINARY",
+        "active": true
+      },
+      {
+        "name": "Building/Apartment having a height of below 9 m / 29.5 ft with or without appurtenant open space - Semi-permanent (semi pucca)",
+        "code": "BELOW_9_SEMIPUCCA",
+        "active": true
+      },
+      {
+        "name": "Building/Apartment having a height of below 9 m / 29.5 ft with or without appurtenant open space - Permanent (pucca)",
+        "code": "BELOW_9_PUCCA",
+        "active": true
+      }
+    ]
+  }
+  
