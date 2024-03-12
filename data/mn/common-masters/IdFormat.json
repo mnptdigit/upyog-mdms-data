@@ -507,8 +507,12 @@
             "idname": "pt.mutation.receipt.id"
         },
         {
-            "format": "PG-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
+            "format": "MN-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
             "idname": "pt.mutation.number"
+        },
+        {
+            "format": "PG-MT-[CITY]-[SEQ_EG_PT_BIFURCATION]",
+            "idname": "pt.bifurcation.number"
         },
         {
             "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_CON_[TENANT_ID]]",
