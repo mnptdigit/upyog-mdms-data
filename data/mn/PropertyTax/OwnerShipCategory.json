@@ -53,6 +53,16 @@
       "name": "State Government",
       "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
       "active": true
+    },
+    {
+      "name": "OWNER_RESIDENTIAL",
+      "code": "OWNER_RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Institutional",
+      "code": "INSTITUTIONAL",
+      "active": true
     }
   
   ]
