@@ -1618,28 +1618,21 @@
       "code": "PTMUTAN2023",
       "financialYear": "2023-24"
     },
-<<<<<<< HEAD
-	{
-=======
     {
->>>>>>> f8d7ddd8aa47a354726f0cd7afb58952da77fcbc
       "fromDate": 1711953000000,
-      "toDate": 1743402600000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "PT.MUTATION",
       "code": "PTMUTAN2024",
       "financialYear": "2024-25"
-<<<<<<< HEAD
     },
 	{
       "fromDate": 1711953000000,
-      "toDate": 1743402600000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "PT",
       "code": "PTAN2024",
       "financialYear": "2024-25"
-=======
->>>>>>> f8d7ddd8aa47a354726f0cd7afb58952da77fcbc
     }
   ]
 }
