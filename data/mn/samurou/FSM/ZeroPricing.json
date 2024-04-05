@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.samurou",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

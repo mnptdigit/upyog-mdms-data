@@ -45,7 +45,22 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A1",
+                                        "code": "001",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
+                                        "boundaryNum": 1,
+                                        "name": "Chalou Maning Leikai-ward 2",
+                                        "localname": "Chalou Maning Leikai-Ward 2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "002",
                                         "pincode": [
                                             143001
                                         ],
@@ -55,7 +70,7 @@
                                 ]
                             },
                             {
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
                                 "boundaryNum": 1,
                                 "name": "WARD_1",
                                 "localname": "WARD_1",
@@ -65,14 +80,14 @@
                                 "code": "WARD1",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
                                         "boundaryNum": 1,
-                                        "name": "Chalou Maning Leikai",
-                                        "localname": "Chalou Maning Leikai",
+                                        "name": "Chalou Mamang Leikai-ward 1",
+                                        "localname": "Chalou Mamang Leikai-ward 1",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "OA2",
+                                        "code": "001",
                                         "pincode": [
                                             143001
                                         ],
@@ -82,7 +97,7 @@
                                 ]
                             },
                             {
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249d",
                                 "boundaryNum": 1,
                                 "name": "WARD_3",
                                 "localname": "WARD_3",
@@ -92,14 +107,14 @@
                                 "code": "WARD3",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
                                         "boundaryNum": 1,
-                                        "name": "Lamlai Awang Leikai",
-                                        "localname": "Lamlai Awang Leikai",
+                                        "name": "Lamlai Awang Leikai-ward 3",
+                                        "localname": "Lamlai Awang Leikai-ward 3",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A3",
+                                        "code": "003",
                                         "pincode": [
                                             143001
                                         ],
@@ -109,7 +124,7 @@
                                 ]
                             },
                             {
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249e",
                                 "boundaryNum": 1,
                                 "name": "WARD_4",
                                 "localname": "WARD_4",
@@ -119,14 +134,14 @@
                                 "code": "WARD4",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdei",
                                         "boundaryNum": 1,
-                                        "name": "Chalou Mamang Leikai-Ward 4",
-                                        "localname": "Chalou Mamang Leikai-Ward 4",
+                                        "name": "Chalou Maning Leikai-Ward 4",
+                                        "localname": "Chalou Maning Leikai-Ward 4",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A1",
+                                        "code": "002",
                                         "pincode": [
                                             143001
                                         ],
@@ -134,14 +149,14 @@
                                         "children": []
                                     },
 									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
                                         "boundaryNum": 1,
-                                        "name": "Napet Mamang Leikai-Ward 4",
-                                        "localname": "Napet Mamang Leikai-Ward 4",
+                                        "name": "Lamlai Awang Leikai-Ward 4",
+                                        "localname": "Lamlai Awang Leikai-Ward 4",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "OA4",
+                                        "code": "003",
                                         "pincode": [
                                             143001
                                         ],
@@ -149,14 +164,29 @@
                                         "children": []
                                     },
 									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
                                         "boundaryNum": 1,
                                         "name": "Napet Mayai Leikai-Ward 4",
                                         "localname": "Napet Mayai Leikai-Ward 4",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "OA5",
+                                        "code": "007",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
+                                        "boundaryNum": 1,
+                                        "name": "Napet Mamang Leikai-Ward 4",
+                                        "localname": "Napet Mamang Leikai-Ward 4",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "006",
                                         "pincode": [
                                             143001
                                         ],
@@ -166,7 +196,7 @@
                                 ]
                             },
                             {
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249f",
                                 "boundaryNum": 1,
                                 "name": "WARD_5",
                                 "localname": "WARD_5",
@@ -176,14 +206,14 @@
                                 "code": "WARD5",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
                                         "boundaryNum": 1,
                                         "name": "Napet Mamang Leikai-Ward 5",
                                         "localname": "Napet Mamang Leikai-Ward 5",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "OA4",
+                                        "code": "006",
                                         "pincode": [
                                             143001
                                         ],
@@ -191,14 +221,14 @@
                                         "children": []
                                     },
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fden",
                                         "boundaryNum": 1,
-                                        "name": "Napet Mayai Leikai",
-                                        "localname": "Napet Mayai Leikai",
+                                        "name": "Napet Mayai Leikai-ward 5",
+                                        "localname": "Napet Mayai Leikai-ward 5",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "OA5",
+                                        "code": "007",
                                         "pincode": [
                                             143001
                                         ],
@@ -206,14 +236,14 @@
                                         "children": []
                                     },
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeo",
                                         "boundaryNum": 1,
                                         "name": "Napet Maning Leikai",
                                         "localname": "Napet Maning Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "OA6",
+                                        "code": "008",
                                         "pincode": [
                                             143001
                                         ],
@@ -223,7 +253,7 @@
                                 ]
                             },
                             {
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249g",
                                 "boundaryNum": 1,
                                 "name": "WARD_6",
                                 "localname": "WARD_6",
@@ -233,14 +263,14 @@
                                 "code": "WARD6",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdep",
                                         "boundaryNum": 1,
                                         "name": "Lamlai Mayai Leikai-Ward 6",
                                         "localname": "Lamlai Mayai Leikai-Ward 6",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A7",
+                                        "code": "004",
                                         "pincode": [
                                             143001
                                         ],
@@ -250,7 +280,7 @@
                                 ]
                             },
                             {
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249h",
                                 "boundaryNum": 1,
                                 "name": "WARD_7",
                                 "localname": "WARD_7",
@@ -260,14 +290,14 @@
                                 "code": "WARD7",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeq",
                                         "boundaryNum": 1,
                                         "name": "Lamlai Mayai Leikai-Ward 7",
                                         "localname": "Lamlai Mayai Leikai-Ward 7",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "OA7",
+                                        "code": "007",
                                         "pincode": [
                                             143001
                                         ],
@@ -277,7 +307,7 @@
                                 ]
                             },
                             {
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249i",
                                 "boundaryNum": 1,
                                 "name": "WARD_8",
                                 "localname": "WARD_8",
@@ -287,14 +317,14 @@
                                 "code": "WARD8",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fder",
                                         "boundaryNum": 1,
                                         "name": "Lamlai Mayai Leikai-Ward 8",
                                         "localname": "Lamlai Mayai Leikai-Ward 8",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "OA7",
+                                        "code": "007",
                                         "pincode": [
                                             143001
                                         ],
@@ -302,14 +332,14 @@
                                         "children": []
                                     },
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdes",
                                         "boundaryNum": 1,
                                         "name": "Lamlai Makha Leikai-Ward 8",
                                         "localname": "Lamlai Makha Leikai-Ward 8",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "OA8",
+                                        "code": "005",
                                         "pincode": [
                                             143001
                                         ],
@@ -319,7 +349,7 @@
                                 ]
                             },
                             {
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249j",
                                 "boundaryNum": 1,
                                 "name": "WARD_9",
                                 "localname": "WARD_9",
@@ -329,14 +359,14 @@
                                 "code": "WARD9",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdet",
                                         "boundaryNum": 1,
                                         "name": "Lamlai Makha Leikai-Ward 9",
                                         "localname": "Lamlai Makha Leikai-Ward 9",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "OA8",
+                                        "code": "005",
                                         "pincode": [
                                             143001
                                         ],

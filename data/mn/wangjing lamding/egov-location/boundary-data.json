@@ -1,5 +1,5 @@
 {
-    "tenantId": "mn.wangjing lamding",
+    "tenantId": "mn.wangjinglamding",
     "moduleName": "egov-location",
     "TenantBoundary": [
         {
@@ -45,17 +45,32 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A1",
+                                        "code": "002",
                                         "pincode": [
                                             143001
                                         ],
                                         "area": "AREA_A",
                                         "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
+                                        "boundaryNum": 1,
+                                        "name": "Lamding Laishram Leikai",
+                                        "localname": "Lamding Laishram Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "001",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
                                     }
                                 ]
                             },
 							{
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
                                 "boundaryNum": 1,
                                 "name": "WARD_2",
                                 "localname": "WARD_2",
@@ -65,14 +80,14 @@
                                 "code": "WARD2",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
                                         "boundaryNum": 1,
                                         "name": "Wangjing Lamding Bazar",
                                         "localname": "Wangjing Lamding Bazar",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A2",
+                                        "code": "003",
                                         "pincode": [
                                             143001
                                         ],
@@ -82,28 +97,220 @@
                                 ]
                             },
 							{
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249d",
                                 "boundaryNum": 1,
                                 "name": "WARD_4",
                                 "localname": "WARD_4",
                                 "longitude": null,
                                 "latitude": null,
                                 "label": "Block",
-                                "code": "WARD2",
+                                "code": "WARD4",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
                                         "boundaryNum": 1,
                                         "name": "Wangjing Bazar",
                                         "localname": "Wangjing Bazar",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A3",
+                                        "code": "005",
                                         "pincode": [
                                             143001
                                         ],
                                         "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249e",
+                                "boundaryNum": 1,
+                                "name": "WARD_3",
+                                "localname": "WARD_3",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD3",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdei",
+                                        "boundaryNum": 1,
+                                        "name": "Lamding Nashikhong Leikai",
+                                        "localname": "Lamding Nashikhong Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "004",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249f",
+                                "boundaryNum": 1,
+                                "name": "WARD_5",
+                                "localname": "WARD_5",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD5",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
+                                        "boundaryNum": 1,
+                                        "name": "Wangjing Sorokhaibam Leikai Maning",
+                                        "localname": "Wangjing Sorokhaibam Leikai Maning",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "006",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249g",
+                                "boundaryNum": 1,
+                                "name": "WARD_6",
+                                "localname": "WARD_6",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD6",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
+                                        "boundaryNum": 1,
+                                        "name": "Wangjing Sorokhaibam Leikai Mamang",
+                                        "localname": "Wangjing Sorokhaibam Leikai Mamang",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "007",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249h",
+                                "boundaryNum": 1,
+                                "name": "WARD_7",
+                                "localname": "WARD_7",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD7",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
+                                        "boundaryNum": 1,
+                                        "name": "Wangjing Bazar Thongwangma",
+                                        "localname": "Wangjing Bazar Thongwangma",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "008",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
+                                        "boundaryNum": 1,
+                                        "name": "Wangjing Bazar Heirok Lamkhai",
+                                        "localname": "Wangjing Bazar Heirok Lamkhai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "009",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fden",
+                                        "boundaryNum": 1,
+                                        "name": "Wangjing Wangkhei Maning Leikai",
+                                        "localname": "Wangjing Wangkhei Maning Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "010",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249i",
+                                "boundaryNum": 1,
+                                "name": "WARD_8",
+                                "localname": "WARD_8",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD8",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeo",
+                                        "boundaryNum": 1,
+                                        "name": "Wangjing Wangkhei Mayai Leikai",
+                                        "localname": "Wangjing Wangkhei Mayai Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "011",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249j",
+                                "boundaryNum": 1,
+                                "name": "WARD_9",
+                                "localname": "WARD_9",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD9",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdep",
+                                        "boundaryNum": 1,
+                                        "name": "Wangjing Wangkhei MamangLeikai",
+                                        "localname": "Wangjing Wangkhei MamangLeikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "012",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
                                         "children": []
                                     }
                                 ]

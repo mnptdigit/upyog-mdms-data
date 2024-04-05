@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.lilongthoubal",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

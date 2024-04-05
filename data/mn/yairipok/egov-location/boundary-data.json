@@ -40,12 +40,12 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
                                         "boundaryNum": 1,
-                                        "name": "Yairipok Bishnunaha Mamang Leikai, Near Yairpok Bazar",
-                                        "localname": "Yairipok Bishnunaha Mamang Leikai, Near Yairpok Bazar",
+                                        "name": "Yairipok Keithel Leikai-ward 4",
+                                        "localname": "Yairipok Keithel Leikai-ward 4",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A2",
+                                        "code": "005",
                                         "pincode": [
                                             143001
                                         ],
@@ -53,24 +53,54 @@
                                         "children": []
                                     },
 									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdea",
                                         "boundaryNum": 1,
-                                        "name": "Yairipok Bamon Leikai, Police Station",
-                                        "localname": "Yairipok Bamon Leikai, Police Station",
+                                        "name": "Yairipok Bishnunaha Mamang Leikai",
+                                        "localname": "YYairipok Bishnunaha Mamang Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A3",
+                                        "code": "006",
                                         "pincode": [
                                             143001
                                         ],
                                         "area": "AREA_A",
                                         "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeb",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Bamon Leikai-ward 4",
+                                        "localname": "Yairipok Bamon Leikai-ward 4",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "007",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdec",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Bamon Leikai Khunou",
+                                        "localname": "Yairipok Bamon Leikai Khunou",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "008",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
                                     }
                                 ]
                             },
 							{
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
                                 "boundaryNum": 1,
                                 "name": "WARD_3",
                                 "localname": "WARD_3",
@@ -80,18 +110,297 @@
                                 "code": "WARD3",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fded",
                                         "boundaryNum": 1,
-                                        "name": "Yairipok Kekhel Leikai",
-                                        "localname": "Yairipok Kekhel Leikai",
+                                        "name": "Yairipok Keithel Leikai-ward 3",
+                                        "localname": "Yairipok Keithel Leikai-ward 3",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A1",
+                                        "code": "005",
                                         "pincode": [
                                             143001
                                         ],
                                         "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Bishnunaha Awang Leikai-ward 3",
+                                        "localname": "Yairipok Bishnunaha Awang Leikai-ward 3",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "004",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249d",
+                                "boundaryNum": 1,
+                                "name": "WARD_1",
+                                "localname": "WARD_1",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD1",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Bishnunaha Siphai Leikai",
+                                        "localname": "Yairipok Bishnunaha Siphai Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "001",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Bishnunaha Cannal Mapal",
+                                        "localname": "Yairipok Bishnunaha Cannal Mapal",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "002",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdei",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Bishnunaha Mayai Leikai-ward 1",
+                                        "localname": "Yairipok Bishnunaha Mayai Leikai-ward 1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "003",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249e",
+                                "boundaryNum": 1,
+                                "name": "WARD_2",
+                                "localname": "WARD_2",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD2",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Bishnunaha Mayai Leikai-ward 2",
+                                        "localname": "Yairipok Bishnunaha Mayai Leikai-ward 2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "003",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Bishnunaha Awang Leikai-ward 2",
+                                        "localname": "Yairipok Bishnunaha Awang Leikai-ward 2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "004",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249f",
+                                "boundaryNum": 1,
+                                "name": "WARD_5",
+                                "localname": "WARD_5",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD5",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Bamon Leikai-ward 5",
+                                        "localname": "Yairipok Bamon Leikai-ward 5",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "007",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249g",
+                                "boundaryNum": 1,
+                                "name": "WARD_6",
+                                "localname": "WARD_6",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD6",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Bamon Leikai-ward 6",
+                                        "localname": "Yairipok Bamon Leikai-ward 6",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "007",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fden",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Kekru Makha Leikai-ward 6",
+                                        "localname": "Yairipok Kekru Makha Leikai-ward 6",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "010",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249h",
+                                "boundaryNum": 1,
+                                "name": "WARD_7",
+                                "localname": "WARD_7",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD7",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeo",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Bamon Mamang Leikai",
+                                        "localname": "Yairipok Bamon Mamang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "009",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdep",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Kekru Makha Leikai-ward 7",
+                                        "localname": "Yairipok Kekru Makha Leikai-ward 7",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "010",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249i",
+                                "boundaryNum": 1,
+                                "name": "WARD_8",
+                                "localname": "WARD_8",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD8",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeq",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Kekru Mayai Leikai",
+                                        "localname": "Yairipok Kekru Mayai Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "011",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249j",
+                                "boundaryNum": 1,
+                                "name": "WARD_9",
+                                "localname": "WARD_9",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD9",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fder",
+                                        "boundaryNum": 1,
+                                        "name": "Yairipok Kekru Mathak Leikai",
+                                        "localname": "Yairipok Kekru Mathak Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "012",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
                                         "children": []
                                     }
                                 ]

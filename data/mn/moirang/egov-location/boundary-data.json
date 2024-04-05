@@ -1,0 +1,766 @@
+{
+    "tenantId": "mn.moirang",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Moirang",
+                "localname": "Moirang",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "MOIRANG-15",
+                "children": [
+                    {
+                        "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+                        "boundaryNum": 1,
+                        "name": "ZONE_WEST",
+                        "localname": "ZONE_WEST",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Zone",
+                        "code": "JZN1",
+                        "children": [
+                            {
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "boundaryNum": 1,
+                                "name": "WARD_4",
+                                "localname": "WARD_4",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD4",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
+                                        "boundaryNum": 1,
+                                        "name": "Chengei Leikai",
+                                        "localname": "Chengei Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "006",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "boundaryNum": 1,
+                                        "name": "Pukhram Leikai",
+                                        "localname": "Pukhram Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "007",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
+                                        "boundaryNum": 1,
+                                        "name": "Kiyam Leikai",
+                                        "localname": "Kiyam Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "008",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdei",
+                                        "boundaryNum": 1,
+                                        "name": "Moirang Bazar-ward 4",
+                                        "localname": "Moirang Bazar-ward 4",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "030",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
+                                        "boundaryNum": 1,
+                                        "name": "Shribon Leikai-ward 4",
+                                        "localname": "Shribon Leikai-ward 4",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "027",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_C",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
+                                "boundaryNum": 1,
+                                "name": "WARD_3",
+                                "localname": "WARD_3",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD3",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fded",
+                                        "boundaryNum": 1,
+                                        "name": "Moirangthem Leikai-ward 3",
+                                        "localname": "Moirangthem Leikai-ward 3",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "011",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fden",
+                                        "boundaryNum": 1,
+                                        "name": "Khumam Leikai",
+                                        "localname": "Khumam Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "012",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdep",
+                                        "boundaryNum": 1,
+                                        "name": "Moirang Bazar-ward 3",
+                                        "localname": "Moirang Bazar-ward 3",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "030",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249d",
+                                "boundaryNum": 1,
+                                "name": "WARD_1",
+                                "localname": "WARD_1",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD1",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
+                                        "boundaryNum": 1,
+                                        "name": "Patlou Leikai",
+                                        "localname": "Patlou Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "004",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeu",
+                                        "boundaryNum": 1,
+                                        "name": "Moirang Lamkhai-ward 1",
+                                        "localname": "Moirang Lamkhai-ward 1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "031",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249e",
+                                "boundaryNum": 1,
+                                "name": "WARD_2",
+                                "localname": "WARD_2",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD2",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
+                                        "boundaryNum": 1,
+                                        "name": "Konjengbam Leikai",
+                                        "localname": "Konjengbam Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "005",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdev",
+                                        "boundaryNum": 1,
+                                        "name": "Heman Leikai",
+                                        "localname": "Heman Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "010",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdew",
+                                        "boundaryNum": 1,
+                                        "name": "Moirangthem Leikai-ward 2",
+                                        "localname": "Moirangthem Leikai-ward 2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "011",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdey",
+                                        "boundaryNum": 1,
+                                        "name": "Moirang Bazar",
+                                        "localname": "Moirang Bazar",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "030",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249f",
+                                "boundaryNum": 1,
+                                "name": "WARD_5",
+                                "localname": "WARD_5",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD5",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdex",
+                                        "boundaryNum": 1,
+                                        "name": "Mairembam Leikai (Leikoi)",
+                                        "localname": "Mairembam Leikai (Leikoi)",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "013",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdez",
+                                        "boundaryNum": 1,
+                                        "name": "Phairembam Leikai-ward 5",
+                                        "localname": "Phairembam Leikai-ward 5",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "014",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249g",
+                                "boundaryNum": 1,
+                                "name": "WARD_6",
+                                "localname": "WARD_6",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD6",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
+                                        "boundaryNum": 1,
+                                        "name": "Phairembam Leikai-ward 6",
+                                        "localname": "Phairembam Leikai-ward 6",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "014",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaa",
+                                        "boundaryNum": 1,
+                                        "name": "Moirangthem Leijubam Leikai",
+                                        "localname": "Moirangthem Leijubam Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "018",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdab",
+                                        "boundaryNum": 1,
+                                        "name": "Khoiyangbam Leikai",
+                                        "localname": "Khoiyangbam Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "019",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249h",
+                                "boundaryNum": 1,
+                                "name": "WARD_7",
+                                "localname": "WARD_7",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD7",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeo",
+                                        "boundaryNum": 1,
+                                        "name": "Philem Laiphrakpam Leikai",
+                                        "localname": "Philem Laiphrakpam Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "015",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdac",
+                                        "boundaryNum": 1,
+                                        "name": "Yumkhaibam Leikai",
+                                        "localname": "Yumkhaibam Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "016",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdad",
+                                        "boundaryNum": 1,
+                                        "name": "Laishangbam Leikai",
+                                        "localname": "Laishangbam Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "017",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdae",
+                                        "boundaryNum": 1,
+                                        "name": "Mayai Leikai-ward 7",
+                                        "localname": "Mayai Leikai-ward 7",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "020",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249i",
+                                "boundaryNum": 1,
+                                "name": "WARD_8",
+                                "localname": "WARD_8",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD8",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeq",
+                                        "boundaryNum": 1,
+                                        "name": "Thangjing Mamang Leikai",
+                                        "localname": "Thangjing Mamang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "022",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaf",
+                                        "boundaryNum": 1,
+                                        "name": "Phiwangbam Leikai",
+                                        "localname": "Phiwangbam Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "023",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdag",
+                                        "boundaryNum": 1,
+                                        "name": "Athanthem Leikai",
+                                        "localname": "Athanthem Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "024",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdah",
+                                        "boundaryNum": 1,
+                                        "name": "Mayai Leikai",
+                                        "localname": "Mayai Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "020",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdai",
+                                        "boundaryNum": 1,
+                                        "name": "Mairembam Leikai (College Gate)-ward 8",
+                                        "localname": "Mairembam Leikai (College Gate)-ward 8",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "025",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249j",
+                                "boundaryNum": 1,
+                                "name": "WARD_9",
+                                "localname": "WARD_9",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD9",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fder",
+                                        "boundaryNum": 1,
+                                        "name": "Mairembam Leikai (College Gate)-ward 9",
+                                        "localname": "Mairembam Leikai (College Gate)-ward 9",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "025",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaj",
+                                        "boundaryNum": 1,
+                                        "name": "Thana Leikai-ward 9",
+                                        "localname": "Thana Leikai-ward 9",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "026",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249k",
+                                "boundaryNum": 1,
+                                "name": "WARD_10",
+                                "localname": "WARD_10",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD10",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdes",
+                                        "boundaryNum": 1,
+                                        "name": "Khoiru Leikai",
+                                        "localname": "Khoiru Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "002",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdak",
+                                        "boundaryNum": 1,
+                                        "name": "Moirang Lamkhai-ward 10",
+                                        "localname": "Moirang Lamkhai-ward 10",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "031",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdal",
+                                        "boundaryNum": 1,
+                                        "name": "Okshongbung Leikai-ward 10",
+                                        "localname": "Okshongbung Leikai-ward 10",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "001",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_C",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249l",
+                                "boundaryNum": 1,
+                                "name": "WARD_11",
+                                "localname": "WARD_11",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD11",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdet",
+                                        "boundaryNum": 1,
+                                        "name": "Panshang Leikai-ward 11",
+                                        "localname": "Panshang Leikai-ward 11",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "003",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdam",
+                                        "boundaryNum": 1,
+                                        "name": "Okshongbung Leikai-ward 11",
+                                        "localname": "Okshongbung Leikai-ward 11",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "001",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249o",
+                                "boundaryNum": 1,
+                                "name": "WARD_12",
+                                "localname": "WARD_12",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD12",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdec",
+                                        "boundaryNum": 1,
+                                        "name": "Thana Leikai-ward 12",
+                                        "localname": "Thana Leikai-ward 12",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "026",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdea",
+                                        "boundaryNum": 1,
+                                        "name": "Kokilbon Leikai",
+                                        "localname": "Kokilbon Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "028",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_C",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
+                                        "boundaryNum": 1,
+                                        "name": "Thoya Leikai",
+                                        "localname": "Thoya Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "029",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_C",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdan",
+                                        "boundaryNum": 1,
+                                        "name": "Shribon Leikai-ward 12",
+                                        "localname": "Shribon Leikai-ward 12",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "027",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_C",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+					
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.ningthoukhong",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

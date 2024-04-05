@@ -45,7 +45,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A1",
+                                        "code": "001",
                                         "pincode": [
                                             143001
                                         ],
@@ -60,11 +60,56 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A2",
+                                        "code": "003",
                                         "pincode": [
                                             143001
                                         ],
                                         "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
+                                        "boundaryNum": 1,
+                                        "name": "Lamsang Makha Leikai (200m away from the UK Road)",
+                                        "localname": "Lamsang Makha Leikai (200m away from the UK Road)",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "002",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
+                                        "boundaryNum": 1,
+                                        "name": "Lamsang Mayai Leikai (200m away from the UK Road)",
+                                        "localname": "Lamsang Mayai Leikai (200m away from the UK Road)",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "004",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdei",
+                                        "boundaryNum": 1,
+                                        "name": "Lamsang Awang Leikai",
+                                        "localname": "Lamsang Awang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "005",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
                                         "children": []
                                     }
                                 ]
@@ -80,18 +125,342 @@
                                 "code": "WARD2",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
                                         "boundaryNum": 1,
                                         "name": "Lamsang Thongmaning",
                                         "localname": "Lamsang Thongmaning",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "0A3",
+                                        "code": "006",
                                         "pincode": [
                                             143001
                                         ],
                                         "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
+                                        "boundaryNum": 1,
+                                        "name": "Lamsang Bazar Laingamkhul",
+                                        "localname": "Lamsang Bazar Laingamkhul",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "007",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
+                                        "boundaryNum": 1,
+                                        "name": "Lamsang Bazar",
+                                        "localname": "Lamsang Bazar",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "008",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
+                                        "boundaryNum": 1,
+                                        "name": "Chingkhuilong (till 200m from the Uripok- Kangchup Road UK Road)",
+                                        "localname": "Chingkhuilong (till 200m from the Uripok- Kangchup Road UK Road)",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "009",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249d",
+                                "boundaryNum": 1,
+                                "name": "WARD_3",
+                                "localname": "WARD_3",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD3",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fden",
+                                        "boundaryNum": 1,
+                                        "name": "Lamdeng Awang Leikai",
+                                        "localname": "Lamdeng Awang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "010",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249e",
+                                "boundaryNum": 1,
+                                "name": "WARD_4",
+                                "localname": "WARD_4",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD4",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeo",
+                                        "boundaryNum": 1,
+                                        "name": "Lamdeng Mayai Leikai",
+                                        "localname": "Lamdeng Mayai Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "011",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249f",
+                                "boundaryNum": 1,
+                                "name": "WARD_5",
+                                "localname": "WARD_5",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD5",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdep",
+                                        "boundaryNum": 1,
+                                        "name": "Lamdeng Makha Leikai",
+                                        "localname": "Lamdeng Makha Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "012",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249g",
+                                "boundaryNum": 1,
+                                "name": "WARD_6",
+                                "localname": "WARD_6",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD6",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeq",
+                                        "boundaryNum": 1,
+                                        "name": "Lamdeng Khunou",
+                                        "localname": "Lamdeng Khunou",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "014",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fder",
+                                        "boundaryNum": 1,
+                                        "name": "Irengbam Colony",
+                                        "localname": "Irengbam Colony",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "015",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdes",
+                                        "boundaryNum": 1,
+                                        "name": "Khundi",
+                                        "localname": "Khundi",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "013",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249h",
+                                "boundaryNum": 1,
+                                "name": "WARD_7",
+                                "localname": "WARD_7",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD7",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdet",
+                                        "boundaryNum": 1,
+                                        "name": "Bamon Leikai",
+                                        "localname": "Bamon Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "016",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeu",
+                                        "boundaryNum": 1,
+                                        "name": "Nitainanda Leirak",
+                                        "localname": "Nitainanda Leirak",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "017",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249i",
+                                "boundaryNum": 1,
+                                "name": "WARD_8",
+                                "localname": "WARD_8",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD8",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdev",
+                                        "boundaryNum": 1,
+                                        "name": "Taothong Apheiba (till 200m from the Uripok- Kangchup Road UK Road)",
+                                        "localname": "Taothong Apheiba (till 200m from the Uripok- Kangchup Road UK Road)",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "018",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdew",
+                                        "boundaryNum": 1,
+                                        "name": "Taothang Apheiba(200m away from the UK Road)",
+                                        "localname": "Taothang Apheiba(200m away from the UK Road)",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "019",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249j",
+                                "boundaryNum": 1,
+                                "name": "WARD_9",
+                                "localname": "WARD_9",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD9",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdex",
+                                        "boundaryNum": 1,
+                                        "name": "Taothong Khunou",
+                                        "localname": "Taothong Khunou",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "021",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdey",
+                                        "boundaryNum": 1,
+                                        "name": "Taothang Ayungba(200m away from the UK Road)",
+                                        "localname": "Taothang Ayungba(200m away from the UK Road)",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "020",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdez",
+                                        "boundaryNum": 1,
+                                        "name": "Taothang Ayungba Mamang Leikai",
+                                        "localname": "Taothang Ayungba Mamang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "022",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
                                         "children": []
                                     }
                                 ]

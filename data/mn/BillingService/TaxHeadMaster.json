@@ -111,10 +111,20 @@
             "isRequired": false
         },
 		{
-            "category": "TAX",
+            "category": "REBATE",
             "service": "PT",
             "name": "paybletax",
-            "code": "PT_PAYBLE_TAX",
+            "code": "PT_COMPLEMENTARY_REBATE",
+            "isDebit": false,
+            "isActualDemand": true,
+            "order": "0",
+            "isRequired": false
+        },
+		{
+            "category": "REBATE",
+            "service": "PT",
+            "name": "paybletax",
+            "code": "PT_MODEOFPAYMENT_REBATE",
             "isDebit": false,
             "isActualDemand": true,
             "order": "0",

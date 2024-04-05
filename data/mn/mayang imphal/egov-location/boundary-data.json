@@ -1,0 +1,928 @@
+{
+    "tenantId": "mn.mayangimphal",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Mayang imphal",
+                "localname": "Mayang imphal",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "MAYANG IMPHAL-14",
+                "children": [
+                    {
+                        "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+                        "boundaryNum": 1,
+                        "name": "ZONE_WEST",
+                        "localname": "ZONE_WEST",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Zone",
+                        "code": "JZN1",
+                        "children": [
+                            {
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                                "boundaryNum": 1,
+                                "name": "WARD_4",
+                                "localname": "WARD_4",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD4",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Kokchai Makha",
+                                        "localname": "Mayang Imphal Kokchai Makha",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "009",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Awang Leikai",
+                                        "localname": "Mayang Imphal Awang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "010",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
+                                "boundaryNum": 1,
+                                "name": "WARD_3",
+                                "localname": "WARD_3",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD3",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fded",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Wangkhei Leikai-ward 3",
+                                        "localname": "Mayang Imphal Thana Wangkhei Leikai-ward 3",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "006",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Anilongbi-ward 3",
+                                        "localname": "Mayang Imphal Thana Anilongbi-ward 3",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "007",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Maning Leikai-ward 3",
+                                        "localname": "Mayang Imphal Thana Maning Leikai-ward 3",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "008",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249d",
+                                "boundaryNum": 1,
+                                "name": "WARD_1",
+                                "localname": "WARD_1",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD1",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bazar-ward 1",
+                                        "localname": "Mayang Imphal Bazar-ward 1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "001",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdei",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bazar Mamang",
+                                        "localname": "Mayang Imphal Bazar Mamang",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "002",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bazar Maning-ward 1",
+                                        "localname": "Mayang Imphal Bazar Maning-ward 1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "003",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fden",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Mamang Leikai-ward 1",
+                                        "localname": "Mayang Imphal Thana Mamang Leikai-ward 1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "004",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdam",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Wangkhei Leikai-ward 1",
+                                        "localname": "Mayang Imphal Thana Wangkhei Leikai-ward 1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "006",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdan",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Konchak Awang Leikai-ward 1",
+                                        "localname": "Mayang Imphal Konchak Awang Leikai-ward 1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "013",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249e",
+                                "boundaryNum": 1,
+                                "name": "WARD_2",
+                                "localname": "WARD_2",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD2",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bazar-ward 2",
+                                        "localname": "Mayang Imphal Bazar-ward 2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "001",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdep",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bazar Maning-ward 2",
+                                        "localname": "Mayang Imphal Bazar Maning-ward 2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "003",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdes",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Mamang Leikai-ward 2",
+                                        "localname": "Mayang Imphal Thana Mamang Leikai-ward 2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "004",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdet",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Awang Leikai-ward 2",
+                                        "localname": "Mayang Imphal Thana Awang Leikai-ward 2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "005",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeu",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Wangkhei Leikai-ward 2",
+                                        "localname": "Mayang Imphal Thana Wangkhei Leikai-ward 2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "006",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249f",
+                                "boundaryNum": 1,
+                                "name": "WARD_5",
+                                "localname": "WARD_5",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD5",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdex",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Wangkhei Leikai-ward 5",
+                                        "localname": "Mayang Imphal Thana Wangkhei Leikai-ward 5",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "006",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdev",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Anilongbi-ward 5",
+                                        "localname": "Mayang Imphal Thana Anilongbi-ward 5",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "007",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdew",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Maning Leikai-ward 5",
+                                        "localname": "Mayang Imphal Thana Maning Leikai-ward 5",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "008",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdey",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal HeigumYanngbi-ward 5",
+                                        "localname": "Mayang Imphal HeigumYanngbi-ward 5",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "012",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdez",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Charoibung-ward 5",
+                                        "localname": "Mayang Imphal Charoibung-ward 5",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "011",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_C",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249g",
+                                "boundaryNum": 1,
+                                "name": "WARD_6",
+                                "localname": "WARD_6",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD6",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal HeigumYanngbi-ward 6",
+                                        "localname": "Mayang Imphal HeigumYanngbi-ward 6",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "012",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaa",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Konchak Awang Leikai-ward 6",
+                                        "localname": "Mayang Imphal Konchak Awang Leikai-ward 6",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "013",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdab",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Konchak Mayai Laikai",
+                                        "localname": "Mayang Imphal Konchak Mayai Laikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "014",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdac",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Konchak Maning Leikai",
+                                        "localname": "Mayang Imphal Konchak Maning Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "015",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249h",
+                                "boundaryNum": 1,
+                                "name": "WARD_7",
+                                "localname": "WARD_7",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD7",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeo",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Konchak Makha Leikai",
+                                        "localname": "Mayang Imphal Konchak Makha Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "016",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249i",
+                                "boundaryNum": 1,
+                                "name": "WARD_8",
+                                "localname": "WARD_8",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD8",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeq",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Konchak Mamang Leikai",
+                                        "localname": "Mayang Imphal Konchak Mamang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "017",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249j",
+                                "boundaryNum": 1,
+                                "name": "WARD_9",
+                                "localname": "WARD_9",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD9",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fder",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Awang Leikai",
+                                        "localname": "Mayang Imphal Bengoon Awang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "018",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdad",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Makha Leikai",
+                                        "localname": "Mayang Imphal Bengoon Makha Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "019",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdae",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Maning Leikai",
+                                        "localname": "Mayang Imphal Bengoon Maning Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "020",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaf",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Mayai Leikai-ward 9",
+                                        "localname": "Mayang Imphal Bengoon Mayai Leikai-ward 9",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "021",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdag",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Yangbi",
+                                        "localname": "Mayang Imphal Bengoon Yangbi",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "022",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_C",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249a",
+                                "boundaryNum": 1,
+                                "name": "WARD_10",
+                                "localname": "WARD_10",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD10",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdea",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Mayai Leikai-ward 10",
+                                        "localname": "Mayang Imphal Bengoon Mayai Leikai-ward 10",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "021",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdah",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Mayai - Makha Leikai",
+                                        "localname": "Mayang Imphal Bengoon Mayai - Makha Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "023",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdai",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Mayai - Awang Leikai",
+                                        "localname": "Mayang Imphal Bengoon Mayai - Awang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "024",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaj",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Mamang - Makha Leikai",
+                                        "localname": "Mayang Imphal Bengoon Mamang - Makha Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "025",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdak",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Mamang - Awang Leikai",
+                                        "localname": "Mayang Imphal Bengoon Mamang - Awang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "026",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdak",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Mamang Leikai-ward 10",
+                                        "localname": "Mayang Imphal Bengoon Mamang Leikai-ward 10",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "027",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249k",
+                                "boundaryNum": 1,
+                                "name": "WARD_11",
+                                "localname": "WARD_11",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD11",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeb",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Mamang Leikai-ward 11",
+                                        "localname": "Mayang Imphal Bengoon Mamang Leikai-ward 11",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "027",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdal",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Bengoon Loukok",
+                                        "localname": "Mayang Imphal Bengoon Loukok",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "028",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249l",
+                                "boundaryNum": 1,
+                                "name": "WARD_12",
+                                "localname": "WARD_12",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD12",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdec",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Awang Leikai-ward 12",
+                                        "localname": "Mayang Imphal Thana Awang Leikai-ward 12",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "005",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdao",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Chabung Company Makha Leikai",
+                                        "localname": "Mayang Imphal Chabung Company Makha Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "029",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdap",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Chabung Company Mayai Leikai",
+                                        "localname": "Mayang Imphal Chabung Company Mayai Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "030",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaq",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Chabung Company Awang Leikai",
+                                        "localname": "Mayang Imphal Chabung Company Awang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "031",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaq",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Thana Thongkhong/Awang Leikai",
+                                        "localname": "Mayang Imphal Thana Thongkhong/Awang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "032",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    }
+                                ]
+                            },
+							{
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249m",
+                                "boundaryNum": 1,
+                                "name": "WARD_13",
+                                "localname": "WARD_13",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD13",
+                                "children": [
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdar",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Chabung Company YurembamLeikai",
+                                        "localname": "Mayang Imphal Chabung Company YurembamLeikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "033",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdas",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Chirai Makha Leikai",
+                                        "localname": "Mayang Imphal Chirai Makha Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "034",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdat",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Chirai Mayai Leikai",
+                                        "localname": "Mayang Imphal Chirai Mayai Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "035",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdau",
+                                        "boundaryNum": 1,
+                                        "name": "Mayang Imphal Chirai Awang/Awang Muslim Leikai",
+                                        "localname": "Mayang Imphal Chirai Awang/Awang Muslim Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "036",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_C",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+					
+                ]
+            }
+        }
+    ]
+}

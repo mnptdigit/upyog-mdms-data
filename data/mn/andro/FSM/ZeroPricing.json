@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.andro",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}
