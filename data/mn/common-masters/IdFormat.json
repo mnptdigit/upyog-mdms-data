@@ -511,7 +511,7 @@
             "idname": "pt.mutation.number"
         },
         {
-            "format": "PG-MT-[CITY]-[SEQ_EG_PT_BIFURCATION]",
+            "format": "MN-MT-[CITY]-[SEQ_EG_PT_BIFURCATION]",
             "idname": "pt.bifurcation.number"
         },
         {
