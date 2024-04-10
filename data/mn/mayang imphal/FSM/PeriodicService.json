@@ -1,0 +1,10 @@
+{
+    "tenantId": "mn.mayangimphal",
+    "moduleName": "FSM",
+    "PeriodicService":[
+	{
+	   "timeLimit" : 7200000,
+	   "isSchedularConfiguration":true
+	}
+	]
+	}

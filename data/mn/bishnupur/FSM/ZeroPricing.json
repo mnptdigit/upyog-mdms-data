@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.bishnupur",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.nambol",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.lilongimphalwest",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.jiribam",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

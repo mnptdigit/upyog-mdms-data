@@ -1,0 +1,16 @@
+{
+    "tenantId": "mn.lilongthoubal",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "mn.imphal"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "mn.imphal"
+        }
+    ]
+}

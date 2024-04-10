@@ -1,5 +1,5 @@
 {
-  "tenantId": "mn.shikhong sekmai",
+  "tenantId": "mn.shikhongsekmai",
   "moduleName": "FinanceModule",
   "BankAccountServiceMapping": [
     {
@@ -7,28 +7,28 @@
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
-      "tenantId": "mn.shikhong sekmai"
+      "tenantId": "mn.shikhongsekmai"
     },
     {
       "businessDetails": "TL",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
-      "tenantId": "mn.shikhong sekmai"
+      "tenantId": "mn.shikhongsekmai"
     },
     {
       "businessDetails": "TL",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
-      "tenantId": "mn.shikhong sekmai"
+      "tenantId": "mn.shikhongsekmai"
     },
     {
       "businessDetails": "FIRENOC",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
-      "tenantId": "mn.shikhong sekmai"
+      "tenantId": "mn.shikhongsekmai"
     } 
   ]
 }

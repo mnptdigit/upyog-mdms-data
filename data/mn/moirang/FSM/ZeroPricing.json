@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.moirang",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

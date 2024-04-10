@@ -3,7 +3,7 @@
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "mn.wangjing lamding",
+        "tenantId": "mn.wangjinglamding",
         "reminderInterval": 691200000
       },
       {

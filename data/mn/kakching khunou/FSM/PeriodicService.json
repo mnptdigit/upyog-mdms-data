@@ -1,0 +1,10 @@
+{
+    "tenantId": "mn.kakchingkhunou",
+    "moduleName": "FSM",
+    "PeriodicService":[
+	{
+	   "timeLimit" : 7200000,
+	   "isSchedularConfiguration":true
+	}
+	]
+	}

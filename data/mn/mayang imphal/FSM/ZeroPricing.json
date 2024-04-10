@@ -1,0 +1,9 @@
+{
+    "tenantId": "mn.mayangimphal",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}
