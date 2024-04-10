@@ -14228,6 +14228,24 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt-home"
    },
+   {
+      "id": 2570,
+      "name": "PT_PROPERTY_AMALGAMATION_SEPERATION",
+      "url": "digit-ui-card",
+      "displayName": "Property Amalgamation/Seperation",
+      "orderNumber": 7,
+      "parentModule": "PT",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pt/property/property-amalgamation/search-property",
+      "leftIcon": "propertyIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pt-home"
+   },
    
    {
       "id": 2473,
