@@ -20804,6 +20804,24 @@
       "tenantId": "mn"
     },
     {
+      "rolecode": "ASSIGNING_OFFICER",
+      "actionid": 1776,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 3000,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3000,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 2183,
       "actioncode": "",
