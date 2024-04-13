@@ -691,6 +691,11 @@
       "code": "FIRENOC_REPORT_VIEWER",
       "name": "FireNOC Report Viewer",
       "description": "FireNOC User that can view FireNOC reports"
+    },
+	{
+      "code": "ASSIGNING_OFFICER",
+      "name": "Assigning_Officer",
+      "description": "one who assigns assessments"
     }
   ]
 }
