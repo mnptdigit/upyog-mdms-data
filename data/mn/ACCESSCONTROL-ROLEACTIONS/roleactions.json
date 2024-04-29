@@ -14167,6 +14167,24 @@
       "actioncode": "",
       "tenantId": "mn"
     },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
     {
       "rolecode": "PT_CEMP",
       "actionid": 1943,
