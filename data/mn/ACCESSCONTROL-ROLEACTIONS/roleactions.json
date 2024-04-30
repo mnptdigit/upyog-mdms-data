@@ -20119,6 +20119,12 @@
       "actioncode": "",
       "tenantId": "mn"
     },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
     {
       "rolecode": "PT_FIELD_INSPECTOR",
       "actionid": 2155,
