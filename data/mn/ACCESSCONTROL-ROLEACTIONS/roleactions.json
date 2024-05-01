@@ -10322,6 +10322,12 @@
       "actioncode": "",
       "tenantId": "mn"
     },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 1692,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
     {
       "rolecode": "TL_APPROVER",
       "actionid": 1537,
@@ -14164,6 +14170,24 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 1943,
       "actioncode": "",
       "tenantId": "mn"
     },
@@ -20097,6 +20121,12 @@
     },
     {
       "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "EMPLOYEE",
       "actionid": 2155,
       "actioncode": "",
       "tenantId": "mn"
