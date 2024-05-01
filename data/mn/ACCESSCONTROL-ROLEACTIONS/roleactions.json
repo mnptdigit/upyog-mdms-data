@@ -10322,6 +10322,12 @@
       "actioncode": "",
       "tenantId": "mn"
     },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 1692,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
     {
       "rolecode": "TL_APPROVER",
       "actionid": 1537,
