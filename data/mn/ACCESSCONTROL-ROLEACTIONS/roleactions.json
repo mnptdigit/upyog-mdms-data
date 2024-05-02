@@ -17137,6 +17137,18 @@
       "actioncode": "",
       "tenantId": "mn"
     },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "ASSIGNING_OFFICER",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
     {
       "rolecode": "WS_CEMP",
       "actionid": 1945,
