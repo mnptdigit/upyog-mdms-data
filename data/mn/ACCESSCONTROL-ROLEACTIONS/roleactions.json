@@ -17329,6 +17329,30 @@
       "actioncode": "",
       "tenantId": "mn"
     },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "PT_APPROVER",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
     {
       "rolecode": "WS_CEMP",
       "actionid": 1895,
