@@ -14909,6 +14909,18 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    }
+    },
+	{
+         "id": 2520,
+         "name": "LocalizationMessagesCacheburst",
+         "url": "/localization/messages/cache-bust",
+         "displayName": "Localization Messages cache-bust",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "filestore url",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
