@@ -26269,6 +26269,18 @@
       "actionid": 2520,
       "actioncode": "",
       "tenantId": "mn"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 2521,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 2521,
+      "actioncode": "",
+      "tenantId": "mn"
     }
   ]
 }
