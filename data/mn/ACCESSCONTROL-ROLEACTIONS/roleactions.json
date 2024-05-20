@@ -26305,6 +26305,24 @@
       "actionid": 2522,
       "actioncode": "",
       "tenantId": "mn"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2523,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2523,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+    {
+      "rolecode": "EXECUTING_OFFICER",
+      "actionid": 2523,
+      "actioncode": "",
+      "tenantId": "mn"
     }
   ]
 }

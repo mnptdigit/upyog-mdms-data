@@ -14936,9 +14936,20 @@
       },
       {
          "id": 2522,
-         "name": "Create Property registry",
+         "name": "Create appeal registry",
          "url": "/property-services/appeal/_create",
          "displayName": "Appeal Property Registry",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2523,
+         "name": "search appeal registry",
+         "url": "/property-services/appeal/_search",
+         "displayName": "Appeal Property Search",
          "orderNumber": 1,
          "enabled": false,
          "serviceCode": "property-services",
