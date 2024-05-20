@@ -696,6 +696,11 @@
       "code": "ASSIGNING_OFFICER",
       "name": "Assigning_Officer",
       "description": "one who assigns assessments"
+    },
+	{
+	  "code": "EXECUTING_OFFICER",
+      "name": "Executing_Officer",
+      "description": "one who varifies appeal"
     }
   ]
 }
