@@ -11073,6 +11073,12 @@
       "tenantId": "mn"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 1741,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1742,
       "actioncode": "",
