@@ -26293,6 +26293,12 @@
       "actionid": 2521,
       "actioncode": "",
       "tenantId": "mn"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2522,
+      "actioncode": "",
+      "tenantId": "mn"
     }
   ]
 }

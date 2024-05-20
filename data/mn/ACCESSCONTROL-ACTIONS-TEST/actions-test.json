@@ -14933,6 +14933,17 @@
          "serviceCode": "pg-service",
          "code": "null",
          "path": ""
-      }
+      },
+      {
+         "id": 2522,
+         "name": "Create Property registry",
+         "url": "/property-services/appeal/_create",
+         "displayName": "Appeal Property Registry",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
    ]
 }
