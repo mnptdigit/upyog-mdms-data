@@ -14955,6 +14955,50 @@
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2524,
+         "name": "update appeal registry",
+         "url": "/property-services/appeal/_update",
+         "displayName": "Appeal Property Search",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2525,
+         "name": "notice service registry",
+         "url": "/property-services/notice/_save",
+         "displayName": "Appeal Property Search",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2526,
+         "name": "notice service registry",
+         "url": "/property-services/notice/_save",
+         "displayName": "Appeal Property Search",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2527,
+         "name": "notice service registry",
+         "url": "/property-services/notice/_search",
+         "displayName": "Appeal Property Search",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
