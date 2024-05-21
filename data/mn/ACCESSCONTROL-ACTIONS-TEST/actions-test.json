@@ -13658,6 +13658,25 @@
       "sidebarURL": "/digit-ui/citizen/pt-home"
    },
    {
+      "id": 2537,
+      "name": "Notices",
+      "url": "digit-ui-card",
+      "displayName": "Notices",
+      "orderNumber": 30,
+      "parentModule": "PT",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pt/property/notices",
+      "leftIcon": "propertyIcon",
+      "cardIcon": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/My-Payments.png",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pt-home"
+   },
+   {
       "id": 2438,
       "name": "ABOUT DASHBOARD",
       "url": "url",
