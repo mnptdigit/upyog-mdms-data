@@ -26365,18 +26365,6 @@
       "actionid": 2526,
       "actioncode": "",
       "tenantId": "mn"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2527,
-      "actioncode": "",
-      "tenantId": "mn"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2527,
-      "actioncode": "",
-      "tenantId": "mn"
     }
   ]
 }
