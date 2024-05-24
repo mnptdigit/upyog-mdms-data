@@ -1,0 +1,105 @@
+{
+    "tenantId": "mn.heirok",
+    "moduleName": "PropertyTax",
+    "UsageCategoryRates": [
+        {
+            "name": "Owner's Residential Use Only",
+            "code": "OWNER_RESIDENTIAL",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 1
+            }
+        },
+        {
+            "name": "Owner's Commercial Use Only ",
+            "code": "OWNER_COMMERCIAL",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 1.8
+            }
+        },
+        {
+            "name": "Owner's Mixed Use Only",
+            "code": "OWNER_MIXED",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 1.4
+            }
+        },
+        {
+            "name": "Tenant's Residential Use Only",
+            "code": "TENANT_RESIDENTIAL",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 1
+            }
+        },
+        {
+            "name": "Tenant's Commercial Use Only ",
+            "code": "TENANT_COMMERCIAL",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 1.8
+            }
+        },
+        {
+            "name": "Tenants' Mix Use",
+            "code": "TENANT_MIXED",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 1.4
+            }
+        },
+        {
+            "name": "Use by the State Govt./Public Sector Undertaking/ Local Government owned for offices and any other purpose (including residential quarters),",
+            "code": "USE_BY_STATE_GOVT",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 1
+            }
+        },
+        {
+            "name": "Use by the Departments of the Central Government",
+            "code": "USE_BY_CENTRAL_GOVT",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 1
+            }
+        },
+        {
+            "name": "Vacant land not being agricultural land without any use",
+            "code": "AGRICULTURAL_WITHOUT_USE",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 1
+            }
+        },
+        {
+            "name": "Vacant Land not being agricultural land with and put to any commercial use",
+            "code": "AGRICULTURAL_COMMERCIAL_USE",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 1.5
+            }
+        },
+        {
+            "name": "Appurtenant land (land connected with building)",
+            "code": "APPURTENENT_LAND",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 0.20
+            }
+        }
+    ]
+}
