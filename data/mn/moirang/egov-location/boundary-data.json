@@ -111,6 +111,21 @@
                                         ],
                                         "area": "AREA_C",
                                         "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdao",
+                                        "boundaryNum": 1,
+                                        "name": "Turenbal Leikai",
+                                        "localname": "Turenbal Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD4009",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_C",
+                                        "children": []
                                     }
                                 ]
                             },
@@ -181,6 +196,21 @@
                                 "label": "Block",
                                 "code": "WARD1",
                                 "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdap",
+                                        "boundaryNum": 1,
+                                        "name": "Panshang Leikai-ward 1",
+                                        "localname": "Panshang Leikai-ward 1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD1003",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
                                         "boundaryNum": 1,
@@ -271,8 +301,8 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdey",
                                         "boundaryNum": 1,
-                                        "name": "Moirang Bazar",
-                                        "localname": "Moirang Bazar",
+                                        "name": "Moirang Bazar-ward 2",
+                                        "localname": "Moirang Bazar-ward 2",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
