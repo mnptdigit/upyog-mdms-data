@@ -1,1083 +1,1163 @@
 {
-  "tenantId": "mn",
-  "moduleName": "tenant",
-  "citymodule": [
-    {
-      "module": "PGR",
-      "code": "PGR",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
-      "active": true,
-      "order":2,
-      "tenants": [
+    "tenantId": "mn",
+    "moduleName": "tenant",
+    "citymodule": [
         {
-          "code": "mn.imphal"
+            "module": "PGR",
+            "code": "PGR",
+            "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+            "active": true,
+            "order": 2,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
         },
         {
-          "code": "mn.lamlai"
+            "module": "PT",
+            "code": "PT",
+            "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+            "active": true,
+            "order": 1,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
         },
         {
-          "code": "mn.heirok"
+            "module": "QuickPayLinks",
+            "code": "QuickPayLinks",
+            "active": true,
+            "order": 1,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                }
+            ]
         },
         {
-          "code": "mn.jiribam"
+            "module": "Finance",
+            "code": "Finance",
+            "active": false,
+            "order": 4,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
         },
         {
-          "code": "mn.andro"
+            "module": "TL",
+            "code": "TL",
+            "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
+            "active": true,
+            "order": 2,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
         },
         {
-          "code": "mn.moirang"
+            "module": "FireNoc",
+            "code": "FireNoc",
+            "active": true,
+            "order": 2,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
         },
         {
-          "code": "mn.bishnupur"
+            "module": "UC",
+            "code": "UC",
+            "active": false,
+            "order": 2,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
         },
         {
-          "code": "pg.cityb"
+            "module": "BPAREG",
+            "code": "BPAREG",
+            "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+            "active": true,
+            "order": 2,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
         },
         {
-          "code": "pg.cityc"
+            "module": "BPAAPPLY",
+            "code": "BPAAPPLY",
+            "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+            "active": true,
+            "order": 2,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
         },
         {
-          "code": "pg.cityd"
+            "module": "PGR.WHATSAPP",
+            "code": "PGR.WHATSAPP",
+            "active": false,
+            "order": 4,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                }
+            ]
         },
         {
-          "code": "pg.citye"
+            "module": "OBPS",
+            "code": "OBPS",
+            "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+            "active": true,
+            "order": 2,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "FSM",
+            "code": "FSM",
+            "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
+            "active": true,
+            "order": 2,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "Payment",
+            "code": "Payment",
+            "active": true,
+            "order": 1,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "Receipts",
+            "code": "Receipts",
+            "active": true,
+            "order": 3,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "NOC",
+            "code": "NOC",
+            "active": true,
+            "order": 2,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "DSS",
+            "code": "DSS",
+            "active": true,
+            "order": 6,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "Engagement",
+            "code": "Engagement",
+            "active": true,
+            "order": 3,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "MCollect",
+            "code": "MCollect",
+            "active": true,
+            "order": 1,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "HRMS",
+            "code": "HRMS",
+            "active": true,
+            "order": 2,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "CommonPT",
+            "code": "CommonPT",
+            "active": true,
+            "order": 3,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "NDSS",
+            "code": "NDSS",
+            "active": true,
+            "order": 5,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "WS",
+            "code": "WS",
+            "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
+            "active": true,
+            "order": 1,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                }
+            ]
+        },
+        {
+            "module": "SW",
+            "code": "SW",
+            "active": true,
+            "order": 1,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                }
+            ]
+        },
+        {
+            "module": "BillAmendment",
+            "code": "BillAmendment",
+            "active": true,
+            "order": 1,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                }
+            ]
+        },
+        {
+            "module": "Bills",
+            "code": "Bills",
+            "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
+            "active": true,
+            "order": 3,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                }
+            ]
+        },
+        {
+            "module": "Birth",
+            "code": "Birth",
+            "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+            "active": true,
+            "order": 1,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
+        },
+        {
+            "module": "Death",
+            "code": "Death",
+            "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+            "active": true,
+            "order": 1,
+            "tenants": [
+                {
+                    "code": "mn.imphal"
+                },
+                {
+                    "code": "mn.lamlai"
+                },
+                {
+                    "code": "mn.heirok"
+                },
+                {
+                    "code": "mn.jiribam"
+                },
+                {
+                    "code": "mn.andro"
+                },
+                {
+                    "code": "mn.moirang"
+                },
+                {
+                    "code": "mn.bishnupur"
+                },
+                {
+                    "code": "mn.ningthoukhong"
+                },
+                {
+                    "code": "pg.cityb"
+                },
+                {
+                    "code": "pg.cityc"
+                },
+                {
+                    "code": "pg.cityd"
+                },
+                {
+                    "code": "pg.citye"
+                }
+            ]
         }
-
-      ]
-    },
-    {
-      "module": "PT",
-      "code": "PT",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "QuickPayLinks",
-      "code": "QuickPayLinks",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        }
-      ]
-    },
-   {
-      "module": "Finance",
-      "code": "Finance",
-      "active": false,
-      "order":4,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "TL",
-      "code": "TL",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "FireNoc",
-      "code": "FireNoc",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "UC",
-      "code": "UC",
-      "active": false,
-      "order":2,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "BPAREG",
-      "code": "BPAREG",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "BPAAPPLY",
-      "code": "BPAAPPLY",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "PGR.WHATSAPP",
-      "code": "PGR.WHATSAPP",
-      "active": false,
-      "order":4,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        }
-      ]
-    },
-    {
-      "module": "OBPS",
-      "code": "OBPS",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "FSM",
-      "code": "FSM",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "Payment",
-      "code": "Payment",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "Receipts",
-      "code": "Receipts",
-      "active": true,
-      "order":3,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "NOC",
-      "code": "NOC",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "DSS",
-      "code": "DSS",
-      "active": true,
-      "order":6,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "Engagement",
-      "code": "Engagement",
-      "active": true,
-      "order":3,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "MCollect",
-      "code": "MCollect",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "HRMS",
-      "code": "HRMS",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "CommonPT",
-      "code": "CommonPT",
-      "active": true,
-      "order":3,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "NDSS",
-      "code": "NDSS",
-      "active": true,
-      "order":5,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "WS",
-      "code": "WS",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        }
-      ]
-    },
-    {
-      "module": "SW",
-      "code": "SW",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        }
-      ]
-    },
-    {
-      "module": "BillAmendment",
-      "code": "BillAmendment",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        }
-      ]
-    },
-    {
-      "module": "Bills",
-      "code": "Bills",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
-      "active": true,
-      "order": 3,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        }
-      ]
-    },
-    {
-      "module": "Birth",
-      "code": "Birth",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "Death",
-      "code": "Death",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "mn.imphal"
-        },
-        {
-          "code": "mn.lamlai"
-        },
-        {
-          "code": "mn.heirok"
-        },
-        {
-          "code": "mn.jiribam"
-        },
-        {
-          "code": "mn.andro"
-        },
-        {
-          "code": "mn.moirang"
-        },
-        {
-          "code": "mn.bishnupur"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    }
-  ]
+    ]
 }
