@@ -264,6 +264,72 @@
       },
       "address": "Ningthoukhong Municipal Corporation",
       "contactNumber": "001-2345876"
+    },
+    {
+      "code": "mn.thoubal",
+      "name": "Thoubal",
+      "description": "Thoubal",
+      "pincode": [143001,143002,143003,143004,143005],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog-test.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "citya@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Thoubal",
+        "localName": null,
+        "districtCode": "Thoubal",
+        "districtName": null,
+        "districtTenantCode": "mn.thoubal",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "03",
+        "ddrName": "DDR A"
+      },
+      "address": "Thoubal Municipal Corporation",
+      "contactNumber": "001-2345876"
+    },
+    {
+      "code": "mn.thongkhongluxmi",
+      "name": "Thongkhong luxmi",
+      "description": "Thongkhong luxmi",
+      "pincode": [143001,143002,143003,143004,143005],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog-test.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "citya@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Thongkhong luxmi",
+        "localName": null,
+        "districtCode": "Thongkhong luxmi",
+        "districtName": null,
+        "districtTenantCode": "mn.thongkhongluxmi",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "03",
+        "ddrName": "DDR A"
+      },
+      "address": "Thongkhong luxmi Municipal Corporation",
+      "contactNumber": "001-2345876"
     }
    ]
 }
