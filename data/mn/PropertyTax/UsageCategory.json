@@ -4,49 +4,49 @@
     "UsageCategory": [
         
         {
-            "name": "Owner's Residential Use Only",
+            "name": "Owner's Residential Use",
             "code": "OWNER_RESIDENTIAL",
             "active": true,
             "fromFY": "2015-16"
         },
         {
-            "name": "Owner's Commercial Use Only ",
+            "name": "Owner's Commercial Use",
             "code": "OWNER_COMMERCIAL",
             "active": true,
             "fromFY": "2015-16"
         },
         {
-            "name": "Owner's Mixed Use Only",
+            "name": "Owner's Mixed Use",
             "code": "OWNER_MIXED",
             "active": true,
             "fromFY": "2015-16"
         },
         {
-            "name": "Tenant's Residential Use Only",
+            "name": "Tenant's Residential Use",
             "code": "TENANT_RESIDENTIAL",
             "active": true,
             "fromFY": "2015-16"
         },
         {
-            "name": "Tenant's Commercial Use Only ",
+            "name": "Tenant's Commercial Use",
             "code": "TENANT_COMMERCIAL",
             "active": true,
             "fromFY": "2015-16"
         },
 		    {
-            "name": "Tenants' Mix Use",
+            "name": "Tenant's Mixed Use",
             "code": "TENANT_MIXED",
             "active": true,
             "fromFY": "2015-16"
         },
 		    {
-            "name": "Use by the State Govt./Public Sector Undertaking/ Local Government owned for offices and any other purpose (including residential quarters),",
+            "name": "Used by the State Govt./Public Sector Undertaking/ Local Government owned for offices and any other purpose (including residential quarters),",
             "code": "USE_BY_STATE_GOVT",
             "active": true,
             "fromFY": "2015-16"
         },
 		    {
-            "name": "Use by the Departments of the Central Government",
+            "name": "Used by the Departments of the Central Government",
             "code": "USE_BY_CENTRAL_GOVT",
             "active": true,
             "fromFY": "2015-16"
@@ -58,7 +58,7 @@
             "fromFY": "2015-16"
         },
 		  {
-            "name": "Vacant Land not being agricultural land with and put to any commercial use",
+            "name": "Vacant land not being agricultural land with and put to any commercial use",
             "code": "AGRICULTURAL_COMMERCIAL_USE",
             "active": true,
             "fromFY": "2015-16"
