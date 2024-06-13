@@ -6,63 +6,75 @@
     {
       "name": "Individual(s)",
       "code": "INDIVIDUAL",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":01
     },
     {
       "name": "Institutional - Private ",
       "code": "INSTITUTIONALPRIVATE",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":02
     },
     {
       "name": "Institutional - Government",
       "code": "INSTITUTIONALGOVERNMENT",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":03
     },
     {
       "name": "Individual - SingleOwner",
       "code": "INDIVIDUAL.SINGLEOWNER",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":04
     },
     {
       "name": "Multiple Owners",
       "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":05
     },
     {
       "name": "Private Company",
       "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":06
     },
     {
       "name": "NGO",
       "code": "INSTITUTIONALPRIVATE.NGO",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":07
     },
     {
       "name": "Private Trust",
       "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":08
     },
    
     {
       "name": "ULB Government",
       "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":09
     },
     {
       "name": "State Government",
       "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":10
     },
     {
       "name": "OWNER_RESIDENTIAL",
       "code": "OWNER_RESIDENTIAL",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":11
     },
     {
       "name": "Institutional",
       "code": "INSTITUTIONAL",
-      "active": true
+      "active": true,
+      "OwnerShipCategoryCode":12
     }
   
   ]
