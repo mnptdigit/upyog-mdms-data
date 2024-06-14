@@ -1,81 +1,78 @@
 {
-  "tenantId": "mn",
-  "moduleName": "PropertyTax",
-  "OwnerShipCategory":
-  [
-    {
-      "name": "Individual(s)",
-      "code": "INDIVIDUAL",
-      "active": true,
-      "OwnerShipCategoryCode":01
-    },
-    {
-      "name": "Institutional - Private ",
-      "code": "INSTITUTIONALPRIVATE",
-      "active": true,
-      "OwnerShipCategoryCode":02
-    },
-    {
-      "name": "Institutional - Government",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": true,
-      "OwnerShipCategoryCode":03
-    },
-    {
-      "name": "Individual - SingleOwner",
-      "code": "INDIVIDUAL.SINGLEOWNER",
-      "active": true,
-      "OwnerShipCategoryCode":04
-    },
-    {
-      "name": "Multiple Owners",
-      "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": true,
-      "OwnerShipCategoryCode":05
-    },
-    {
-      "name": "Private Company",
-      "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
-      "active": true,
-      "OwnerShipCategoryCode":06
-    },
-    {
-      "name": "NGO",
-      "code": "INSTITUTIONALPRIVATE.NGO",
-      "active": true,
-      "OwnerShipCategoryCode":07
-    },
-    {
-      "name": "Private Trust",
-      "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
-      "active": true,
-      "OwnerShipCategoryCode":08
-    },
-   
-    {
-      "name": "ULB Government",
-      "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
-      "active": true,
-      "OwnerShipCategoryCode":09
-    },
-    {
-      "name": "State Government",
-      "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
-      "active": true,
-      "OwnerShipCategoryCode":10
-    },
-    {
-      "name": "OWNER_RESIDENTIAL",
-      "code": "OWNER_RESIDENTIAL",
-      "active": true,
-      "OwnerShipCategoryCode":11
-    },
-    {
-      "name": "Institutional",
-      "code": "INSTITUTIONAL",
-      "active": true,
-      "OwnerShipCategoryCode":12
-    }
-  
-  ]
+    "tenantId": "mn",
+    "moduleName": "PropertyTax",
+    "OwnerShipCategory": [
+        {
+            "name": "Individual(s)",
+            "code": "INDIVIDUAL",
+            "active": true,
+            "OwnerShipCategoryCode": "01"
+        },
+        {
+            "name": "Institutional - Private ",
+            "code": "INSTITUTIONALPRIVATE",
+            "active": true,
+            "OwnerShipCategoryCode": "02"
+        },
+        {
+            "name": "Institutional - Government",
+            "code": "INSTITUTIONALGOVERNMENT",
+            "active": true,
+            "OwnerShipCategoryCode": "03"
+        },
+        {
+            "name": "Individual - SingleOwner",
+            "code": "INDIVIDUAL.SINGLEOWNER",
+            "active": true,
+            "OwnerShipCategoryCode": "04"
+        },
+        {
+            "name": "Multiple Owners",
+            "code": "INDIVIDUAL.MULTIPLEOWNERS",
+            "active": true,
+            "OwnerShipCategoryCode": "05"
+        },
+        {
+            "name": "Private Company",
+            "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
+            "active": true,
+            "OwnerShipCategoryCode": "06"
+        },
+        {
+            "name": "NGO",
+            "code": "INSTITUTIONALPRIVATE.NGO",
+            "active": true,
+            "OwnerShipCategoryCode": "07"
+        },
+        {
+            "name": "Private Trust",
+            "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
+            "active": true,
+            "OwnerShipCategoryCode": "08"
+        },
+        {
+            "name": "ULB Government",
+            "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
+            "active": true,
+            "OwnerShipCategoryCode": "09"
+        },
+        {
+            "name": "State Government",
+            "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
+            "active": true,
+            "OwnerShipCategoryCode": "10"
+        },
+        {
+            "name": "OWNER_RESIDENTIAL",
+            "code": "OWNER_RESIDENTIAL",
+            "active": true,
+            "OwnerShipCategoryCode": "11"
+        },
+        {
+            "name": "Institutional",
+            "code": "INSTITUTIONAL",
+            "active": true,
+            "OwnerShipCategoryCode": "12"
+        }
+    ]
 }
