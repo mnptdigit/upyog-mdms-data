@@ -363,6 +363,39 @@
       },
       "address": "Kakching Municipal Corporation",
       "contactNumber": "001-2345876"
+    },
+    {
+      "code": "mn.kakchingkhunou",
+      "name": "Kakching khunou",
+      "description": "Kakching khunou",
+      "pincode": [143001,143002,143003,143004,143005],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog-test.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "citya@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Kakching khunou",
+        "localName": null,
+        "districtCode": "Kakching khunou",
+        "districtName": null,
+        "districtTenantCode": "mn.kakchingkhunou",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "07",
+        "ddrName": "DDR A"
+      },
+      "address": "Kakching khunou Municipal Corporation",
+      "contactNumber": "001-2345876"
     }
    ]
 }
