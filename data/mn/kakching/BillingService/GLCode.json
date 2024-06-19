@@ -5,12 +5,12 @@
         {
             "code": "BIRTH_CERT",
             "glcode": null,
-            "cb": "mn.imphal"
+            "cb": "mn.kakching"
         },
         {
             "code": "DEATH_CERT",
             "glcode": null,
-            "cb": "mn.imphal"
+            "cb": "mn.kakching"
         }
     ]
 }

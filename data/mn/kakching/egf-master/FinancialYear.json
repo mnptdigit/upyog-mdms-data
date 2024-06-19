@@ -2,6 +2,20 @@
   "tenantId": "mn.kakching",
   "moduleName": "egf-master",
   "FinancialYear": [
+	{
+      "id": "31",
+      "tenantId": "mn",
+      "finYearRange":  "2024-25",
+      "name":  "2024-25",
+      "code":  "2024-25",
+      "startingDate": 1711953000000,
+      "endingDate": 1743445799000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "PT"
+    },
      {
       "id": "26",
       "tenantId": "mn",

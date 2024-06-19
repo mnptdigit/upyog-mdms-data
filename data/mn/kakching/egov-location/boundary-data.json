@@ -45,7 +45,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "010",
+                                        "code": "WD4010",
                                         "pincode": [
                                             143001
                                         ],
@@ -60,7 +60,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "011",
+                                        "code": "WD4011",
                                         "pincode": [
                                             143001
                                         ],
@@ -75,7 +75,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "012",
+                                        "code": "WD4012",
                                         "pincode": [
                                             143001
                                         ],
@@ -90,7 +90,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "013",
+                                        "code": "WD4013",
                                         "pincode": [
                                             143001
                                         ],
@@ -105,7 +105,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "014",
+                                        "code": "WD4014",
                                         "pincode": [
                                             143001
                                         ],
@@ -132,7 +132,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "007",
+                                        "code": "WD3007",
                                         "pincode": [
                                             143001
                                         ],
@@ -147,7 +147,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "006",
+                                        "code": "WD3006",
                                         "pincode": [
                                             143001
                                         ],
@@ -174,7 +174,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "001",
+                                        "code": "WD1001",
                                         "pincode": [
                                             143001
                                         ],
@@ -189,7 +189,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "002",
+                                        "code": "WD1002",
                                         "pincode": [
                                             143001
                                         ],
@@ -204,7 +204,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "003",
+                                        "code": "WD1003",
                                         "pincode": [
                                             143001
                                         ],
@@ -219,7 +219,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "004",
+                                        "code": "WD1004",
                                         "pincode": [
                                             143001
                                         ],
@@ -246,7 +246,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "005",
+                                        "code": "WD2005",
                                         "pincode": [
                                             143001
                                         ],
@@ -273,7 +273,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "015",
+                                        "code": "WD5015",
                                         "pincode": [
                                             143001
                                         ],
@@ -288,7 +288,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "016",
+                                        "code": "WD5016",
                                         "pincode": [
                                             143001
                                         ],
@@ -315,7 +315,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "009",
+                                        "code": "WD6009",
                                         "pincode": [
                                             143001
                                         ],
@@ -330,7 +330,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "017",
+                                        "code": "WD6017",
                                         "pincode": [
                                             143001
                                         ],
@@ -357,7 +357,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "008",
+                                        "code": "WD7008",
                                         "pincode": [
                                             143001
                                         ],
@@ -372,7 +372,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "018",
+                                        "code": "WD7018",
                                         "pincode": [
                                             143001
                                         ],
@@ -387,7 +387,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "019",
+                                        "code": "WD7019",
                                         "pincode": [
                                             143001
                                         ],
@@ -402,7 +402,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "020",
+                                        "code": "WD7020",
                                         "pincode": [
                                             143001
                                         ],
@@ -417,7 +417,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "021",
+                                        "code": "WD7021",
                                         "pincode": [
                                             143001
                                         ],
@@ -432,7 +432,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "022",
+                                        "code": "WD7022",
                                         "pincode": [
                                             143001
                                         ],
@@ -459,7 +459,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "027",
+                                        "code": "WD8027",
                                         "pincode": [
                                             143001
                                         ],
@@ -486,7 +486,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "028",
+                                        "code": "WD9028",
                                         "pincode": [
                                             143001
                                         ],
@@ -513,7 +513,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "030",
+                                        "code": "WD10030",
                                         "pincode": [
                                             143001
                                         ],
@@ -540,7 +540,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "025",
+                                        "code": "WD11025",
                                         "pincode": [
                                             143001
                                         ],
@@ -555,7 +555,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "029",
+                                        "code": "WD11029",
                                         "pincode": [
                                             143001
                                         ],
@@ -582,7 +582,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "023",
+                                        "code": "WD12023",
                                         "pincode": [
                                             143001
                                         ],
@@ -597,7 +597,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "024",
+                                        "code": "WD12024",
                                         "pincode": [
                                             143001
                                         ],
@@ -612,7 +612,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "026",
+                                        "code": "WD12026",
                                         "pincode": [
                                             143001
                                         ],
