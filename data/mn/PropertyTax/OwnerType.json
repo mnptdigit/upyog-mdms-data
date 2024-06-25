@@ -14,8 +14,8 @@
       }
     },
     {
-      "name": "Widow",
-      "code": "WIDOW",
+      "name": "War Widow",
+      "code": "WARWIDOW",
       "active": true,
       "fromFY": "2015-16",
       "exemption": {
