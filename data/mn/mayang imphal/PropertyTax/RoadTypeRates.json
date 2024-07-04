@@ -1,0 +1,79 @@
+{
+  "tenantId": "mn.mayangimphal",
+  "moduleName": "PropertyTax",
+  "RoadTypeRates": [
+    {
+      "name": "National Highway with Right of Way is 25-45 meters or State Highways with Right of Way is 15-30 meters",
+      "code": "VACANT_NATIONAL_HIGHWAY",
+      "active": true,
+      "fromFY": "2015-16",
+      "value":{
+         "rate": 1
+      }
+     
+    },
+    {
+      "name": "National Highway with Right of Way is 25-45 meters or State Highways with Right of Way is 15-30 meters",
+      "code": "BUILTUP_NATIONAL_HIGHWAY",
+      "active": true,
+      "fromFY": "2015-16",
+      "value":{
+         "rate": 1
+      }
+    },
+     {
+      "name": "Major District Roads (MDR) would include roads with Right of Way is 7-15 meters",
+      "code": "VACANT_MAJOR_DIST_ROAD",
+      "active": true,
+      "fromFY": "2015-16",
+     "value":{
+         "rate": 0.90
+      }
+    },
+    {
+      "name": "Major District Roads (MDR) would include roads with Right of Way is 7-15 meters",
+      "code": "BUILTUP_MAJOR_DIST_ROAD",
+      "active": true,
+      "fromFY": "2015-16",
+      "value":{
+         "rate": 0.90
+      }
+    },
+     {
+      "name": "Other District Roads (ODR) would include all other roads not listed above with Right of Way is 4 - 12 meters",
+      "code": "VACANT_OTHER_DIST_ROAD",
+      "active": true,
+      "fromFY": "2015-16",
+      "value":{
+         "rate": 0.75
+      }
+    },
+    {
+      "name": "Other District Roads (ODR) would include all other roads not listed above with Right of Way is 4 - 12 meters",
+      "code": "BUILTUP_OTHER_DIST_ROAD",
+      "active": true,
+      "fromFY": "2015-16",
+      "value":{
+         "rate": 0.75
+      }
+    },
+    {
+      "name": "Any roads other than above would include village roads, having Right of Way less than 4 meters",
+      "code": "VACANT_OTHER_ROAD",
+      "active": true,
+      "fromFY": "2015-16",
+      "value":{
+         "rate": 0.50
+      }
+    },
+    {
+      "name": "Any roads other than above would include village roads, having Right of Way less than 4 meters",
+      "code": "BUILTUP_OTHER_ROAD",
+      "active": true,
+      "fromFY": "2015-16",
+      "value":{
+         "rate": 0.50
+      }
+    }
+  ]
+}
