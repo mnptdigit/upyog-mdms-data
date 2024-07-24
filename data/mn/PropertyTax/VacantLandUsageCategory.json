@@ -1,0 +1,24 @@
+{
+    "tenantId": "mn",
+    "moduleName": "PropertyTax",
+    "VacantLandUsageCategory": [
+        {
+            "name": "Vacant land not being agricultural land without any use",
+            "code": "AGRICULTURAL_WITHOUT_USE",
+            "active": true,
+            "fromFY": "2015-16"
+        },
+        {
+            "name": "Vacant Land not being agricultural land with and put to any commercial use",
+            "code": "AGRICULTURAL_COMMERCIAL_USE",
+            "active": true,
+            "fromFY": "2015-16"
+        },
+        {
+            "name": "Appurtenant land (land connected with building)",
+            "code": "APPURTENENT_LAND",
+            "active": true,
+            "fromFY": "2015-16"
+        }
+    ]
+}
