@@ -58,8 +58,8 @@
       }
     },
     {
-      "name": "General",
-      "code": "GENERAL",
+      "name": "War Disables",
+      "code": "WARDISABLES",
       "active": true,
       "fromFY": "2015-16",
       "exemption": {
