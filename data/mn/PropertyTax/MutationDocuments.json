@@ -86,14 +86,6 @@
           "active": true
         },
         {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.PATTACERTIFICATE",
-          "active": true
-        },
-        {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.REGISTEREDWILLDEED",
-          "active": true
-        },
-        {
           "code": "OWNER.TRANSFERREASONDOCUMENT.PARTITIONDEED",
           "active": true
         },
@@ -175,14 +167,14 @@
           "code": "OWNER.SPECIALCATEGORYPROOF.DEATHCERTIFICATE",
           "active": true,
           "parentValue": [
-            "WIDOW"
+            "WARWIDOW"
           ]
         },
         {
           "code": "OWNER.SPECIALCATEGORYPROOF.GENERALID",
           "active": true,
           "parentValue": [
-            "GENERAL"
+            "WARDISABLES"
           ]
         }
       ],

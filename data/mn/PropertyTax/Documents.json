@@ -142,14 +142,6 @@
           "active": true
         },
         {
-          "code": "OWNER.REGISTRATIONPROOF.PATTACERTIFICATE",
-          "active": false
-        },
-        {
-          "code": "OWNER.REGISTRATIONPROOF.REGISTEREDWILLDEED",
-          "active": true
-        },
-        {
           "code": "OWNER.REGISTRATIONPROOF.PARTITIONDEED",
           "active": true
         },
@@ -249,14 +241,14 @@
           "code": "OWNER.SPECIALCATEGORYPROOF.DEATHCERTIFICATE",
           "active": true,
           "parentValue": [
-            "WIDOW"
+            "WARWIDOW"
           ]
         },
         {
           "code": "OWNER.SPECIALCATEGORYPROOF.GENERALID",
           "active": true,
           "parentValue": [
-            "GENERAL"
+            "WARDISABLES"
           ]
         }
       ],
@@ -320,53 +312,6 @@
         }
       ],
       "description": "OWNER.USAGEPROOF.USAGEPROOF_DESCRIPTION"
-    },
-    
-    {
-      "code": "OWNER.OCCUPANCYPROOF",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "digit-citizen":true,
-      "hasDropdown": true,
-      "additionalDetails": {
-        "filterCondition": {
-          "filterValue": [
-            "SELFOCCUPIED",
-            "UNOCCUPIED"
-          ],
-          "jsonPath": "Properties[0].propertyDetails[0].units",
-          "onArray": true,
-          "arrayAttribute": "occupancyType",
-          "formDataPath": ["units"],
-          "formArrayAttrPath": ["occupancyType"]
-        },
-        "enabledActions": {
-          "assess": {
-            "disableUpload": true,
-            "disableDropdown": true
-          },
-          "reassess": {
-            "disableUpload": true,
-            "disableDropdown": true
-          },
-          "update": {
-            "disableUpload": false,
-            "disableDropdown": false
-          },
-          "create": {
-            "disableUpload": false,
-            "disableDropdown": false
-          }
-        }
-      },
-      "dropdownData": [
-        {
-          "code": "OWNER.OCCUPANCYPROOF.RENTAGREEMENT",
-          "active": true
-        }
-      ],
-      "description": "OWNER.OCCUPANCYPROOF.OCCUPANCYPROOF_DESCRIPTION"
     }
   ]
 }
