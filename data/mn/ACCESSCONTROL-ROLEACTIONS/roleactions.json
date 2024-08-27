@@ -14689,6 +14689,12 @@
       "actioncode": "",
       "tenantId": "mn"
     },
+	{
+      "rolecode": "ASSIGNING_OFFICER",
+      "actionid": 1962,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
     {
       "rolecode": "PT_DOC_VERIFIER",
       "actionid": 1766,
