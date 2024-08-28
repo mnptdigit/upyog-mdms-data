@@ -14986,6 +14986,17 @@
             "code": "null",
             "path": ""
         },
+		{
+            "id": 2527,
+            "name": "Nodues report",
+            "url": "/billing-service/bill/v2/_nodues",
+            "displayName": "notice Property Search",
+            "orderNumber": 1,
+            "enabled": false,
+            "serviceCode": "Billing-service",
+            "code": "null",
+            "path": ""
+        },
         {
             "id": 2537,
             "name": "Notices",
