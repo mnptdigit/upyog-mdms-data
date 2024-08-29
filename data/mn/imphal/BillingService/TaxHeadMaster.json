@@ -21,6 +21,15 @@
       "order": 0
     },
     {
+            "category": "PASTDUE_COLLECTION",
+            "service": "PT",
+            "name": "Pt pastdue carry forward",
+            "code": "PT_PASTDUE_CARRYFORWARD",
+            "isDebit": true,
+            "isActualDemand": false,
+            "order": 0
+     },
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Pt owner exemption",
