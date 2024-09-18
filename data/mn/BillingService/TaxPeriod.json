@@ -1633,6 +1633,14 @@
       "service": "PT",
       "code": "PTAN2024",
       "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1743503063000,
+      "toDate": 1774952663000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2025",
+      "financialYear": "2025-26"
     }
   ]
 }
