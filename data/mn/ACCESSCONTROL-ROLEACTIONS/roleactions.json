@@ -3056,6 +3056,12 @@
       "actioncode": "",
       "tenantId": "mn"
     },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 605,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 604,
