@@ -140,6 +140,16 @@
             "isRequired": false
         },
 		{
+            "category": "REBATE",
+            "service": "PT",
+            "name": "Rebate on Advance Payment",
+            "code": "PT_ADVANCE_REBATE",
+            "isDebit": false,
+            "isActualDemand": true,
+            "order": "0",
+            "isRequired": false
+        },
+		{
             "category": "TAX",
             "service": "PT",
             "name": "paybletax",

@@ -1,0 +1,55 @@
+{
+  "tenantId": "mn.yairipok",
+  "moduleName": "PropertyTax",
+  "StructureTypeRates": [
+    {
+      "name": "Building / Apartment having a height of 16 m/ 52.48 ft or above with or without appurtenant open space",
+      "code": "BUILTUP_16_ABOVE",
+      "active": true,
+      "fromFY": "2015-16",
+      "value": {
+        "rate": 1.2
+      }
+    },
+    {
+      "name": "Building / Apartment having a height of 9m/29.5 ft upto 16 m/52.48 ft with or without appurtenant open space",
+      "code": "BUILTUP_9_UPTO_16",
+      "active": true,
+      "fromFY": "2015-16",
+      "value": {
+        "rate": 1.1
+        
+      }
+    },
+	{
+      "name": "Building/Apartment having a height of below 9 m / 29.5 ft with or without appurtenant open space - Ordinary (kutcha)",
+      "code": "BUILTUP_BELOW_9_ORDINARY",
+      "active": true,
+      "fromFY": "2015-16",
+      "value": {
+        "rate": 0.50
+        
+      }
+    },
+	{
+      "name": "Building/Apartment having a height of below 9 m / 29.5 ft with or without appurtenant open space - Semi-permanent (semi pucca)",
+      "code": "BUILTUP_BELOW_9_SEMIPUCCA",
+      "active": true,
+      "fromFY": "2015-16",
+      "value": {
+        "rate": 0.75
+        
+      }
+    },
+	{
+      "name": "Building/Apartment having a height of below 9 m / 29.5 ft with or without appurtenant open space - Permanent (pucca)",
+      "code": "BUILTUP_BELOW_9_PUCCA",
+      "active": true,
+      "fromFY": "2015-16",
+      "value": {
+        "rate": 1
+        
+      }
+    }
+  ]
+}
