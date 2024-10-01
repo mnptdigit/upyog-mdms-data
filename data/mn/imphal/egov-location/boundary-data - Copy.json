@@ -1,5 +1,5 @@
 {
-  "tenantId": "mn.imphal",
+  "tenantId": "mn",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
