@@ -12,7 +12,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "mnpt.imphal@gmail.com",
+      "emailId": "poimphalmunicipal@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -31,8 +31,8 @@
         "code": "04",
         "ddrName": "DDR A"
       },
-      "address": "Imphal Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Kanglapat, P.O. & P.S. Imphal,-795001",
+      "contactNumber": ""
     },
     {
       "code": "mn.lamlai",
@@ -45,7 +45,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "lamlai@gmail.com",
+      "emailId": "lamlaieoffice@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -64,8 +64,8 @@
         "code": "10",
         "ddrName": "DDR A"
       },
-      "address": "Lamlai Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Lamlai Bazar, P.O. Lamlong, P.S. lamlai-795010",
+      "contactNumber": ""
     },
 	{
       "code": "mn.heirok",
@@ -78,7 +78,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "heirok@gmail.com",
+      "emailId": "heiroknp2015@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -97,8 +97,8 @@
         "code": "03",
         "ddrName": "DDR A"
       },
-      "address": "Heirok Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Heirok Part II Bazar, P.O. Wangjing, P.S. Heirok, Thoubal District, Manipur, 795148",
+      "contactNumber": ""
     },
     {
       "code": "mn.jiribam",
@@ -111,7 +111,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "jiribam@gmail.com",
+      "emailId": "jmcjiribam@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -130,8 +130,8 @@
         "code": "05",
         "ddrName": "DDR A"
       },
-      "address": "Jiribam Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Babupara, Near Irawat Circle, Jiribam, Manipur 795116",
+      "contactNumber": ""
     },
     {
       "code": "mn.andro",
@@ -144,7 +144,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "andro@gmail.com",
+      "emailId": "andromc2021@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -163,8 +163,8 @@
         "code": "01",
         "ddrName": "DDR A"
       },
-      "address": "Andro Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Andro Municipal Council Office, Kharam Leikai, Andro, Imphal East District, Manipur-795149",
+      "contactNumber": ""
     },
     {
       "code": "mn.moirang",
@@ -177,7 +177,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "moirang@gmail.com",
+      "emailId": "mmc.moirang123@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -196,8 +196,8 @@
         "code": "15",
         "ddrName": "DDR A"
       },
-      "address": "Moirang Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Moirana Bazar, P.O. & P.S. Moirang, Bishnupur District- 795133",
+      "contactNumber": ""
     },
     {
       "code": "mn.bishnupur",
@@ -210,7 +210,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "bishnupur@gmail.com",
+      "emailId": "bishnupurmc@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -229,8 +229,8 @@
         "code": "02",
         "ddrName": "DDR A"
       },
-      "address": "Bishnupur Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Bishnupur Ward No.4, P.O. &P.S.Bishnupur, Bishnupur District, Manipur-795126",
+      "contactNumber": ""
     },
     {
       "code": "mn.ningthoukhong",
@@ -243,7 +243,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "ningthoukhong@gmail.com",
+      "emailId": "ningthoukhongmc@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -262,8 +262,8 @@
         "code": "17",
         "ddrName": "DDR A"
       },
-      "address": "Ningthoukhong Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Ningthoukhong Bazar, P.O. & P.S. Bishnupur, Bishnupur District -795126",
+      "contactNumber": ""
     },
     {
       "code": "mn.thoubal",
@@ -276,7 +276,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "thoubal@gmail.com",
+      "emailId": "thoubalmunicipalcouncil14@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -295,8 +295,8 @@
         "code": "24",
         "ddrName": "DDR A"
       },
-      "address": "Thoubal Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Thoubal Wangmataba, P.O. &P.S. Thoubal, Maniipur-795138",
+      "contactNumber": ""
     },
     {
       "code": "mn.thongkhongluxmi",
@@ -309,7 +309,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "thongkhongluxmi@gmail.com",
+      "emailId": "thongkhongnp@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -328,8 +328,8 @@
         "code": "23",
         "ddrName": "DDR A"
       },
-      "address": "Thongkhong luxmi Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Office of the Thongkhong Laxmi Municipal Council, Near Cosmo Ground, Top Siphai, Mayai Lambi Road, Imphal West District - 795009",
+      "contactNumber": ""
     },
     {
       "code": "mn.kakching",
@@ -342,7 +342,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "kakching@gmail.com",
+      "emailId": "kakchingmunicipal@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -361,8 +361,8 @@
         "code": "06",
         "ddrName": "DDR A"
       },
-      "address": "Kakching Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "KAKCHING TUREL WANGMA, NINGTHOU PARENG, HOSPITAL ROAD, WARD NO.4 , KAKCHING. P.O. & P.S. Kakching, -795103",
+      "contactNumber": ""
     },
     {
       "code": "mn.kakchingkhunou",
@@ -375,7 +375,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "kakchingkhunou@gmail.com",
+      "emailId": "kkmc.off@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -394,8 +394,8 @@
         "code": "07",
         "ddrName": "DDR A"
       },
-      "address": "Kakching khunou Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "UCHAN MAKHONG LEIKAI, KAKCHING KHUNOU, P.O. Kakching, P.S. Waikhong, Kakching District-795103",
+      "contactNumber": ""
     },
     {
       "code": "mn.kumbi",
@@ -427,8 +427,8 @@
         "code": "08",
         "ddrName": "DDR A"
       },
-      "address": "Kumbi Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Kumbi Bazar, Kumbi Ward No. 5 P.O-Moirang P.S-Kumbi Pin-795133, Dist. Bishnupur, State Manipur",
+      "contactNumber": ""
     },
     {
       "code": "mn.kwakta",
@@ -441,7 +441,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "kwakta@gmail.com",
+      "emailId": "kwaktaamuc@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -460,8 +460,8 @@
         "code": "09",
         "ddrName": "DDR A"
       },
-      "address": "Kwakta Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Kwakta Bazar, Bishnupur District, Manipur, P.O Moirang & P.S. Phougakchao Ikhai, Bishnupur District- 795133",
+      "contactNumber": ""
     },
     {
       "code": "mn.lamsang",
@@ -474,7 +474,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "lamsang@gmail.com",
+      "emailId": "lamsangnp1@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -493,8 +493,8 @@
         "code": "11",
         "ddrName": "DDR A"
       },
-      "address": "Lamsang Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Lamsang thong maning, P.O. & P.S. Lamsang, Imphal West District, 795146",
+      "contactNumber": ""
     },
     {
       "code": "mn.lilongimphalwest",
@@ -507,7 +507,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "lilongimphalwest@gmail.com",
+      "emailId": "lilongiwmcouncil@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -526,8 +526,8 @@
         "code": "12",
         "ddrName": "DDR A"
       },
-      "address": "Lilong imphal west Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Lilong Bazar Imphal West, P.O. Lilong, P.S. Singjamei, -795130",
+      "contactNumber": ""
     },
     {
       "code": "mn.lilongthoubal",
@@ -540,7 +540,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "lilongthoubal@gmail.com",
+      "emailId": "lilongthoubalmunicipalcouncil@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -559,8 +559,8 @@
         "code": "13",
         "ddrName": "DDR A"
       },
-      "address": "Lilong thoubal Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Lilong Ushoipokpi Chingkham Mamang, P.O. & P.S. Lilong, Thoubal District- 795130",
+      "contactNumber": ""
     },
     {
       "code": "mn.mayangimphal",
@@ -573,7 +573,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "mayangimphal@gmail.com",
+      "emailId": "mimceo2017@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -592,8 +592,8 @@
         "code": "14",
         "ddrName": "DDR A"
       },
-      "address": "Mayang imphal Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Mayang Imphal Bazar, P.O. & P.S. Mayang Imphal-795132, District-Imphal West.",
+      "contactNumber": ""
     },
 	{
       "code": "mn.nambol",
@@ -606,7 +606,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "nambol@gmail.com",
+      "emailId": "nambolmc@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -625,8 +625,8 @@
         "code": "16",
         "ddrName": "DDR A"
       },
-      "address": "NAMBOL Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Nambol Bazar, P.O. & P.S. Nambol, -795134",
+      "contactNumber": ""
     },
     {
       "code": "mn.samurou",
@@ -639,7 +639,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "samurou@gmail.com",
+      "emailId": "samurounp2015@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -658,8 +658,8 @@
         "code": "19",
         "ddrName": "DDR A"
       },
-      "address": "SAMUROU Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Office of the Samurou Municipal Council, Samurou Bazar, Imphal West District - 795009",
+      "contactNumber": ""
     },
     {
       "code": "mn.yairipok",
@@ -672,7 +672,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "yairipok@gmail.com",
+      "emailId": "yairipokmc2018@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -691,8 +691,8 @@
         "code": "27",
         "ddrName": "DDR A"
       },
-      "address": "YAIRIPOK Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Yairipok Bamon Leikai , WARD NO. 4 P.O&P.S - Yairipok, Thoubal District - 795149, Manipur",
+      "contactNumber": ""
     },
     {
       "code": "mn.wangoi",
@@ -705,7 +705,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "wangoi@gmail.com",
+      "emailId": "wangoimc@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -724,8 +724,8 @@
         "code": "26",
         "ddrName": "DDR A"
       },
-      "address": "WANGOI Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Office of the Wangoi Municipal Council, Wangoi Bazar, Imphal West District- 795009",
+      "contactNumber": ""
     },
     {
       "code": "mn.wangjinglamding",
@@ -738,7 +738,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "wangjinglamding@gmail.com",
+      "emailId": "revenuewlmc2022@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -757,8 +757,8 @@
         "code": "25",
         "ddrName": "DDR A"
       },
-      "address": "WANGJING LAMDING Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Wangjing Bazar, P.O. Wangjing  &P.S. Thoubal- 795148",
+      "contactNumber": ""
     },
     {
       "code": "mn.shikhongsekmai",
@@ -771,7 +771,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "shikhongsekmai@gmail.com",
+      "emailId": "ssmc.manipur@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -790,8 +790,8 @@
         "code": "21",
         "ddrName": "DDR A"
       },
-      "address": "SHIKHONG SEKMAI Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Shikhong Bazar, P.O - Yairipok, P.S. Nongpok Sekmai, Thoubal District - 795149, Manipur",
+      "contactNumber": ""
     },
     {
       "code": "mn.oinam",
@@ -804,7 +804,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "oinam@gmail.com",
+      "emailId": "oinammc@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -823,8 +823,8 @@
         "code": "18",
         "ddrName": "DDR A"
       },
-      "address": "OINAM Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Oinam Bazar, PO&PS -Nambol , Bishnupur District-795134",
+      "contactNumber": ""
     },
     {
       "code": "mn.sugnu",
@@ -837,7 +837,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "sugnu@gmail.com",
+      "emailId": "sugnu.mc@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -856,8 +856,8 @@
         "code": "22",
         "ddrName": "DDR A"
       },
-      "address": "SUGNU Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Sugnu Bazar, P.O &P.S. Sugnu, Kakching District -795101",
+      "contactNumber": ""
     },
     {
       "code": "mn.sekmai",
@@ -870,7 +870,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "sekmai@gmail.com",
+      "emailId": "sekmainp@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -889,8 +889,8 @@
         "code": "20",
         "ddrName": "DDR A"
       },
-      "address": "SEKMAI Municipal Corporation",
-      "contactNumber": "001-2345876"
+      "address": "Laipat leikai, P.O & P.S. Sekmai, Imphal West District, 795136",
+      "contactNumber": ""
     }
    ]
 }
