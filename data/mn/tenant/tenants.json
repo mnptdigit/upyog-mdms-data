@@ -630,8 +630,8 @@
     },
     {
       "code": "mn.samurou",
-      "name": "SAMUROU",
-      "description": "SAMUROU",
+      "name": "Samurou",
+      "description": "Samurou",
       "pincode": [795009,795130],
       "logoId": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/trlogo2.png",
       "imageId": null,
@@ -644,9 +644,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "SAMUROU",
+        "name": "Samurou",
         "localName": null,
-        "districtCode": "SAMUROU",
+        "districtCode": "Samurou",
         "districtName": null,
         "districtTenantCode": "mn.samurou",
         "regionName": null,
@@ -663,8 +663,8 @@
     },
     {
       "code": "mn.yairipok",
-      "name": "YAIRIPOK",
-      "description": "YAIRIPOK",
+      "name": "Yairipok",
+      "description": "Yairipok",
       "pincode": [795149],
       "logoId": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/trlogo2.png",
       "imageId": null,
@@ -677,9 +677,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "YAIRIPOK",
+        "name": "Yairipok",
         "localName": null,
-        "districtCode": "YAIRIPOK",
+        "districtCode": "Yairipok",
         "districtName": null,
         "districtTenantCode": "mn.yairipok",
         "regionName": null,
@@ -696,8 +696,8 @@
     },
     {
       "code": "mn.wangoi",
-      "name": "WANGOI",
-      "description": "WANGOI",
+      "name": "Wangoi",
+      "description": "Wangoi",
       "pincode": [795009],
       "logoId": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/trlogo2.png",
       "imageId": null,
@@ -710,9 +710,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "WANGOI",
+        "name": "Wangoi",
         "localName": null,
-        "districtCode": "WANGOI",
+        "districtCode": "Wangoi",
         "districtName": "Imphal West",
         "districtTenantCode": "mn.wangoi",
         "regionName": null,
@@ -729,8 +729,8 @@
     },
     {
       "code": "mn.wangjinglamding",
-      "name": "WANGJING LAMDING",
-      "description": "WANGJING LAMDING",
+      "name": "Wangjing lamding",
+      "description": "Wangjing lamding",
       "pincode": [795148],
       "logoId": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/trlogo2.png",
       "imageId": null,
@@ -743,9 +743,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "WANGJING LAMDING",
+        "name": "Wangjing lamding",
         "localName": null,
-        "districtCode": "WANGJING LAMDING",
+        "districtCode": "Wangjing lamding",
         "districtName": "Thoubal",
         "districtTenantCode": "mn.wangjinglamding",
         "regionName": null,
@@ -762,8 +762,8 @@
     },
     {
       "code": "mn.shikhongsekmai",
-      "name": "SHIKHONG SEKMAI",
-      "description": "SHIKHONG SEKMAI",
+      "name": "Shikhong sekmai",
+      "description": "Shikhong sekmai",
       "pincode": [795148],
       "logoId": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/trlogo2.png",
       "imageId": null,
@@ -776,9 +776,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "SHIKHONG SEKMAI",
+        "name": "Shikhong sekmai",
         "localName": null,
-        "districtCode": "SHIKHONG SEKMAI",
+        "districtCode": "Shikhong sekmai",
         "districtName": "Thoubal",
         "districtTenantCode": "mn.shikhongsekmai",
         "regionName": null,
@@ -795,8 +795,8 @@
     },
     {
       "code": "mn.oinam",
-      "name": "OINAM",
-      "description": "OINAM",
+      "name": "Oinam",
+      "description": "Oinam",
       "pincode": [795134],
       "logoId": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/trlogo2.png",
       "imageId": null,
@@ -809,9 +809,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "OINAM",
+        "name": "Oinam",
         "localName": null,
-        "districtCode": "OINAM",
+        "districtCode": "Oinam",
         "districtName": "Bishnupur",
         "districtTenantCode": "mn.oinam",
         "regionName": null,
@@ -828,8 +828,8 @@
     },
     {
       "code": "mn.sugnu",
-      "name": "SUGNU",
-      "description": "SUGNU",
+      "name": "Sugnu",
+      "description": "Sugnu",
       "pincode": [795101],
       "logoId": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/trlogo2.png",
       "imageId": null,
@@ -842,9 +842,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "SUGNU",
+        "name": "Sugnu",
         "localName": null,
-        "districtCode": "SUGNU",
+        "districtCode": "Sugnu",
         "districtName": "Kakching",
         "districtTenantCode": "mn.sugnu",
         "regionName": null,
@@ -861,8 +861,8 @@
     },
     {
       "code": "mn.sekmai",
-      "name": "SEKMAI",
-      "description": "SEKMAI",
+      "name": "Sekmai",
+      "description": "Sekmai",
       "pincode": [795136],
       "logoId": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/trlogo2.png",
       "imageId": null,
@@ -875,9 +875,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "SEKMAI",
+        "name": "Sekmai",
         "localName": null,
-        "districtCode": "SEKMAI",
+        "districtCode": "Sekmai",
         "districtName": "Imphal West",
         "districtTenantCode": "mn.sekmai",
         "regionName": null,

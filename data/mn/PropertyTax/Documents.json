@@ -253,65 +253,6 @@
         }
       ],
       "description": "OWNER.SPECIALCATEGORYPROOF.SPECIALCATEGORYPROOF_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.USAGEPROOF",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "digit-citizen":true,
-      "hasDropdown": true,
-      "additionalDetails": {
-        "dropdownFilter": {
-          "parentJsonpath": "Properties[0].propertyDetails[0].usageCategoryMinor",
-          "formDataPath": ["usageCategoryMinor","code"]
-        },
-        "enabledActions": {
-          "assess": {
-            "disableUpload": true,
-            "disableDropdown": true
-          },
-          "reassess": {
-            "disableUpload": true,
-            "disableDropdown": true
-          },
-          "update": {
-            "disableUpload": false,
-            "disableDropdown": false
-          },
-          "create": {
-            "disableUpload": false,
-            "disableDropdown": false
-          }
-        }
-      },
-      "dropdownData": [
-        {
-          "code": "OWNER.USAGEPROOF.ELECTRICITYBILL",
-          "active": true,
-          "parentValue": [
-            null,
-            "OFFICESPACE",
-            "OTHERS"
-          ]
-        },
-        {
-          "code": "OWNER.USAGEPROOF.TRADELICENCE",
-          "active": true,
-          "parentValue": [
-            "INDUSTRIAL",
-            "COMMERCIAL"
-          ]
-        },
-        {
-          "code": "OWNER.USAGEPROOF.INSTITUTEREGISTRATIONDOCUMENT",
-          "active": true,
-          "parentValue": [
-            "INSTITUTIONAL"
-          ]
-        }
-      ],
-      "description": "OWNER.USAGEPROOF.USAGEPROOF_DESCRIPTION"
-    }
+    }    
   ]
 }
