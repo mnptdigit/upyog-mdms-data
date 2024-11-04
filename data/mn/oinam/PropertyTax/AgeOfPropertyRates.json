@@ -1,0 +1,66 @@
+{
+  "tenantId": "mn.oinam",
+  "moduleName": "PropertyTax",
+  "AgeOfPropertyRates": [
+    {
+      "name": "VACANT",
+      "code": "VACANT",
+      "active": true,
+      "fromFY": "2023-24",
+      "value":{
+         "rate": 1
+      }
+     
+    },
+    {
+      "name": "Between 10 and 25 years",
+      "code": "BUILTUP_BETWEEN_10_25",
+      "active": true,
+      "fromFY": "2023-24",
+      "value":{
+         "rate": 0.85
+      }
+
+    },
+    {
+      "name": "Between 25 and 50 years",
+      "code": "BUILTUP_BETWEEN_25_50",
+      "active": true,
+      "fromFY": "2023-24",
+      "value":{
+         "rate": 0.75
+      }
+      
+    },
+    {
+      "name": "Less than 10 years",
+      "code": "BUILTUP_LESS_10",
+      "active": true,
+      "fromFY": "2023-24",
+      "value":{
+         "rate": 1
+      }
+      
+    },
+	{
+      "name": "More than 50 years",
+      "code": "BUILTUP_MORE_50",
+      "active": true,
+      "fromFY": "2023-24",
+      "value":{
+         "rate": 0.50
+      }
+      
+    },
+	{
+      "name": "Declared Heritage Property by any authority like Government of India, Government of Manipur, or by organizations like the UNESCO",
+      "code": "BUILTUP_HERITAGE_PROPERTY",
+      "active": true,
+      "fromFY": "2023-24",
+      "value":{
+         "rate": 0
+      }
+      
+    }
+  ]
+}
