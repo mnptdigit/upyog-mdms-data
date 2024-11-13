@@ -5749,6 +5749,16 @@
             "order": "0",
             "isRequired": false,
             "isDiscountApplicable": false
+        },
+        {
+            "category": "TAX",
+            "service": "PT",
+            "name": "Penalty For past Dues",
+            "code": "PT_PAST_DUE_PENALTY",
+            "isDebit": false,
+            "isActualDemand": true,
+            "order": "4",
+            "isRequired": false
         }
     ]
 }
