@@ -130,7 +130,7 @@
                                         "pincode": [
                                             143001
                                         ],
-                                        "area": "AREA_A",
+                                        "area": "AREA_B",
                                         "children": []
                                     }
                                 ]
@@ -283,8 +283,8 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdea",
                                         "boundaryNum": 1,
-                                        "name": "Joipur Khunou",
-                                        "localname": "Joipur Khunou",
+                                        "name": "Joypur Khunou",
+                                        "localname": "Joypur Khunou",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",

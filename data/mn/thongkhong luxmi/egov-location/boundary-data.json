@@ -10,12 +10,12 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "Thongkhong luxmi",
-                "localname": "Thongkhong luxmi",
+                "name": "Thongkhong Laxmi",
+                "localname": "Thongkhong laxmi",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "THONGKHONG LUXMI-23",
+                "code": "THONGKHONG LAXMI-23",
                 "children": [
                     {
                         "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -23,7 +23,7 @@
                         "name": "ZONE_WEST",
                         "localname": "ZONE_WEST",
                         "longitude": null,
-                        "latitude": null,
+                        "latitude": null,	
                         "label": "Zone",
                         "code": "JZN1",
                         "children": [
@@ -384,7 +384,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD8004",
+                                        "code": "WD8003",
                                         "pincode": [
                                             143001
                                         ],
