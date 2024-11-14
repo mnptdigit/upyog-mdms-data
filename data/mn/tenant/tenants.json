@@ -299,7 +299,7 @@
       "contactNumber": "001-2345876"
     },
     {
-      "code": "mn.thongkhonglaxmi",
+      "code": "mn.thongkhongluxmi",
       "name": "Thongkhong Laxmi",
       "description": "Thongkhong Laxmi",
       "pincode": [795132,795009],
@@ -318,7 +318,7 @@
         "localName": null,
         "districtCode": "Thongkhong Laxmi",
         "districtName": "Imphal West District",
-        "districtTenantCode": "mn.thongkhonglaxmi",
+        "districtTenantCode": "mn.thongkhongluxmi",
         "regionName": null,
         "ulbGrade": "Municipal Council",
         "longitude": 75.5761829,
