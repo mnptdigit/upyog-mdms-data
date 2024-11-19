@@ -481,7 +481,7 @@
                                         "pincode": [
                                             143001
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_C",
                                         "children": []
                                     },
                                     {
@@ -775,8 +775,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
                                         "boundaryNum": 1,
-                                        "name": "Ningthombam Utha Leikai",
-                                        "localname": "Ningthombam Utha Leikai",
+                                        "name": "Ningombam Utha Leikai",
+                                        "localname": "Ningombam Utha Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -829,7 +829,7 @@
                                         "pincode": [
                                             143001
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_C",
                                         "children": []
                                     },
                                     {
@@ -844,7 +844,7 @@
                                         "pincode": [
                                             143001
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_C",
                                         "children": []
                                     }
                                 ]
@@ -931,7 +931,7 @@
                                         "pincode": [
                                             143001
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_C",
                                         "children": []
                                     }
                                 ]
@@ -1207,7 +1207,7 @@
                                         "pincode": [
                                             143001
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_C",
                                         "children": []
                                     },
                                     {
