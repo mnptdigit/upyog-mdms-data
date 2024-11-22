@@ -89,6 +89,16 @@
             "order": "0",
             "isRequired": false
         },
+		{
+            "category": "EXEMPTION",
+            "service": "PT",
+            "name": "Vacant Land Exemption",
+            "code": "PT_VACANT_LAND_EXEMPTION",
+            "isDebit": false,
+            "isActualDemand": true,
+            "order": "0",
+            "isRequired": false
+        },
         {
             "category": "TAX",
             "service": "PT",
