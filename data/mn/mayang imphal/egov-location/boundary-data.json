@@ -10,8 +10,8 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "Mayang imphal",
-                "localname": "Mayang imphal",
+                "name": "Mayang Imphal",
+                "localname": "Mayang Imphal",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
@@ -754,7 +754,7 @@
                                         "pincode": [
                                             143001
                                         ],
-                                        "area": "AREA_A",
+                                        "area": "AREA_C",
                                         "children": []
                                     }
                                 ]

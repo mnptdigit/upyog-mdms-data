@@ -10,8 +10,8 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "Lilong thoubal",
-                "localname": "Lilong thoubal",
+                "name": "Lilong Thoubal",
+                "localname": "Lilong Thoubal",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
@@ -542,49 +542,8 @@
                                         "children": []
                                     }
                                 ]
-                            },
-                            {
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249j",
-                                "boundaryNum": 1,
-                                "name": "WARD_9",
-                                "localname": "WARD_9",
-                                "longitude": null,
-                                "latitude": null,
-                                "label": "Block",
-                                "code": "WARD9",
-                                "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdag",
-                                        "boundaryNum": 1,
-                                        "name": "Arapti Awang Leikai",
-                                        "localname": "Arapti Awang Leikai",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD9022",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
-                                        "boundaryNum": 1,
-                                        "name": "Arapti Makha Leikai",
-                                        "localname": "Arapti Makha Leikai",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD9023",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    }
-                                ]
                             }
+                            
                         ]
                     }
                 ]
