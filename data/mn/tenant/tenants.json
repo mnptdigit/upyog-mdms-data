@@ -5,7 +5,16 @@
       "code": "mn.imphal",
       "name": "Imphal",
       "description": "Imphal",
-      "pincode": [],
+      "pincode": [795001,
+      795002,
+      795003,
+      795004,
+      795005,
+      795008,
+      795010,
+      795113,
+      795140,
+      795146],
       "logoId": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/trlogo2.png",
       "imageId": null,
       "domainUrl": "https://mnptapp.manipurpropertytax.org",
@@ -32,7 +41,7 @@
         "ddrName": "DDR A"
       },
       "address": "Kanglapat, P.O. & P.S. Imphal,-795001",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.lamlai",
@@ -65,7 +74,7 @@
         "ddrName": "DDR A"
       },
       "address": "Lamlai Bazar, P.O. Lamlong, P.S. lamlai-795010",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
 	{
       "code": "mn.heirok",
@@ -98,7 +107,7 @@
         "ddrName": "DDR A"
       },
       "address": "Heirok Part II Bazar, P.O. Wangjing, P.S. Heirok, Thoubal District, Manipur, 795148",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.jiribam",
@@ -131,7 +140,7 @@
         "ddrName": "DDR A"
       },
       "address": "Babupara, Near Irawat Circle, Jiribam, Manipur 795116",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.andro",
@@ -164,7 +173,7 @@
         "ddrName": "DDR A"
       },
       "address": "Andro Municipal Council Office, Kharam Leikai, Andro, Imphal East District, Manipur-795149",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.moirang",
@@ -197,7 +206,7 @@
         "ddrName": "DDR A"
       },
       "address": "Moirana Bazar, P.O. & P.S. Moirang, Bishnupur District- 795133",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.bishnupur",
@@ -230,7 +239,7 @@
         "ddrName": "DDR A"
       },
       "address": "Bishnupur Ward No.4, P.O. &P.S.Bishnupur, Bishnupur District, Manipur-795126.",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.ningthoukhong",
@@ -263,7 +272,7 @@
         "ddrName": "DDR A"
       },
       "address": "Ningthoukhong Bazar, P.O. & P.S. Bishnupur, Bishnupur District -795126",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.thoubal",
@@ -296,7 +305,7 @@
         "ddrName": "DDR A"
       },
       "address": "Thoubal Wangmataba, P.O. &P.S. Thoubal, Maniipur-795138",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.thongkhongluxmi",
@@ -329,7 +338,7 @@
         "ddrName": "DDR A"
       },
       "address": "Office of the Thongkhong Laxmi Municipal Council, Near Cosmo Ground, Top Siphai, Mayai Lambi Road, Imphal West District - 795009",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.kakching",
@@ -362,7 +371,7 @@
         "ddrName": "DDR A"
       },
       "address": "Kakching Turel Wangma, Ningthou Pareng, Hospital Road, Ward No.4 , Kakching. P.O. & P.S. Kakching, -795103",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.kakchingkhunou",
@@ -395,7 +404,7 @@
         "ddrName": "DDR A"
       },
       "address": "Uchan Makhong Leikai, Kakching Khunou, P.O. Kakching, P.S. Waikhong, Kakching District-795103",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.kumbi",
@@ -428,7 +437,7 @@
         "ddrName": "DDR A"
       },
       "address": "Kumbi Bazar, Kumbi Ward No. 5 P.O-Moirang P.S-Kumbi Pin-795133, Dist. Bishnupur, State Manipur.",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.kwakta",
@@ -461,7 +470,7 @@
         "ddrName": "DDR A"
       },
       "address": "Kwakta Bazar, Bishnupur District, Manipur, P.O Moirang & P.S. Phougakchao Ikhai, Bishnupur District- 795133",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.lamsang",
@@ -494,7 +503,7 @@
         "ddrName": "DDR A"
       },
       "address": "Lamsang thong maning, P.O. & P.S. Lamsang, Imphal West District, 795146",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.lilongimphalwest",
@@ -527,7 +536,7 @@
         "ddrName": "DDR A"
       },
       "address": "Lilong Bazar Imphal West, P.O. Lilong, P.S. Singjamei, -795130",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.lilongthoubal",
@@ -560,7 +569,7 @@
         "ddrName": "DDR A"
       },
       "address": "Lilong Ushoipokpi Chingkham Mamang, P.O. & P.S. Lilong, Thoubal District- 795130",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.mayangimphal",
@@ -593,7 +602,7 @@
         "ddrName": "DDR A"
       },
       "address": "Mayang Imphal Bazar, P.O. & P.S. Mayang Imphal-795132, District-Imphal West.",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
 	{
       "code": "mn.nambol",
@@ -626,7 +635,7 @@
         "ddrName": "DDR A"
       },
       "address": "Nambol Bazar, P.O. & P.S. Nambol, -795134",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.samurou",
@@ -659,7 +668,7 @@
         "ddrName": "DDR A"
       },
       "address": "Office of the Samurou Municipal Council, Samurou Bazar, Imphal West District - 795009",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.yairipok",
@@ -692,7 +701,7 @@
         "ddrName": "DDR A"
       },
       "address": "Yairipok Bamon Leikai , Ward No. 4 P.O&P.S - Yairipok, Thoubal District - 795149, Manipur",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.wangoi",
@@ -725,7 +734,7 @@
         "ddrName": "DDR A"
       },
       "address": "Office of the Wangoi Municipal Council, Wangoi Bazar, Imphal West District- 795009",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.wangjinglamding",
@@ -758,7 +767,7 @@
         "ddrName": "DDR A"
       },
       "address": "Wangjing Bazar, P.O. Wangjing  &P.S. Thoubal- 795148",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.shikhongsekmai",
@@ -791,7 +800,7 @@
         "ddrName": "DDR A"
       },
       "address": "Shikhong Bazar, P.O - Yairipok, P.S. Nongpok Sekmai, Thoubal District - 795149, Manipur",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.oinam",
@@ -824,7 +833,7 @@
         "ddrName": "DDR A"
       },
       "address": "Oinam Bazar, PO&PS -Nambol , Bishnupur District-795134",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.sugnu",
@@ -857,7 +866,7 @@
         "ddrName": "DDR A"
       },
       "address": "Sugnu Bazar, P.O &P.S. Sugnu, Kakching District -795101",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     },
     {
       "code": "mn.sekmai",
@@ -890,7 +899,7 @@
         "ddrName": "DDR A"
       },
       "address": "Laipat leikai, P.O & P.S. Sekmai, Imphal West District, 795136",
-      "contactNumber": "001-2345876"
+      "contactNumber": ""
     }
    ]
 }
