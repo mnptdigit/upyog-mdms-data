@@ -148,8 +148,8 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdex",
                                         "boundaryNum": 1,
-                                        "name": "Kha leikai",
-                                        "localname": "Kha leikai",
+                                        "name": "Kha Loukhong Mapal",
+                                        "localname": "Kha Loukhong Mapal",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -175,7 +175,7 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
                                         "boundaryNum": 1,
-                                        "name": "Meitei Leikai",
+                                        "name": "Kha Meitei Leikai",
                                         "localname": "Meitei Leikai",
                                         "longitude": null,
                                         "latitude": null,
@@ -202,8 +202,8 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeo",
                                         "boundaryNum": 1,
-                                        "name": "Kha Mamang",
-                                        "localname": "Kha Mamang",
+                                        "name": "Kha Mamang Leikai",
+                                        "localname": "Kha Mamang Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -283,8 +283,8 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdes",
                                         "boundaryNum": 1,
-                                        "name": "Mamang Leikai",
-                                        "localname": "Mamang Leikai",
+                                        "name": "Mamang Ibudhou Oknarel Leikai",
+                                        "localname": "Mamang Ibudhou Oknarel Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -337,8 +337,8 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdea",
                                         "boundaryNum": 1,
-                                        "name": "Awang Khunou & Awang Leikai",
-                                        "localname": "Awang Khunou & Awang Leikai",
+                                        "name": "Kongphu Road Leikai",
+                                        "localname": "Kongphu Road Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",

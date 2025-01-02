@@ -223,12 +223,12 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdex",
                                         "boundaryNum": 1,
-                                        "name": "Haoreibi Mayai Leikai-ward 5",
-                                        "localname": "Haoreibi Mayai Leikai-ward 5",
+                                        "name": "Samurou Mayai Leikai-ward 5",
+                                        "localname": "Samurou Mayai Leikai-ward 5",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD5008",
+                                        "code": "WD5006",
                                         "pincode": [
                                             143001
                                         ],
@@ -436,8 +436,8 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fder",
                                         "boundaryNum": 1,
-                                        "name": "Haoreibi Makha Leikai-ward 9",
-                                        "localname": "Haoreibi Makha Leikai-ward 9",
+                                        "name": "Lilong Haoreibi Makha Leikai-ward 9",
+                                        "localname": "Lilong Haoreibi Makha Leikai-ward 9",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -463,8 +463,8 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdes",
                                         "boundaryNum": 1,
-                                        "name": "Haoreibi Makha Leikai-ward 10",
-                                        "localname": "Haoreibi Makha Leikai-ward 10",
+                                        "name": "Lilong Haoreibi Makha Leikai-ward 10",
+                                        "localname": "Lilong Haoreibi Makha Leikai-ward 10",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -490,8 +490,8 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdet",
                                         "boundaryNum": 1,
-                                        "name": "Haoreibi Makha Leikai-ward 11",
-                                        "localname": "Haoreibi Makha Leikai-ward 11",
+                                        "name": "Lilong Haoreibi Makha Leikai-ward 11",
+                                        "localname": "Lilong Haoreibi Makha Leikai-ward 11",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",

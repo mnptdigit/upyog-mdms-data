@@ -142,8 +142,8 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdec",
                                         "boundaryNum": 1,
-                                        "name": "Awang BamolLeikai",
-                                        "localname": "Awang BamolLeikai",
+                                        "name": "Awang Bamol Leikai",
+                                        "localname": "Awang Bamol Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -480,7 +480,23 @@
                                         ],
                                         "area": "AREA_A",
                                         "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdag",
+                                        "boundaryNum": 1,
+                                        "name": "Chekshapat Leikai",
+                                        "localname": "Chekshapat Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD8023",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
                                     }
+
                                 ]
                             },
 							{
