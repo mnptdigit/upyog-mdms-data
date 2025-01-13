@@ -52,7 +52,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdea",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Terakha Sanakhongnang Leikai",
@@ -67,7 +67,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeb",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Uchamakhong Mamang Leikai",
@@ -82,7 +82,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdec",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Terakha Haojam Leikai",
@@ -97,7 +97,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fded",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Uchamakhong Mayai Leikai",
@@ -112,7 +112,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Uchamakhong Maning Leikai",
@@ -127,7 +127,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdei",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Terakha",
@@ -144,7 +144,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
                                 "boundaryNum": 1,
                                 "name": "WARD_2",
@@ -169,7 +169,7 @@
                                         "area": "AREA_C",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Khuga Wangma",
@@ -184,7 +184,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Setupur Mamang Leikai",
@@ -199,7 +199,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Setupur Mayai  Leikai",
@@ -214,7 +214,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Setupur Maning Leikai",
@@ -231,7 +231,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249d",
                                 "boundaryNum": 1,
                                 "name": "WARD_3",
@@ -256,7 +256,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fden",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Khuga Wangma Thong Maning Leikai",
@@ -271,7 +271,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeo",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Lamlong to PHC Kumbi",
@@ -286,7 +286,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdep",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Khuga Wangma IB Road",
@@ -303,7 +303,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249e",
                                 "boundaryNum": 1,
                                 "name": "WARD_4",
@@ -328,7 +328,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fder",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Thingel Leikai",
@@ -343,7 +343,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdes",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Makha Leikai",
@@ -358,7 +358,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdet",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Kangjeibung Mamang Leikai(East)",
@@ -373,7 +373,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeu",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Kangjeibung Mapal(South)",
@@ -388,7 +388,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdev",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Sarangkhong Leikai",
@@ -405,7 +405,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249f",
                                 "boundaryNum": 1,
                                 "name": "WARD_5",
@@ -430,7 +430,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdex",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Thong Leikai",
@@ -445,7 +445,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdey",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Thong Mamang Leikai",
@@ -460,7 +460,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdez",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Bazar Leikai",
@@ -475,7 +475,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaa",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Kangjeibung Mapal(North)",
@@ -490,7 +490,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdab",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Kangjeibung Mapal(West)",
@@ -505,7 +505,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdac",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Mayai Leikai-ward 5",
@@ -519,10 +519,25 @@
                                         ],
                                         "area": "AREA_B",
                                         "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaw",
+                                        "boundaryNum": 1,
+                                        "name": "Kumbi Awang Khunou School Mamang Leikai",
+                                        "localname": "Kumbi Awang Khunou School Mamang Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD5035",
+                                        "pincode": [
+                                            795133
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249g",
                                 "boundaryNum": 1,
                                 "name": "WARD_6",
@@ -547,7 +562,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdae",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Bazar Leikai / Khaidem Leikai",
@@ -562,7 +577,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaf",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Awang Khunou School Leikai",
@@ -577,7 +592,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdag",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Awang Khunou School Maning Leikai",
@@ -592,7 +607,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdah",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Mayai Leikai-ward 6",
@@ -609,7 +624,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249h",
                                 "boundaryNum": 1,
                                 "name": "WARD_7",
@@ -634,7 +649,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaj",
                                         "boundaryNum": 1,
                                         "name": "Kumbi M.E Leikai",
@@ -649,7 +664,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdak",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Laishang Leikai",
@@ -664,7 +679,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdal",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Laishang Mamang Leikai",
@@ -679,7 +694,7 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdam",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Awang Khunou Pukhri Achouba Leikai",
@@ -696,7 +711,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249i",
                                 "boundaryNum": 1,
                                 "name": "WARD_8",
@@ -721,7 +736,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdao",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Awang Leikai",
@@ -738,7 +753,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249j",
                                 "boundaryNum": 1,
                                 "name": "WARD_9",
@@ -763,7 +778,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaq",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Ising Chaiba Leikai",
@@ -778,7 +793,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdar",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Lai Sandhong Mamang Leikai",
@@ -793,7 +808,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdas",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Lai Sandhong (Lamlong Keithel) Leikai",
@@ -808,7 +823,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdat",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Lai Sandhong Maning Leikai",
@@ -823,7 +838,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdau",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Salam Leikai",
@@ -838,7 +853,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdav",
                                         "boundaryNum": 1,
                                         "name": "Kumbi Uchamakhong Machin to Kumbi Welcome Gate-Ward 9",
@@ -857,7 +872,6 @@
                             }
                         ]
                     }
-					
                 ]
             }
         }

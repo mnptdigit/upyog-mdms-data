@@ -37,21 +37,6 @@
                                 "label": "Block",
                                 "code": "WARD1",
                                 "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                                        "boundaryNum": 1,
-                                        "name": "Sugnu Bazar-ward 1",
-                                        "localname": "Sugnu Bazar-ward 1",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD1001",
-                                        "pincode": [
-                                            795101
-                                        ],
-                                        "area": "AREA_A",
-                                        "children": []
-                                    },
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
                                         "boundaryNum": 1,

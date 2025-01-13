@@ -40,8 +40,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
                                         "boundaryNum": 1,
-                                        "name": "Lamsang Makha Leikai (till 200m from the Uripok- Kangchup Road UK Road)",
-                                        "localname": "Lamsang Makha Leikai (till 200m from the Uripok- Kangchup Road UK Road)",
+                                        "name": "Lamsang Makha Leikai",
+                                        "localname": "Lamsang Makha Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -52,26 +52,11 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
                                         "boundaryNum": 1,
-                                        "name": "Lamsang Mayai Leikai (till 200m from the Uripok- Kangchup Road UK Road)",
-                                        "localname": "Lamsang Mayai Leikai (till 200m from the Uripok- Kangchup Road UK Road)",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD1003",
-                                        "pincode": [
-                                            795146
-                                        ],
-                                        "area": "AREA_A",
-                                        "children": []
-                                    },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
-                                        "boundaryNum": 1,
-                                        "name": "Lamsang Makha Leikai (200m away from the UK Road)",
-                                        "localname": "Lamsang Makha Leikai (200m away from the UK Road)",
+                                        "name": "Lamsang Mayai Leikai ",
+                                        "localname": "Lamsang Mayai Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -82,11 +67,11 @@
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
                                         "boundaryNum": 1,
-                                        "name": "Lamsang Mayai Leikai (200m away from the UK Road)",
-                                        "localname": "Lamsang Mayai Leikai (200m away from the UK Road)",
+                                        "name": "Lamsang Thong Maning-ward 1",
+                                        "localname": "Lamsang Thong Maning-ward 1",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -94,10 +79,10 @@
                                         "pincode": [
                                             795146
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdei",
                                         "boundaryNum": 1,
                                         "name": "Lamsang Awang Leikai",
@@ -105,7 +90,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD1005",
+                                        "code": "WD1003",
                                         "pincode": [
                                             795146
                                         ],
@@ -114,7 +99,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
                                 "boundaryNum": 1,
                                 "name": "WARD_2",
@@ -127,8 +112,53 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
                                         "boundaryNum": 1,
-                                        "name": "Lamsang Thongmaning",
-                                        "localname": "Lamsang Thongmaning",
+                                        "name": "Lamsang Thong Maning-ward 2",
+                                        "localname": "Lamsang Thong Maning-ward 2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD2004",
+                                        "pincode": [
+                                            795146
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
+                                        "boundaryNum": 1,
+                                        "name": "Laingamkhul",
+                                        "localname": "Laingamkhul",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD2005",
+                                        "pincode": [
+                                            795146
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdea",
+                                        "boundaryNum": 1,
+                                        "name": "Lamdeng Khunou (Between UK Road and Luwangli river)-ward 2",
+                                        "localname": "Lamdeng Khunou (Between UK Road and Luwangli river)-ward 2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD2010",
+                                        "pincode": [
+                                            795146
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
+                                        "boundaryNum": 1,
+                                        "name": "Chingkhuilong",
+                                        "localname": "Chingkhuilong",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -138,55 +168,10 @@
                                         ],
                                         "area": "AREA_A",
                                         "children": []
-                                    },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
-                                        "boundaryNum": 1,
-                                        "name": "Lamsang Bazar Laingamkhul",
-                                        "localname": "Lamsang Bazar Laingamkhul",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD2007",
-                                        "pincode": [
-                                            795146
-                                        ],
-                                        "area": "AREA_A",
-                                        "children": []
-                                    },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
-                                        "boundaryNum": 1,
-                                        "name": "Lamsang Bazar",
-                                        "localname": "Lamsang Bazar",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD2008",
-                                        "pincode": [
-                                            795146
-                                        ],
-                                        "area": "AREA_A",
-                                        "children": []
-                                    },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
-                                        "boundaryNum": 1,
-                                        "name": "Chingkhuilong (till 200m from the Uripok- Kangchup Road UK Road)",
-                                        "localname": "Chingkhuilong (till 200m from the Uripok- Kangchup Road UK Road)",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD2009",
-                                        "pincode": [
-                                            795146
-                                        ],
-                                        "area": "AREA_A",
-                                        "children": []
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249d",
                                 "boundaryNum": 1,
                                 "name": "WARD_3",
@@ -204,7 +189,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD3010",
+                                        "code": "WD3007",
                                         "pincode": [
                                             795146
                                         ],
@@ -213,7 +198,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249e",
                                 "boundaryNum": 1,
                                 "name": "WARD_4",
@@ -231,7 +216,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD4011",
+                                        "code": "WD4008",
                                         "pincode": [
                                             795146
                                         ],
@@ -240,7 +225,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249f",
                                 "boundaryNum": 1,
                                 "name": "WARD_5",
@@ -258,7 +243,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD5012",
+                                        "code": "WD5009",
                                         "pincode": [
                                             795146
                                         ],
@@ -267,7 +252,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249g",
                                 "boundaryNum": 1,
                                 "name": "WARD_6",
@@ -278,21 +263,36 @@
                                 "code": "WARD6",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeq",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeb",
                                         "boundaryNum": 1,
-                                        "name": "Lamdeng Khunou",
-                                        "localname": "Lamdeng Khunou",
+                                        "name": "Lamdeng Khunou (Between UK Road and Luwangli river)-ward 6",
+                                        "localname": "Lamdeng Khunou (Between UK Road and Luwangli river)-ward 6",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD6014",
+                                        "code": "WD6010",
                                         "pincode": [
                                             795146
                                         ],
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdec",
+                                        "boundaryNum": 1,
+                                        "name": "Lamdeng Khunou (Area not covered by 10)",
+                                        "localname": "Lamdeng Khunou (Area not covered by 10)",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD6011",
+                                        "pincode": [
+                                            795146
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fder",
                                         "boundaryNum": 1,
                                         "name": "Irengbam Colony",
@@ -300,14 +300,14 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD6015",
+                                        "code": "WD6012",
                                         "pincode": [
                                             795146
                                         ],
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdes",
                                         "boundaryNum": 1,
                                         "name": "Khundi",
@@ -324,7 +324,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249h",
                                 "boundaryNum": 1,
                                 "name": "WARD_7",
@@ -335,29 +335,29 @@
                                 "code": "WARD7",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdet",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fded",
                                         "boundaryNum": 1,
-                                        "name": "Bamon Leikai",
-                                        "localname": "Bamon Leikai",
+                                        "name": "Lamsang Bazar,Taothong Khunou",
+                                        "localname": "Lamsang Bazar, Taothong Khunou",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD7016",
+                                        "code": "WD7014",
                                         "pincode": [
                                             795146
                                         ],
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeu",
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
                                         "boundaryNum": 1,
-                                        "name": "Nitainanda Leirak",
-                                        "localname": "Nitainanda Leirak",
+                                        "name": "Taothong Khunou-ward 7",
+                                        "localname": "Taothong Khunou-ward 7",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD7017",
+                                        "code": "WD7015",
                                         "pincode": [
                                             795146
                                         ],
@@ -366,7 +366,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249i",
                                 "boundaryNum": 1,
                                 "name": "WARD_8",
@@ -379,8 +379,23 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdev",
                                         "boundaryNum": 1,
-                                        "name": "Taothong Apheiba (till 200m from the Uripok- Kangchup Road UK Road)",
-                                        "localname": "Taothong Apheiba (till 200m from the Uripok- Kangchup Road UK Road)",
+                                        "name": "Taothong Apheiba (from UK Road to water reservoir)",
+                                        "localname": "Taothong Apheiba (from UK Road to water reservoir)",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD8016",
+                                        "pincode": [
+                                            795146
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
+                                        "boundaryNum": 1,
+                                        "name": "Taothang Ayungba",
+                                        "localname": "Taothang Ayungba",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -388,18 +403,18 @@
                                         "pincode": [
                                             795146
                                         ],
-                                        "area": "AREA_A",
+                                        "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdew",
                                         "boundaryNum": 1,
-                                        "name": "Taothang Apheiba(200m away from the UK Road)",
-                                        "localname": "Taothang Apheiba(200m away from the UK Road)",
+                                        "name": "Taothang Apheiba(Area not covered by 16)",
+                                        "localname": "Taothang Apheiba(Area not covered by 16)",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD8019",
+                                        "code": "WD8017",
                                         "pincode": [
                                             795146
                                         ],
@@ -408,7 +423,7 @@
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249j",
                                 "boundaryNum": 1,
                                 "name": "WARD_9",
@@ -421,42 +436,42 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdex",
                                         "boundaryNum": 1,
-                                        "name": "Taothong Khunou",
-                                        "localname": "Taothong Khunou",
+                                        "name": "Taothong Khunou-ward 9",
+                                        "localname": "Taothong Khunou-ward 9",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD9021",
+                                        "code": "WD9015",
                                         "pincode": [
                                             795146
                                         ],
                                         "area": "AREA_A",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdey",
                                         "boundaryNum": 1,
-                                        "name": "Taothang Ayungba(200m away from the UK Road)",
-                                        "localname": "Taothang Ayungba(200m away from the UK Road)",
+                                        "name": "Taothang Ayungba Mayai Leikai",
+                                        "localname": "Taothang Ayungba Mayai Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD9020",
+                                        "code": "WD9019",
                                         "pincode": [
                                             795146
                                         ],
                                         "area": "AREA_B",
                                         "children": []
                                     },
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdez",
                                         "boundaryNum": 1,
-                                        "name": "Taothang Ayungba Mamang Leikai",
-                                        "localname": "Taothang Ayungba Mamang Leikai",
+                                        "name": "Taothang Mamang Leikai",
+                                        "localname": "Taothang Mamang Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD9022",
+                                        "code": "WD9020",
                                         "pincode": [
                                             795146
                                         ],
@@ -467,7 +482,6 @@
                             }
                         ]
                     }
-					
                 ]
             }
         }

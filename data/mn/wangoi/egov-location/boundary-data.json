@@ -27,6 +27,33 @@
                         "label": "Zone",
                         "code": "JZN1",
                         "children": [
+                              {
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
+                                "boundaryNum": 1,
+                                "name": "WARD_3",
+                                "localname": "WARD_3",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD3",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdea",
+                                        "boundaryNum": 1,
+                                        "name": "Wangoi Wahengbam Leikai",
+                                        "localname": "Wangoi wahengbam Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD3003",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
                             {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
                                 "boundaryNum": 1,
@@ -40,39 +67,12 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
                                         "boundaryNum": 1,
-                                        "name": "Wangoi Wahengbam Leikai",
-                                        "localname": "Wangoi Wahengbam Leikai",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD5003",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_A",
-                                        "children": []
-                                    }
-                                ]
-                            },
-							{
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
-                                "boundaryNum": 1,
-                                "name": "WARD_3",
-                                "localname": "WARD_3",
-                                "longitude": null,
-                                "latitude": null,
-                                "label": "Block",
-                                "code": "WARD3",
-                                "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdea",
-                                        "boundaryNum": 1,
                                         "name": "Wangoi Thounaojam Leikai",
                                         "localname": "Wangoi Thounaojam Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD3005",
+                                        "code": "WD5005",
                                         "pincode": [
                                             143001
                                         ],
@@ -81,6 +81,7 @@
                                     }
                                 ]
                             },
+							
 							{
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249d",
                                 "boundaryNum": 1,
