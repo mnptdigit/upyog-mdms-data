@@ -171,9 +171,81 @@
       "active": true
     },
     {
-      "name": "Commissioner",
-      "description": "Commissioner",
-      "code": "COMM",
+      "name": "Road Mohorrir",
+      "description": "Road Mohorrir",
+      "code": "MNPT_DESIG_001",
+      "active": true
+    },
+    {
+      "name": "Revenue Inspector",
+      "description": "Revenue Inspector",
+      "code": "MNPT_DESIG_002",
+      "active": true
+    },
+    {
+      "name": "Assistant Engineer",
+      "description": "Assistant Engineer",
+      "code": "MNPT_DESIG_003",
+      "active": true
+    },
+    {
+      "name": "Sr. Chief Executive Officer",
+      "description": "Sr. Chief Executive Officer",
+      "code": "MNPT_DESIG_004",
+      "active": true
+    },
+     {
+      "name": "Computer Operator",
+      "description": "Computer Operator",
+      "code": "MNPT_DESIG_005",
+      "active": true
+    },
+    {
+      "name": "Lower Division Clerk",
+      "description": "Lower Division Clerk",
+      "code": "MNPT_DESIG_006",
+      "active": true
+    },
+    {
+      "name": "Executive Officer",
+      "description": "Executive Officer",
+      "code": "MNPT_DESIG_007",
+      "active": true
+    },
+    {
+      "name": "Executive Officer",
+      "description": "Executive Officer",
+      "code": "MNPT_DESIG_008",
+      "active": true
+    },
+    {
+      "name": "Section Officer",
+      "description": "Section Officer",
+      "code": "MNPT_DESIG_008",
+      "active": true
+    },
+    {
+      "name": "Peon",
+      "description": "Peon",
+      "code": "MNPT_DESIG_009",
+      "active": true
+    },
+    {
+      "name": "Assistant Engineer",
+      "description": "Assistant Engineer",
+      "code": "MNPT_DESIG_010",
+      "active": true
+    },
+    {
+      "name": "Assistant Engineer",
+      "description": "Assistant Engineer",
+      "code": "MNPT_DESIG_011",
+      "active": true
+    },
+    {
+      "name": "Sanitary Inspector",
+      "description": "Sanitary Inspector",
+      "code": "MNPT_DESIG_012",
       "active": true
     }
   ]
