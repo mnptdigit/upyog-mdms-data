@@ -1,5 +1,5 @@
 {
-    "tenantId": "mn.sekmai",
+    "tenantId": "mn.lamlai",
     "moduleName": "egov-location",
     "TenantBoundary": [
         {
@@ -10,12 +10,12 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "Sekmai",
-                "localname": "Sekmai",
+                "name": "Lamlai",
+                "localname": "Lamlai",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "SEKMAI - 20",
+                "code": "LAMLAI-10",
                 "children": [
                     {
                         "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -30,93 +30,6 @@
                             {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
                                 "boundaryNum": 1,
-                                "name": "WARD_1",
-                                "localname": "WARD_1",
-                                "longitude": null,
-                                "latitude": null,
-                                "label": "Block",
-                                "code": "WARD1",
-                                "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                                        "boundaryNum": 1,
-                                        "name": "Sekmai Bazar-Ward 1",
-                                        "localname": "Sekmai Bazar-Ward 1",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD1001",
-                                        "pincode": [
-                                            795136
-                                        ],
-                                        "area": "AREA_A",
-                                        "children": []
-                                    },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
-                                        "boundaryNum": 1,
-                                        "name": "Koujengleima-Ward 1",
-                                        "localname": "Koujengleima-Ward 1",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD1006",
-                                        "pincode": [
-                                            795136
-                                        ],
-                                        "area": "AREA_A",
-                                        "children": []
-                                    },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
-                                        "boundaryNum": 1,
-                                        "name": "Laipat Leikai",
-                                        "localname": "Laipat Leikai",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD1004",
-                                        "pincode": [
-                                            795136
-                                        ],
-                                        "area": "AREA_B",
-                                        "children": []
-                                    },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
-                                        "boundaryNum": 1,
-                                        "name": "Kon",
-                                        "localname": "Kon",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD1005",
-                                        "pincode": [
-                                            795136
-                                        ],
-                                        "area": "AREA_B",
-                                        "children": []
-                                    },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdei",
-                                        "boundaryNum": 1,
-                                        "name": " Parao/MamangLeikai",
-                                        "localname": " Parao/MamangLeikai",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD1002",
-                                        "pincode": [
-                                            795136
-                                        ],
-                                        "area": "AREA_B",
-                                        "children": []
-                                    }
-                                ]
-                            },
-							{
-                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
-                                "boundaryNum": 1,
                                 "name": "WARD_2",
                                 "localname": "WARD_2",
                                 "longitude": null,
@@ -125,53 +38,65 @@
                                 "code": "WARD2",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
                                         "boundaryNum": 1,
-                                        "name": "Sekmai Bazar-Ward 2",
-                                        "localname": "Sekmai Bazar-Ward 2",
+                                        "name": "Chalou Mamang Leikai-ward 2",
+                                        "localname": "Chalou Mamang Leikai-Ward 2",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
                                         "code": "WD2001",
                                         "pincode": [
-                                            795136
+                                            795010
                                         ],
                                         "area": "AREA_A",
                                         "children": []
                                     },
 									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
                                         "boundaryNum": 1,
-                                        "name": "Koujengleima-Ward 2",
-                                        "localname": "Koujengleima-Ward 2",
+                                        "name": "Chalou Maning Leikai-ward 2",
+                                        "localname": "Chalou Maning Leikai-Ward 2",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD2006",
+                                        "code": "WD2002",
                                         "pincode": [
-                                            795136
-                                        ],
-                                        "area": "AREA_A",
-                                        "children": []
-                                    },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
-                                        "boundaryNum": 1,
-                                        "name": "Yairiband",
-                                        "localname": "Yairiband",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD2003",
-                                        "pincode": [
-                                            795136
+                                            795010
                                         ],
                                         "area": "AREA_A",
                                         "children": []
                                     }
                                 ]
                             },
-							{
+                            {
+                                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249c",
+                                "boundaryNum": 1,
+                                "name": "WARD_1",
+                                "localname": "WARD_1",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "WARD1",
+                                "children": [
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
+                                        "boundaryNum": 1,
+                                        "name": "Chalou Mamang Leikai-ward 1",
+                                        "localname": "Chalou Mamang Leikai-ward 1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD1001",
+                                        "pincode": [
+                                            795010
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249d",
                                 "boundaryNum": 1,
                                 "name": "WARD_3",
@@ -182,38 +107,23 @@
                                 "code": "WARD3",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
                                         "boundaryNum": 1,
-                                        "name": "Sekmai Bazar-Ward 3",
-                                        "localname": "Sekmai Bazar-Ward 3",
+                                        "name": "Lamlai Awang Leikai-ward 3",
+                                        "localname": "Lamlai Awang Leikai-ward 3",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD3001",
+                                        "code": "WD3003",
                                         "pincode": [
-                                            795136
+                                            795010
                                         ],
                                         "area": "AREA_A",
-                                        "children": []
-                                    },
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fden",
-                                        "boundaryNum": 1,
-                                        "name": "Makha Leikai-Ward 3",
-                                        "localname": "Makha Leikai-Ward 3",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD3004",
-                                        "pincode": [
-                                            795136
-                                        ],
-                                        "area": "AREA_B",
                                         "children": []
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249e",
                                 "boundaryNum": 1,
                                 "name": "WARD_4",
@@ -223,24 +133,69 @@
                                 "label": "Block",
                                 "code": "WARD4",
                                 "children": [
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fde0",
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdei",
                                         "boundaryNum": 1,
-                                        "name": "Makha Leikai-Ward 4",
-                                        "localname": "Makha Leikai-Ward 4",
+                                        "name": "Chalou Maning Leikai-Ward 4",
+                                        "localname": "Chalou Maning Leikai-Ward 4",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD4004",
+                                        "code": "WD4002",
                                         "pincode": [
-                                            795136
+                                            795010
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
+                                        "boundaryNum": 1,
+                                        "name": "Lamlai Awang Leikai-Ward 4",
+                                        "localname": "Lamlai Awang Leikai-Ward 4",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD4003",
+                                        "pincode": [
+                                            795010
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
+                                        "boundaryNum": 1,
+                                        "name": "Napet Mayai Leikai-Ward 4",
+                                        "localname": "Napet Mayai Leikai-Ward 4",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD4007",
+                                        "pincode": [
+                                            795010
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
+                                        "boundaryNum": 1,
+                                        "name": "Napet Mamang Leikai-Ward 4",
+                                        "localname": "Napet Mamang Leikai-Ward 4",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD4006",
+                                        "pincode": [
+                                            795010
+                                        ],
+                                        "area": "AREA_A",
                                         "children": []
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249f",
                                 "boundaryNum": 1,
                                 "name": "WARD_5",
@@ -250,24 +205,54 @@
                                 "label": "Block",
                                 "code": "WARD5",
                                 "children": [
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdep",
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
                                         "boundaryNum": 1,
-                                        "name": "Mayai Leikai",
-                                        "localname": "Mayai Leikai",
+                                        "name": "Napet Mamang Leikai-Ward 5",
+                                        "localname": "Napet Mamang Leikai-Ward 5",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD5006",
+                                        "pincode": [
+                                            795010
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fden",
+                                        "boundaryNum": 1,
+                                        "name": "Napet Mayai Leikai-ward 5",
+                                        "localname": "Napet Mayai Leikai-ward 5",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD5007",
+                                        "pincode": [
+                                            795010
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeo",
+                                        "boundaryNum": 1,
+                                        "name": "Napet Maning Leikai",
+                                        "localname": "Napet Maning Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
                                         "code": "WD5008",
                                         "pincode": [
-                                            795136
+                                            795010
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_A",
                                         "children": []
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249g",
                                 "boundaryNum": 1,
                                 "name": "WARD_6",
@@ -277,24 +262,24 @@
                                 "label": "Block",
                                 "code": "WARD6",
                                 "children": [
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeq",
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdep",
                                         "boundaryNum": 1,
-                                        "name": "Awang Leikai-Ward 6",
-                                        "localname": "Awang Leikai-Ward 6",
+                                        "name": "Lamlai Mayai Leikai-Ward 6",
+                                        "localname": "Lamlai Mayai Leikai-Ward 6",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD6009",
+                                        "code": "WD6004",
                                         "pincode": [
-                                            795136
+                                            795010
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_A",
                                         "children": []
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249h",
                                 "boundaryNum": 1,
                                 "name": "WARD_7",
@@ -304,24 +289,24 @@
                                 "label": "Block",
                                 "code": "WARD7",
                                 "children": [
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fder",
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeq",
                                         "boundaryNum": 1,
-                                        "name": "Awang Leikai-Ward 7",
-                                        "localname": "Awang Leikai-Ward 7",
+                                        "name": "Lamlai Mayai Leikai-Ward 7",
+                                        "localname": "Lamlai Mayai Leikai-Ward 7",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD7009",
+                                        "code": "WD7004",
                                         "pincode": [
-                                            795136
+                                            795010
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_A",
                                         "children": []
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249i",
                                 "boundaryNum": 1,
                                 "name": "WARD_8",
@@ -331,24 +316,39 @@
                                 "label": "Block",
                                 "code": "WARD8",
                                 "children": [
-									{
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdes",
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fder",
                                         "boundaryNum": 1,
-                                        "name": "Khunou Leikai-Ward 8",
-                                        "localname": "Khunou Leikai-Ward 8",
+                                        "name": "Lamlai Mayai Leikai-Ward 8",
+                                        "localname": "Lamlai Mayai Leikai-Ward 8",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD8010",
+                                        "code": "WD8004",
                                         "pincode": [
-                                            795136
+                                            795010
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_A",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdes",
+                                        "boundaryNum": 1,
+                                        "name": "Lamlai Makha Leikai-Ward 8",
+                                        "localname": "Lamlai Makha Leikai-Ward 8",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD8005",
+                                        "pincode": [
+                                            795010
+                                        ],
+                                        "area": "AREA_A",
                                         "children": []
                                     }
                                 ]
                             },
-							{
+                            {
                                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249j",
                                 "boundaryNum": 1,
                                 "name": "WARD_9",
@@ -358,26 +358,25 @@
                                 "label": "Block",
                                 "code": "WARD9",
                                 "children": [
-									{
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdet",
                                         "boundaryNum": 1,
-                                        "name": "Khunou Leikai-Ward 9",
-                                        "localname": "Khunou Leikai-Ward 9",
+                                        "name": "Lamlai Makha Leikai-Ward 9",
+                                        "localname": "Lamlai Makha Leikai-Ward 9",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD9010",
+                                        "code": "WD9005",
                                         "pincode": [
-                                            795136
+                                            795010
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_A",
                                         "children": []
                                     }
                                 ]
                             }
                         ]
                     }
-					
                 ]
             }
         }
