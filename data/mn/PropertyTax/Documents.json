@@ -231,13 +231,6 @@
           ]
         },
         {
-          "code": "OWNER.SPECIALCATEGORYPROOF.BPLDOCUMENT",
-          "active": true,
-          "parentValue": [
-            "BPL"
-          ]
-        },
-        {
           "code": "OWNER.SPECIALCATEGORYPROOF.DEATHCERTIFICATE",
           "active": true,
           "parentValue": [
