@@ -1635,16 +1635,16 @@
       "financialYear": "2024-25"
     },
     {
-      "fromDate": 1743503063000,
-      "toDate": 1774952663000,
+      "fromDate": 1743465600000,
+      "toDate": 1774915200000,
       "periodCycle": "ANNUAL",
       "service": "PT",
       "code": "PTAN2025",
       "financialYear": "2025-26"
     },
     {
-      "fromDate": 1648751400000,
-      "toDate": 1680287399000,
+      "fromDate": 1743465600000,
+      "toDate": 1774915200000,
       "periodCycle": "ANNUAL",
       "service": "PT.MUTATION",
       "code": "PTMUTAN2025",
