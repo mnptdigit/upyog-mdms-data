@@ -3,7 +3,7 @@
   "moduleName": "PropertyTax",
   "Interest": [
     {
-      "rate": 18,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,
@@ -11,7 +11,7 @@
       "startingDay": "1/01/2016"
     },
     {
-      "rate": 12,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,
@@ -19,7 +19,7 @@
       "startingDay": "1/04/2016"
     },
     {
-      "rate": 4,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,
@@ -27,7 +27,7 @@
       "startingDay": "01/04/2019"
     },
     {
-      "rate": 9,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,
