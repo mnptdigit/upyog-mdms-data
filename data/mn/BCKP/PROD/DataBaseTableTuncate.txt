@@ -1,0 +1,117 @@
+truncate TABLE "eg_user" CASCADE;
+truncate TABLE "eg_user_address" CASCADE;
+truncate TABLE "eg_userrole" CASCADE;
+truncate TABLE "eg_userrole_v1" CASCADE;
+truncate TABLE "eg_wf_processinstance_v2" CASCADE;
+truncate TABLE "egcl_payment" CASCADE;
+truncate TABLE "eg_user_address" CASCADE;
+truncate TABLE "eg_userrole" CASCADE;
+truncate TABLE "eg_userrole_v1" CASCADE;
+truncate TABLE "eg_wf_assignee_v2" CASCADE;
+truncate TABLE "eg_wf_document_v2" CASCADE;
+truncate TABLE "egcl_paymentdetail" CASCADE;
+truncate TABLE "egcl_bill" CASCADE;
+truncate TABLE "egcl_billdetial" CASCADE;
+truncate TABLE "egcl_billaccountdetail" CASCADE;
+truncate TABLE "egbs_payment_backupdate_audit" CASCADE;
+truncate TABLE "eg_hrms_employee" CASCADE;
+truncate TABLE "eg_hrms_assignment" CASCADE;
+truncate TABLE "eg_hrms_deactivationdetails" CASCADE;
+truncate TABLE "eg_hrms_departmentaltests" CASCADE;
+truncate TABLE "eg_hrms_educationaldetails" CASCADE;
+truncate TABLE "eg_hrms_empdocuments" CASCADE;
+truncate TABLE "eg_hrms_jurisdiction" CASCADE;
+truncate TABLE "eg_hrms_reactivationdetails" CASCADE;
+truncate TABLE "eg_hrms_servicehistory" CASCADE;
+truncate TABLE "eg_pt_asmt_assessment" CASCADE;
+truncate TABLE "eg_pt_asmt_unitusage" CASCADE;
+truncate TABLE "eg_pt_asmt_document" CASCADE;
+truncate TABLE "eg_filestoremap" CASCADE;
+truncate TABLE "eg_pg_transactions" CASCADE;
+truncate TABLE "eg_pg_transactions_dump" CASCADE;
+truncate TABLE "eg_pt_property" CASCADE;
+truncate TABLE "eg_pt_asmt_document" CASCADE;
+truncate TABLE "eg_pt_address" CASCADE;
+truncate TABLE "eg_pt_institution" CASCADE;
+truncate TABLE "eg_pt_owner" CASCADE;
+truncate TABLE "eg_pt_unit" CASCADE;
+truncate TABLE "eg_pt_address" CASCADE;
+truncate TABLE "eg_pt_institution" CASCADE;
+truncate TABLE "eg_pt_owner" CASCADE;
+truncate TABLE "eg_pt_asmt_assessment_audit" CASCADE;
+truncate TABLE "eg_pt_asmt_unitusage_audit" CASCADE;
+truncate TABLE "eg_pt_bifurcation" CASCADE;
+truncate TABLE "eg_pt_id_enc_audit" CASCADE;
+truncate TABLE "eg_pt_notice" CASCADE;
+truncate TABLE "eg_pt_notice_comment" CASCADE;
+truncate TABLE "eg_pt_property_appeal" CASCADE;
+truncate TABLE "eg_pt_property_migration" CASCADE;
+truncate TABLE "eg_user_audit_TABLE" CASCADE;
+truncate TABLE "eg_user_login_attempt_audit" CASCADE;
+truncate TABLE "eg_user_login_failed_attempts" CASCADE;
+truncate TABLE "eg_usrevents_events" CASCADE;
+truncate TABLE "eg_usrevents_recepnt_event_registry" CASCADE;
+truncate TABLE "eg_usrevents_user_lat" CASCADE;
+truncate TABLE "egbs_bill" CASCADE;
+truncate TABLE "egbs_billdetail" CASCADE;
+truncate TABLE "egbs_billaccountdetail" CASCADE;
+truncate TABLE "egbs_billdetail" CASCADE;
+truncate TABLE "egbs_billaccountdetail" CASCADE;
+truncate TABLE "egbs_bill_v1" CASCADE;
+truncate TABLE "egbs_billdetail_v1" CASCADE;
+truncate TABLE "egbs_billaccountdetail_v1" CASCADE;
+truncate TABLE "egbs_business_service_details" CASCADE;
+truncate TABLE "egbs_collectedreceipts" CASCADE;
+truncate TABLE "egbs_demand" CASCADE;
+truncate TABLE "egbs_demanddetail" CASCADE;
+truncate TABLE "egbs_demand_v1" CASCADE;
+truncate TABLE "egbs_demanddetail_v1" CASCADE;
+truncate TABLE "egbs_demand_v1_audit" CASCADE;
+truncate TABLE "egbs_demanddetail_v1_audit" CASCADE;
+truncate TABLE "egcl_bill_audit" CASCADE;
+truncate TABLE "egcl_billdetial_audit" CASCADE;
+truncate TABLE "egcl_instrumentheader" CASCADE;
+truncate TABLE "egcl_receiptinstrument" CASCADE;
+truncate TABLE "egcl_instrumentheader_v1" CASCADE;
+truncate TABLE "egcl_receiptinstrument_v1" CASCADE;
+truncate TABLE "egcl_instrumentheader_v1_history" CASCADE;
+truncate TABLE "egcl_payment_audit" CASCADE;
+truncate TABLE "egcl_paymentdetail_audit" CASCADE;
+truncate TABLE "egcl_receiptdetails" CASCADE;
+truncate TABLE "egcl_receiptdetails_v1" CASCADE;
+truncate TABLE "egcl_receiptdetails_v1_history" CASCADE;
+truncate TABLE "egcl_receiptheader" CASCADE;
+truncate TABLE "egcl_receiptheader_v1" CASCADE;
+truncate TABLE "egcl_remittance" CASCADE;
+truncate TABLE "egf_financialconfigurationvalues" CASCADE;
+truncate TABLE "egf_financialstatus" CASCADE;
+truncate TABLE "egf_financialyear" CASCADE;
+truncate TABLE "egf_fiscalperiod" CASCADE;
+truncate TABLE "egf_budgetgroup" CASCADE;
+truncate TABLE "egf_chartofaccount" CASCADE;
+truncate TABLE "egf_chartofaccountdetail" CASCADE;
+truncate TABLE "egf_deletedtxn" CASCADE;
+truncate TABLE "eg_pt_enc_audit" CASCADE;
+truncate TABLE "eg_pt_property_audit" CASCADE;
+
+//After the above query executed please ececute below lines all at once
+
+DO $$
+DECLARE
+    seq RECORD;
+BEGIN
+    FOR seq IN
+        SELECT sequence_name
+        FROM information_schema.sequences
+        WHERE sequence_schema = 'public'
+    LOOP
+        EXECUTE 'ALTER SEQUENCE ' || seq.sequence_name || ' RESTART WITH 1';
+    END LOOP;
+END $$;
+
+
+
+
+
+
+
