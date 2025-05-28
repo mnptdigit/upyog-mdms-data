@@ -51,6 +51,21 @@
                                         ],
                                         "area": "AREA_B",
                                         "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdey",
+                                        "boundaryNum": 1,
+                                        "name": "Sugnu Awang Leikai-Ward 1",
+                                        "localname": "Sugnu Awang Leikai-Ward 1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD1001",
+                                        "pincode": [
+                                            795101
+                                        ],
+                                        "area": "AREA_A",
+                                        "children": []
                                     }
                                 ]
                             },
