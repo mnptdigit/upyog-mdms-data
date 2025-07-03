@@ -2,6 +2,33 @@
     "tenantId": "mn",
     "moduleName": "BillingService",
     "TaxHeadMaster": [
+	{
+            "category": "TAX",
+            "service": "PT",
+            "name": "Pt street lighting",
+            "code": "PT_STREET_LIGHTING",
+            "isDebit": true,
+            "isActualDemand": false,
+            "order": 0
+        },
+		{
+            "category": "TAX",
+            "service": "PT",
+            "name": "Pt general Conservancy",
+            "code": "PT_GENERAL_CONSERVANCY",
+            "isDebit": true,
+            "isActualDemand": false,
+            "order": 0
+        },
+		{
+            "category": "TAX",
+            "service": "PT",
+            "name": "Pt property interest",
+            "code": "PT_PROPERTY_INTEREST",
+            "isDebit": true,
+            "isActualDemand": false,
+            "order": 0
+        },
         {
             "category": "TAX",
             "service": "PT",
