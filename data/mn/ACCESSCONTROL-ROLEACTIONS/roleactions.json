@@ -106,6 +106,12 @@
     },
     {
       "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 696,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
       "actionid": 433,
       "actioncode": "",
       "tenantId": "mn"
@@ -10022,6 +10028,18 @@
       "actioncode": "",
       "tenantId": "mn"
     },
+	{
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 696,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 654,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
     {
       "rolecode": "EGF_REPORT_VIEW",
       "actionid": 1617,
@@ -10739,6 +10757,12 @@
     {
       "rolecode": "EGF_ADMINISTRATOR",
       "actionid": 1674,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 954,
       "actioncode": "",
       "tenantId": "mn"
     },

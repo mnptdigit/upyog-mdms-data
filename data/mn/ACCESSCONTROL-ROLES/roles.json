@@ -701,6 +701,16 @@
 	  "code": "EXECUTING_OFFICER",
       "name": "Executing_Officer",
       "description": "one who varifies appeal"
-    }
+    },
+	{
+	  "code": "MANIPUR_LEADER",
+	  "name": "MANIPUR_LEADER",
+	  "description": "Dashboard View FOR Chief Minister, Chief Secretary Of State"
+	},
+	{
+	  "code": "MNPTB_DIRECTOR",
+	  "name": "MNPTB_DIRECTOR",
+	  "description": "Dashboard View Director of Manipur Property Tax Board"
+	}
   ]
 }
