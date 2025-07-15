@@ -544,12 +544,27 @@
 									{
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdah",
                                         "boundaryNum": 1,
-                                        "name": "Mayai Leikai",
-                                        "localname": "Mayai Leikai",
+                                        "name": "Mayai Leikai-ward 8",
+                                        "localname": "Mayai Leikai-ward 8",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
                                         "code": "WD8020",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaq",
+                                        "boundaryNum": 1,
+                                        "name": "Maibram Leikai",
+                                        "localname": "Maibram Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD8021",
                                         "pincode": [
                                             143001
                                         ],

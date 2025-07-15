@@ -26401,6 +26401,24 @@
       "actionid": 2527,
       "actioncode": "",
       "tenantId": "mn"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 2528,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "MANIPUR_LEADER",
+      "actionid": 2528,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "MNPTB_DIRECTOR",
+      "actionid": 2528,
+      "actioncode": "",
+      "tenantId": "mn"
     }
   ]
 }
