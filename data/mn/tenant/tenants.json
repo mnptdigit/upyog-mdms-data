@@ -900,6 +900,39 @@
       },
       "address": "Laipat leikai, P.O & P.S. Sekmai, Imphal West District, 795136",
       "contactNumber": ""
+    },
+	{
+      "code": "mn",
+      "name": "Manipur",
+      "description": "MANIPUR",
+      "pincode": "",
+      "logoId": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/trlogo2.png",
+      "imageId": null,
+      "domainUrl": "https://mnptapp.manipurpropertytax.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Manipur",
+        "localName": null,
+        "districtCode": "MANIPUR",
+        "districtName": "MANIPUR",
+        "districtTenantCode": "MANIPUR",
+        "regionName": null,
+        "ulbGrade": "Municipal Council",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "",
+        "ddrName": "DDR A"
+      },
+      "address": "",
+      "contactNumber": ""
     }
    ]
 }
