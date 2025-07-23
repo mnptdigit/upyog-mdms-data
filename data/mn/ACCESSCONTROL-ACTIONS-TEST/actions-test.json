@@ -15008,6 +15008,17 @@
             "code": "null",
             "path": ""
         },
+		{
+            "id": 2529,
+            "name": "Dashboard service data",
+            "url": "/property-services/property/_dashboardPropertyReports",
+            "displayName": "Dashboard service data",
+            "orderNumber": 1,
+            "enabled": false,
+            "serviceCode": "property-services",
+            "code": "null",
+            "path": ""
+        },
         {
             "id": 2537,
             "name": "Notices",
