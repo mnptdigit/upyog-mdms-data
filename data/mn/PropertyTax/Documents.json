@@ -31,11 +31,6 @@
       },
       "dropdownData": [
         {
-          "code": "OWNER.ADDRESSPROOF.ELECTRICITYBILL",
-          "active": true
-        },
-        
-        {
           "code": "OWNER.ADDRESSPROOF.AADHAAR",
           "active": false
         },
@@ -50,6 +45,10 @@
         {
           "code": "OWNER.ADDRESSPROOF.PASSPORT",
           "active": false
+        },
+		{
+          "code": "OWNER.ADDRESSPROOF.ELECTRICITYBILL",
+          "active": true
         }
       ],
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
@@ -83,24 +82,20 @@
       },
       "dropdownData": [
         {
-          "code": "OWNER.IDENTITYPROOF.AADHAAR",
+          "code": "OWNER.PATTA.JAMABANDI",
           "active": true
         },
         {
-          "code": "OWNER.IDENTITYPROOF.VOTERID",
+          "code": "OWNER.DAG.CHITHA",
           "active": true
         },
         {
-          "code": "OWNER.IDENTITYPROOF.DRIVING",
+          "code": "OWNER.SELF.DECLARATION",
           "active": true
         },
         {
-          "code": "OWNER.IDENTITYPROOF.PAN",
+          "code": "OWNER.OTHERS",
           "active": true
-        },
-        {
-          "code": "OWNER.IDENTITYPROOF.PASSPORT",
-          "active": false
         }
       ],
       "description": "OWNER.IDENTITYPROOF.IDENTITYPROOF_DESCRIPTION"

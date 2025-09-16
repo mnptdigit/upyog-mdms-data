@@ -10,29 +10,24 @@
         "hasDropdown": true,
         "dropdownData": [
           {
-            "code": "OWNER.IDENTITYPROOF.AADHAAR",
+            "code": "OWNER.PATTA.JAMABANDI",
             "active": true,
-            "i18nKey": "OWNER_IDENTITYPROOF_AADHAAR"
+            "i18nKey": "OWNER_PATTA_JAMABANDI"
           },
           {
-            "code": "OWNER.IDENTITYPROOF.VOTERID",
+            "code": "OWNER.DAG.CHITHA",
             "active": true,
-            "i18nKey": "OWNER_IDENTITYPROOF_VOTERID"
+            "i18nKey": "OWNER_DAG_CHITHA"
           },
           {
-            "code": "OWNER.IDENTITYPROOF.DRIVING",
+            "code": "OWNER.SELF.DECLARATION",
             "active": true,
-            "i18nKey": "OWNER_IDENTITYPROOF_DRIVING"
+            "i18nKey": "OWNER_SELF_DECLARATION"
           },
           {
-            "code": "OWNER.IDENTITYPROOF.PAN",
+            "code": "OWNER.OTHERS",
             "active": true,
-            "i18nKey": "OWNER_IDENTITYPROOF_PAN"
-          },
-          {
-            "code": "OWNER.IDENTITYPROOF.PASSPORT",
-            "active": true,
-            "i18nKey": "OWNER_IDENTITYPROOF_PASSPORT"
+            "i18nKey": "OWNER_OTHERS"
           }
         ],
         "description": "OWNER.ADDRESSPROOF.IDENTITYPROOF_DESCRIPTION",
@@ -45,11 +40,6 @@
         "active": true,
         "hasDropdown": true,
         "dropdownData": [
-          {
-            "code": "OWNER.ADDRESSPROOF.ELECTRICITYBILL",
-            "active": true,
-            "i18nKey": "OWNER_ADDRESSPROOF_ELECTRICITYBILL"
-          },
           {
             "code": "OWNER.ADDRESSPROOF.DL",
             "active": true,
@@ -74,7 +64,12 @@
             "code": "OWNER.ADDRESSPROOF.PASSPORT",
             "active": true,
             "i18nKey": "OWNER_ADDRESSPROOF_PASSPORT"
-          }
+          },
+		  {
+            "code": "OWNER.ADDRESSPROOF.ELECTRICITYBILL",
+            "active": true,
+            "i18nKey": "OWNER_ADDRESSPROOF_ELECTRICITYBILL"
+          },
         ],
         "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION",
         "i18nKey": "OWNER_ADDRESSPROOF"
