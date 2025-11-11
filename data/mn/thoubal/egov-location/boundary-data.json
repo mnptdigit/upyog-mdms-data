@@ -45,7 +45,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD4014",
+                                        "code": "WD4012",
                                         "pincode": [
                                             143001
                                         ],
@@ -60,7 +60,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD4016",
+                                        "code": "WD4014",
                                         "pincode": [
                                             143001
                                         ],
@@ -75,7 +75,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD4015",
+                                        "code": "WD4013",
                                         "pincode": [
                                             143001
                                         ],
@@ -85,12 +85,12 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdah",
                                         "boundaryNum": 1,
-                                        "name": "Police Station Maning Leikai",
-                                        "localname": "Police Station Maning Leikai",
+                                        "name": "Police Station Maning",
+                                        "localname": "Police Station Maning",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD4013",
+                                        "code": "WD4011",
                                         "pincode": [
                                             143001
                                         ],
@@ -142,12 +142,27 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdai",
                                         "boundaryNum": 1,
-                                        "name": "Kshetri Leikai Lai Leikai",
-                                        "localname": "Kshetri Leikai Lai Leikai",
+                                        "name": "Kshetri Leikai Moirangpali",
+                                        "localname": "Kshetri Leikai Moirangpali",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
                                         "code": "WD3010",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdce",
+                                        "boundaryNum": 1,
+                                        "name": "Thoubal Kshetri Leikai",
+                                        "localname": "Thoubal Kshetri Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD3009",
                                         "pincode": [
                                             143001
                                         ],
@@ -199,8 +214,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdex",
                                         "boundaryNum": 1,
-                                        "name": "Okram Wangmataba Mamang Leikai",
-                                        "localname": "Okram Wangmataba Mamang Leikai",
+                                        "name": "Okram Wangmataba Leikai",
+                                        "localname": "Okram Wangmataba Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -214,8 +229,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaj",
                                         "boundaryNum": 1,
-                                        "name": "Okram Mayai Leikai",
-                                        "localname": "Okram Mayai Leikai",
+                                        "name": "Okram Mamang Leikai",
+                                        "localname": "Okram Mamang Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -333,7 +348,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD5017",
+                                        "code": "WD5015",
                                         "pincode": [
                                             143001
                                         ],
@@ -348,7 +363,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD5018",
+                                        "code": "WD5016",
                                         "pincode": [
                                             143001
                                         ],
@@ -363,7 +378,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD5019",
+                                        "code": "WD5017",
                                         "pincode": [
                                             143001
                                         ],
@@ -382,21 +397,6 @@
                                 "label": "Block",
                                 "code": "WARD6",
                                 "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdem",
-                                        "boundaryNum": 1,
-                                        "name": "Athokpam Khangembam Leikai",
-                                        "localname": "Athokpam Khangembam Leikai",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD6022",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_B",
-                                        "children": []
-                                    },
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaa",
                                         "boundaryNum": 1,
@@ -420,7 +420,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD6024",
+                                        "code": "WD6022",
                                         "pincode": [
                                             143001
                                         ],
@@ -435,6 +435,36 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
+                                        "code": "WD6018",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdcf",
+                                        "boundaryNum": 1,
+                                        "name": "Athokpam Heikrengkhong Lampak",
+                                        "localname": "Athokpam Heikrengkhong Lampak",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD6019",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdcg",
+                                        "boundaryNum": 1,
+                                        "name": "Athokpam Khangembam Lampak",
+                                        "localname": "Athokpam Khangembam Lampak",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
                                         "code": "WD6020",
                                         "pincode": [
                                             143001
@@ -445,8 +475,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
                                         "boundaryNum": 1,
-                                        "name": "Athokpam Takhellambam Leikai",
-                                        "localname": "Athokpam Takhellambam Leikai",
+                                        "name": "Athokpam Mayai Turel Mapal",
+                                        "localname": "Athokpam Mayai Turel Mapal",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -454,7 +484,7 @@
                                         "pincode": [
                                             143001
                                         ],
-                                        "area": "AREA_C",
+                                        "area": "AREA_B",
                                         "children": []
                                     }
                                 ]
@@ -469,15 +499,15 @@
                                 "label": "Block",
                                 "code": "WARD7",
                                 "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdcj",
                                         "boundaryNum": 1,
                                         "name": "Athokpam Pangambam Leikai",
                                         "localname": "Athokpam Pangambam Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD7026",
+                                        "code": "WD7027",
                                         "pincode": [
                                             143001
                                         ],
@@ -485,10 +515,25 @@
                                         "children": []
                                     },
                                     {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
+                                        "boundaryNum": 1,
+                                        "name": "Sandabung Leikai",
+                                        "localname": "Sandabung Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD7026",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdau",
                                         "boundaryNum": 1,
-                                        "name": "Athokpam Maning Yumnam Leikai",
-                                        "localname": "Athokpam Maning Yumnam Leikai",
+                                        "name": "Loukhai Lampak",
+                                        "localname": "Loukhai Lampak",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -497,6 +542,36 @@
                                             143001
                                         ],
                                         "area": "AREA_C",
+                                        "children": []
+                                    },
+									{
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdci",
+                                        "boundaryNum": 1,
+                                        "name": "Heikrengkhong Pukhri Asangba",
+                                        "localname": "Heikrengkhong Pukhri Asangba",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD7024",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdch",
+                                        "boundaryNum": 1,
+                                        "name": "Athokpam Lai Leikai",
+                                        "localname": "Athokpam Lai Leikai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD7023",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_B",
                                         "children": []
                                     }
                                 ]
@@ -511,21 +586,6 @@
                                 "label": "Block",
                                 "code": "WARD8",
                                 "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeq",
-                                        "boundaryNum": 1,
-                                        "name": "Thoubal Achouba Bazar Makha Sekpi Khongnangkhong",
-                                        "localname": "Thoubal Achouba Bazar Makha Sekpi Khongnangkhong",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD8030",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_A",
-                                        "children": []
-                                    },
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdav",
                                         "boundaryNum": 1,
@@ -549,7 +609,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD8027",
+                                        "code": "WD8028",
                                         "pincode": [
                                             143001
                                         ],
@@ -564,7 +624,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD8028",
+                                        "code": "WD8029",
                                         "pincode": [
                                             143001
                                         ],
@@ -579,7 +639,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD8029",
+                                        "code": "WD8030",
                                         "pincode": [
                                             143001
                                         ],
@@ -616,8 +676,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdef",
                                         "boundaryNum": 1,
-                                        "name": "Thoubal Mayai leirak",
-                                        "localname": "Thoubal Mayai leirak",
+                                        "name": "Thoubal Mayai Leirak",
+                                        "localname": "Thoubal Mayai Leirak",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -790,8 +850,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdbd",
                                         "boundaryNum": 1,
-                                        "name": "Thoubal Ningombam Mamang Leikai",
-                                        "localname": "Thoubal Ningombam Mamang Leikai",
+                                        "name": "Thoubal Ningombam Manoang Leikai",
+                                        "localname": "Thoubal Ningombam Manoang Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -820,8 +880,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdbf",
                                         "boundaryNum": 1,
-                                        "name": "Thoubal Ningombam Mayai Leikai",
-                                        "localname": "Thoubal Ningombam Mayai Leikai",
+                                        "name": "Thoubal Ningonobam Mayai Leikai",
+                                        "localname": "Thoubal Ningonobam Mayai Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -1150,7 +1210,7 @@
                                         "pincode": [
                                             143001
                                         ],
-                                        "area": "AREA_C",
+                                        "area": "AREA_B",
                                         "children": []
                                     }
                                 ]
@@ -1168,8 +1228,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdbv",
                                         "boundaryNum": 1,
-                                        "name": "Kiyam Siphai Babu Bazar Lamdaibung",
-                                        "localname": "Kiyam Siphai Babu Bazar Lamdaibung",
+                                        "name": "Kiyam Siphai Babu Bazar",
+                                        "localname": "Kiyam Siphai Babu Bazar",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
