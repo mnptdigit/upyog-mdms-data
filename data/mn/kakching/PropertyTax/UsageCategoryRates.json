@@ -100,6 +100,15 @@
             "value": {
                 "rate": 0.20
             }
+        },
+        {
+            "name": "Vacant Land being agricultural land or other lands",
+            "code": "AGRICULTURAL_LAND",
+            "active": true,
+            "fromFY": "2015-16",
+            "value": {
+                "rate": 0
+            }
         }
     ]
 }
