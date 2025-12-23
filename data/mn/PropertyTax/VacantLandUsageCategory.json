@@ -19,6 +19,12 @@
             "code": "APPURTENENT_LAND",
             "active": true,
             "fromFY": "2015-16"
+        },
+		{
+            "name": "Vacant Land being agricultural land or other lands",
+            "code": "AGRICULTURAL_LAND",
+            "active": true,
+            "fromFY": "2015-16"
         }
     ]
 }
