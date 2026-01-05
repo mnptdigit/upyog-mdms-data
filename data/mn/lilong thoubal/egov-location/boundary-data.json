@@ -185,21 +185,6 @@
                                 "code": "WARD3",
                                 "children": [
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdab",
-                                        "boundaryNum": 1,
-                                        "name": "Lilong Litan Makhong",
-                                        "localname": "Lilong Litan Makhong",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD3005",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeb",
                                         "boundaryNum": 1,
                                         "name": "Lilong Leihao khong",
@@ -223,21 +208,6 @@
                                         "latitude": null,
                                         "label": "Locality",
                                         "code": "WD3010",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fder",
-                                        "boundaryNum": 1,
-                                        "name": "Lilong Yangbi Leikai-ward 3",
-                                        "localname": "Lilong Yangbi Leikai-ward 3",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD3008",
                                         "pincode": [
                                             143001
                                         ],
@@ -337,8 +307,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdbl",
                                         "boundaryNum": 1,
-                                        "name": "Leihaokhong Mayai Leikai",
-                                        "localname": "Leihaokhong Mayai Leikai",
+                                        "name": "Leihaokhong Makha Leikai",
+                                        "localname": "Leihaokhong Makha Leikai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
