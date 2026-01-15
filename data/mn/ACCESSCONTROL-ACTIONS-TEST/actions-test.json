@@ -15048,6 +15048,6 @@
             "serviceCode": "ADMIN",
             "code": "null",
             "path": "Administration.Update Password"
-        },
+        }
     ]
 }
