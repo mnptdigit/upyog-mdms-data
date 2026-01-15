@@ -26437,6 +26437,25 @@
       "actionid": 2529,
       "actioncode": "",
       "tenantId": "mn"
-    }
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "EMPLOYEE_ADMIN",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	{
+      "rolecode": "MANIPUR_LEADER",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "mn"
+    },
+	
   ]
 }

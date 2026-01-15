@@ -15037,6 +15037,17 @@
             "queryParams": "",
             "sidebar": "digit-ui-links",
             "sidebarURL": "/digit-ui/citizen/pt-home"
-        }
+        },
+		 {
+            "id": 2538,
+            "name": "Update Password",
+            "url": "/user/password/_updateEmployee",
+            "displayName": "Update Password For Employees",
+            "orderNumber": 1,
+            "enabled": false,
+            "serviceCode": "ADMIN",
+            "code": "null",
+            "path": "Administration.Update Password"
+        },
     ]
 }
