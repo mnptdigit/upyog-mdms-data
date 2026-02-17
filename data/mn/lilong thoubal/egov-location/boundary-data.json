@@ -37,51 +37,7 @@
                                 "label": "Block",
                                 "code": "WARD4",
                                 "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdek",
-                                        "boundaryNum": 1,
-                                        "name": "Lilong Lou Tara",
-                                        "localname": "Lilong Lou Tara",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD4012",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdea",
-                                        "boundaryNum": 1,
-                                        "name": "Lilong Mayai Leikai",
-                                        "localname": "Lilong Mayai Leikai",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD4013",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdey",
-                                        "boundaryNum": 1,
-                                        "name": "Haoreibi Sambrukhong-ward 4",
-                                        "localname": "Haoreibi Sambrukhong-ward 4",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD4011",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
+
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdbv",
                                         "boundaryNum": 1,
@@ -184,51 +140,7 @@
                                 "label": "Block",
                                 "code": "WARD3",
                                 "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeb",
-                                        "boundaryNum": 1,
-                                        "name": "Lilong Leihao khong",
-                                        "localname": "Lilong Leihao khong",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD3009",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdec",
-                                        "boundaryNum": 1,
-                                        "name": "Haoreibi Awang Leikai",
-                                        "localname": "Haoreibi Awang Leikai",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD3010",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdew",
-                                        "boundaryNum": 1,
-                                        "name": "Haoreibi Sambrukhong-ward 3",
-                                        "localname": "Haoreibi Sambrukhong-ward 3",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD3011",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
+
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdau",
                                         "boundaryNum": 1,
@@ -529,12 +441,12 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdad",
                                         "boundaryNum": 1,
-                                        "name": "Lilong Heinou Makhong West",
-                                        "localname": "Lilong Heinou Makhong West",
+                                        "name": "Lilong Heinou Makhong West / Arapti Lamkhai",
+                                        "localname": "Lilong Heinou Makhong West / Arapti Lamkhai",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD1005",
+                                        "code": "WD1020",
                                         "pincode": [
                                             143001
                                         ],
@@ -636,7 +548,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD2021",
+                                        "code": "WD2082",
                                         "pincode": [
                                             143001
                                         ],
@@ -651,7 +563,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD2020",
+                                        "code": "WD2005",
                                         "pincode": [
                                             143001
                                         ],
@@ -666,7 +578,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD2019",
+                                        "code": "WD2007",
                                         "pincode": [
                                             143001
                                         ],
@@ -676,8 +588,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdag",
                                         "boundaryNum": 1,
-                                        "name": "Lilong Epham IBO",
-                                        "localname": "Lilong Epham IBO",
+                                        "name": "Lilong Epham IDO",
+                                        "localname": "Lilong Epham IDO",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -741,7 +653,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD2007",
+                                        "code": "WD2019",
                                         "pincode": [
                                             143001
                                         ],
@@ -762,21 +674,6 @@
                                         ],
                                         "area": "AREA_A",
                                         "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fden",
-                                        "boundaryNum": 1,
-                                        "name": "Lilong Turel Ahanbi-ward 2",
-                                        "localname": "Lilong Turel Ahanbi-ward 2",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD2004",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
                                     }
                                 ]
                             },
@@ -790,36 +687,6 @@
                                 "label": "Block",
                                 "code": "WARD5",
                                 "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdez",
-                                        "boundaryNum": 1,
-                                        "name": "Haoreibi Lou Manga",
-                                        "localname": "Haoreibi Lou Manga",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD5014",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeg",
-                                        "boundaryNum": 1,
-                                        "name": "Haoreibi Turel Ahanbi",
-                                        "localname": "Haoreibi Turel Ahanbi",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD5015",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdax",
                                         "boundaryNum": 1,
@@ -838,8 +705,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fday",
                                         "boundaryNum": 1,
-                                        "name": "Lilong Haoreibi Buya Salam Mathak",
-                                        "localname": "Lilong Haoreibi Buya Salam Mathak",
+                                        "name": "Lilong Haoreibi Turel Ahanbi Buya Salam Mathak",
+                                        "localname": "Lilong Haoreibi Turel Ahanbi Buya Salam Mathak",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -853,8 +720,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaz",
                                         "boundaryNum": 1,
-                                        "name": "Lilong Haoreibi Buya Salam Makha",
-                                        "localname": "Lilong Haoreibi Buya Salam Makha",
+                                        "name": "Lilong Haoreibi Turel Ahanbi Buya Salam Makha",
+                                        "localname": "Lilong Haoreibi Turel Ahanbi Buya Salam Makha",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -868,8 +735,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdba",
                                         "boundaryNum": 1,
-                                        "name": "Lilong Haoreibi Darul Uloom Mathak",
-                                        "localname": "Lilong Haoreibi Darul Uloom Mathak",
+                                        "name": "Lilong Haoreibi Turel Ahanbi Darul Uloom Mathak",
+                                        "localname": "Lilong Haoreibi Turel Ahanbi Darul Uloom Mathak",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -883,23 +750,23 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdbb",
                                         "boundaryNum": 1,
-                                        "name": "Lilong Haoreibi Darul Uloom Makha",
-                                        "localname": "Lilong Haoreibi Darul Uloom Makha",
+                                        "name": "Lilong Haoreibi Turel Ahanbi Darul Uloom Makha",
+                                        "localname": "Lilong Haoreibi Turel Ahanbi Darul Uloom Makha",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD5032",
+                                        "code": "WD5015",
                                         "pincode": [
                                             143001
                                         ],
-                                        "area": "AREA_B",
+                                        "area": "AREA_C",
                                         "children": []
                                     },
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdbc",
                                         "boundaryNum": 1,
-                                        "name": "Lilong Haoreibi Ubakthong Mathak",
-                                        "localname": "Lilong Haoreibi Ubakthong Mathak",
+                                        "name": "Lilong Haoreibi Turel Ahanbi Ubakthong Mathak",
+                                        "localname": "Lilong Haoreibi Turel Ahanbi Ubakthong Mathak",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -958,8 +825,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdce",
                                         "boundaryNum": 1,
-                                        "name": "Lilong Haoreibi Idigha Road",
-                                        "localname": "Lilong Haoreibi Idigha Road",
+                                        "name": "Lilong Haoreibi Idighah Road",
+                                        "localname": "Lilong Haoreibi Idighah Road",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -1000,8 +867,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
                                         "boundaryNum": 1,
-                                        "name": "Hangam Thabi & Chingkham Village",
-                                        "localname": "Hangam Thabi & Chingkham Village",
+                                        "name": "Lilong Hangamthabi",
+                                        "localname": "Lilong Hangamthabi",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -1009,37 +876,7 @@
                                         "pincode": [
                                             143001
                                         ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeo",
-                                        "boundaryNum": 1,
-                                        "name": "Lilong Turel Ahanbi-ward 6",
-                                        "localname": "Lilong Turel Ahanbi-ward 6",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD6004",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdaa",
-                                        "boundaryNum": 1,
-                                        "name": "Ushoipokpi Bazar-ward 6",
-                                        "localname": "Ushoipokpi Bazar-ward 6",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD6017",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_A",
+                                        "area": "AREA_B",
                                         "children": []
                                     },
                                     {
@@ -1057,21 +894,7 @@
                                         "area": "AREA_A",
                                         "children": []
                                     },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdbd",
-                                        "boundaryNum": 1,
-                                        "name": "Lilong Hangamthabi",
-                                        "localname": "Lilong Hangamthabi",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD6034",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_B",
-                                        "children": []
-                                    },
+
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdbe",
                                         "boundaryNum": 1,
@@ -1249,66 +1072,7 @@
                                 "label": "Block",
                                 "code": "WARD7",
                                 "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdej",
-                                        "boundaryNum": 1,
-                                        "name": "Chaobok Mairenkhun",
-                                        "localname": "Chaobok Mairenkhun",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD7018",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeh",
-                                        "boundaryNum": 1,
-                                        "name": "Chaobok Village",
-                                        "localname": "Chaobok Village",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD7019",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeu",
-                                        "boundaryNum": 1,
-                                        "name": "Lilong Ipham Leikai Highway-102-ward 7",
-                                        "localname": "Lilong Ipham Leikai Highway-102-ward 7",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD7006",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_B",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdac",
-                                        "boundaryNum": 1,
-                                        "name": "Ushoipokpi Bazar-ward 7",
-                                        "localname": "Ushoipokpi Bazar-ward 7",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD7017",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_A",
-                                        "children": []
-                                    },
+
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdai",
                                         "boundaryNum": 1,
@@ -1456,21 +1220,7 @@
                                 "label": "Block",
                                 "code": "WARD8",
                                 "children": [
-                                    {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdeq",
-                                        "boundaryNum": 1,
-                                        "name": "Arapti Lamkhai",
-                                        "localname": "Arapti Lamkhai",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD8020",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_C",
-                                        "children": []
-                                    },
+
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdel",
                                         "boundaryNum": 1,
@@ -1487,21 +1237,6 @@
                                         "children": []
                                     },
                                     {
-                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdev",
-                                        "boundaryNum": 1,
-                                        "name": "Lilong Ipham Leikai Highway-102-ward 8",
-                                        "localname": "Lilong Ipham Leikai Highway-102-ward 8",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "WD8006",
-                                        "pincode": [
-                                            143001
-                                        ],
-                                        "area": "AREA_B",
-                                        "children": []
-                                    },
-                                    {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdak",
                                         "boundaryNum": 1,
                                         "name": "Lilong Heinou Makhong East",
@@ -1509,7 +1244,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD8015",
+                                        "code": "WD8032",
                                         "pincode": [
                                             143001
                                         ],
@@ -1524,7 +1259,7 @@
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
-                                        "code": "WD8016",
+                                        "code": "WD8034",
                                         "pincode": [
                                             143001
                                         ],
@@ -1534,8 +1269,8 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdcv",
                                         "boundaryNum": 1,
-                                        "name": "Lilon Khunou Salam Manung Part A",
-                                        "localname": "Lilon Khunou Salam Manung Part A",
+                                        "name": "Lilong Khunou Salam Manung Part A",
+                                        "localname": "Lilong Khunou Salam Manung Part A",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
@@ -1609,12 +1344,42 @@
                                     {
                                         "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdda",
                                         "boundaryNum": 1,
-                                        "name": "Lilong Arapti Maning Leikai Chongtham leirak",
-                                        "localname": "Lilong Arapti Maning Leikai Chongtham leirak",
+                                        "name": "Lilong Arapti Maning Leikai Chongtham Leirak",
+                                        "localname": "Lilong Arapti Maning Leikai Chongtham Leirak",
                                         "longitude": null,
                                         "latitude": null,
                                         "label": "Locality",
                                         "code": "WD8081",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_C",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fddb",
+                                        "boundaryNum": 1,
+                                        "name": "Lilong Haoreibi Sambrukhong Mathak",
+                                        "localname": "Lilong Haoreibi Sambrukhong Mathak",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD4083",
+                                        "pincode": [
+                                            143001
+                                        ],
+                                        "area": "AREA_C",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6e286d0a-d141-49b2-8d3e-35cb7251fddc",
+                                        "boundaryNum": 1,
+                                        "name": "Lilong Haoreibi Sambrukhong Mayai",
+                                        "localname": "Lilong Haoreibi Sambrukhong Mayai",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "WD4084",
                                         "pincode": [
                                             143001
                                         ],
