@@ -1649,6 +1649,22 @@
       "service": "PT.MUTATION",
       "code": "PTMUTAN2025",
       "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1774981800000,
+      "toDate": 1806431400000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2026",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1774981800000,
+      "toDate": 1806431400000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2026",
+      "financialYear": "2026-27"
     }
   ]
 }

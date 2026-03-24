@@ -2,6 +2,20 @@
   "tenantId": "mn",
   "moduleName": "egf-master",
   "FinancialYear": [
+	{
+      "id": "31",
+      "tenantId": "mn",
+      "finYearRange":  "2026-27",
+      "name":  "2026-27",
+      "code":  "2026-27",
+      "startingDate": 1774981800000,
+      "endingDate": 1806431400000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "PT"
+    },
     {
       "id": "30",
       "tenantId": "mn",
