@@ -13440,7 +13440,7 @@
             "serviceCode": "",
             "code": "",
             "path": "",
-            "navigationURL": "/digit-ui/citizen/pt-how-it-works",
+            "navigationURL": "/digit-ui/citizen/pt/pt-grievance-dashboard",
             "leftIcon": "propertyIcon",
             "cardIcon": "https://mnptapp-terraform.s3.ap-south-1.amazonaws.com/images/How-it-works2.png",
             "rightIcon": "",
