@@ -15038,7 +15038,7 @@
             "sidebar": "digit-ui-links",
             "sidebarURL": "/digit-ui/citizen/pt-home"
         },
-		 {
+		{
             "id": 2538,
             "name": "Update Password",
             "url": "/user/password/_updateEmployee",
@@ -15048,6 +15048,17 @@
             "serviceCode": "ADMIN",
             "code": "null",
             "path": "Administration.Update Password"
+        },
+		{
+            "id": 2539,
+            "name": "Application data",
+            "url": "/property-services/property/_applicationData",
+            "displayName": "Application data for employees",
+            "orderNumber": 1,
+            "enabled": false,
+            "serviceCode": "property-services",
+            "code": "null",
+            "path": ""
         }
     ]
 }
